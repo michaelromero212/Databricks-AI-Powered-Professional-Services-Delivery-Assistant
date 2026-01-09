@@ -375,6 +375,97 @@ async def upload_data_file(
         return {"success": False, "error": str(e)}
 
 
+# ----- Databricks Notebook Jobs -----
+
+from databricks_jobs import get_databricks_client
+
+@app.get("/api/notebooks")
+async def list_notebooks():
+    """List available Databricks notebooks."""
+    client = get_databricks_client()
+    return {
+        "notebooks": client.list_notebooks(),
+        "connected": client.is_connected,
+        "configured": client.is_configured
+    }
+
+
+@app.get("/api/notebooks/status")
+async def get_databricks_status():
+    """Check Databricks connection status."""
+    client = get_databricks_client()
+    return client.check_connection()
+
+
+class NotebookRunRequest(BaseModel):
+    """Request model for running a notebook."""
+    notebook_id: str
+
+
+@app.post("/api/notebooks/run")
+async def run_notebook(request: NotebookRunRequest):
+    """Trigger a Databricks notebook run."""
+    client = get_databricks_client()
+    
+    if not client.is_connected:
+        raise HTTPException(
+            status_code=503,
+            detail="Databricks not connected. Check credentials."
+        )
+    
+    result = client.run_notebook(request.notebook_id)
+    
+    if not result.get("success"):
+        raise HTTPException(status_code=400, detail=result.get("error"))
+    
+    return result
+
+
+@app.get("/api/notebooks/runs")
+async def list_notebook_runs(limit: int = Query(10, ge=1, le=50)):
+    """Get recent notebook runs."""
+    client = get_databricks_client()
+    return {"runs": client.get_recent_runs(limit=limit)}
+
+
+@app.get("/api/notebooks/runs/{run_id}")
+async def get_notebook_run_status(run_id: int):
+    """Get status of a specific notebook run."""
+    client = get_databricks_client()
+    
+    if not client.is_connected:
+        raise HTTPException(
+            status_code=503,
+            detail="Databricks not connected"
+        )
+    
+    result = client.get_run_status(run_id)
+    
+    if not result.get("success"):
+        raise HTTPException(status_code=400, detail=result.get("error"))
+    
+    return result
+
+
+@app.post("/api/notebooks/runs/{run_id}/cancel")
+async def cancel_notebook_run(run_id: int):
+    """Cancel a running notebook job."""
+    client = get_databricks_client()
+    
+    if not client.is_connected:
+        raise HTTPException(
+            status_code=503,
+            detail="Databricks not connected"
+        )
+    
+    result = client.cancel_run(run_id)
+    
+    if not result.get("success"):
+        raise HTTPException(status_code=400, detail=result.get("error"))
+    
+    return result
+
+
 # ----- Main -----
 
 if __name__ == "__main__":
