@@ -242,7 +242,7 @@ class DatabricksJobsClient:
         
         Args:
             local_path: Path to local file
-            volume_path: Path in volume (e.g., /Volumes/main/ps_assistant/data/file.json)
+            volume_path: Path in volume (e.g., /Volumes/workspace/ps_assistant/data/file.json)
             
         Returns:
             Dict with upload status
@@ -251,16 +251,51 @@ class DatabricksJobsClient:
             return {"success": False, "error": "Databricks not connected"}
         
         try:
+            import io
             with open(local_path, 'rb') as f:
                 content = f.read()
             
-            self._client.files.upload(volume_path, content, overwrite=True)
+            # SDK requires file-like object with seekable method
+            file_obj = io.BytesIO(content)
+            self._client.files.upload(volume_path, file_obj, overwrite=True)
             
             return {
                 "success": True,
                 "file": volume_path,
                 "size": len(content)
             }
+        except Exception as e:
+            return {"success": False, "error": str(e)}
+    
+    def ensure_volume_exists(self, catalog: str, schema: str, volume: str) -> Dict[str, Any]:
+        """Ensure the Unity Catalog volume exists, creating schema/volume if needed."""
+        if not self.is_connected:
+            return {"success": False, "error": "Not connected"}
+        
+        try:
+            # Try to create schema (will succeed if doesn't exist, or return existing)
+            try:
+                self._client.schemas.create(name=schema, catalog_name=catalog)
+                print(f"Created schema: {catalog}.{schema}")
+            except Exception as e:
+                if "ALREADY_EXISTS" not in str(e):
+                    print(f"Schema note: {e}")
+            
+            # Try to create volume
+            try:
+                from databricks.sdk.service.catalog import VolumeType
+                self._client.volumes.create(
+                    catalog_name=catalog,
+                    schema_name=schema,
+                    name=volume,
+                    volume_type=VolumeType.MANAGED
+                )
+                print(f"Created volume: {catalog}.{schema}.{volume}")
+            except Exception as e:
+                if "ALREADY_EXISTS" not in str(e):
+                    print(f"Volume note: {e}")
+            
+            return {"success": True}
         except Exception as e:
             return {"success": False, "error": str(e)}
     
@@ -278,7 +313,16 @@ class DatabricksJobsClient:
         
         import os as os_module
         
-        volume_base = "/Volumes/main/ps_assistant/data"
+        # Ensure volume exists
+        catalog = "workspace"
+        schema = "ps_assistant"
+        volume = "data"
+        
+        ensure_result = self.ensure_volume_exists(catalog, schema, volume)
+        if not ensure_result.get("success"):
+            print(f"Volume setup warning: {ensure_result.get('error')}")
+        
+        volume_base = f"/Volumes/{catalog}/{schema}/{volume}"
         files_to_sync = [
             "engagements.json",
             "tasks.json", 
@@ -298,6 +342,7 @@ class DatabricksJobsClient:
                     "success": result.get("success", False),
                     "error": result.get("error")
                 })
+                print(f"Upload {filename}: {'OK' if result.get('success') else result.get('error')}")
             else:
                 results.append({
                     "file": filename,

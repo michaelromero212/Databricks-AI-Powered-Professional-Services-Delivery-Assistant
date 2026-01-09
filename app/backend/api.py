@@ -477,7 +477,7 @@ async def sync_data_to_databricks():
             detail="Databricks not connected. Check credentials."
         )
     
-    data_dir = DATA_DIR
+    data_dir = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "data", "generated")
     result = client.sync_data_to_volumes(data_dir)
     
     return result
