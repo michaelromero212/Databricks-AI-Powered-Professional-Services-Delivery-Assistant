@@ -236,6 +236,83 @@ class DatabricksJobsClient:
             return {"success": True, "run_id": run_id, "status": "CANCELLED"}
         except Exception as e:
             return {"success": False, "error": str(e)}
+    
+    def upload_to_volume(self, local_path: str, volume_path: str) -> Dict[str, Any]:
+        """Upload a file to Unity Catalog Volume.
+        
+        Args:
+            local_path: Path to local file
+            volume_path: Path in volume (e.g., /Volumes/main/ps_assistant/data/file.json)
+            
+        Returns:
+            Dict with upload status
+        """
+        if not self.is_connected:
+            return {"success": False, "error": "Databricks not connected"}
+        
+        try:
+            with open(local_path, 'rb') as f:
+                content = f.read()
+            
+            self._client.files.upload(volume_path, content, overwrite=True)
+            
+            return {
+                "success": True,
+                "file": volume_path,
+                "size": len(content)
+            }
+        except Exception as e:
+            return {"success": False, "error": str(e)}
+    
+    def sync_data_to_volumes(self, data_dir: str) -> Dict[str, Any]:
+        """Sync local data files to Unity Catalog Volumes.
+        
+        Args:
+            data_dir: Path to local data directory
+            
+        Returns:
+            Dict with sync results
+        """
+        if not self.is_connected:
+            return {"success": False, "error": "Databricks not connected"}
+        
+        import os as os_module
+        
+        volume_base = "/Volumes/main/ps_assistant/data"
+        files_to_sync = [
+            "engagements.json",
+            "tasks.json", 
+            "delivery_notes.json",
+            "notebook_usage.json",
+            "ai_metrics.json"
+        ]
+        
+        results = []
+        for filename in files_to_sync:
+            local_path = os_module.path.join(data_dir, filename)
+            if os_module.path.exists(local_path):
+                volume_path = f"{volume_base}/{filename}"
+                result = self.upload_to_volume(local_path, volume_path)
+                results.append({
+                    "file": filename,
+                    "success": result.get("success", False),
+                    "error": result.get("error")
+                })
+            else:
+                results.append({
+                    "file": filename,
+                    "success": False,
+                    "error": "File not found locally"
+                })
+        
+        success_count = sum(1 for r in results if r["success"])
+        
+        return {
+            "success": success_count == len(files_to_sync),
+            "synced": success_count,
+            "total": len(files_to_sync),
+            "details": results
+        }
 
 
 # Singleton instance

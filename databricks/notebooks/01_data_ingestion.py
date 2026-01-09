@@ -2,7 +2,9 @@
 # MAGIC %md
 # MAGIC # 01 - Data Ingestion
 # MAGIC 
-# MAGIC This notebook ingests mock Professional Services engagement data into Delta tables.
+# MAGIC This notebook ingests Professional Services engagement data into Delta tables.
+# MAGIC 
+# MAGIC **Data Source:** Unity Catalog Volume at `/Volumes/main/ps_assistant/data/`
 # MAGIC 
 # MAGIC **Tables Created:**
 # MAGIC - `ps_engagements` - Customer engagement records
@@ -23,20 +25,32 @@ from pyspark.sql import SparkSession
 from pyspark.sql.types import *
 from datetime import datetime
 
-# Database configuration
-DATABASE_NAME = "ps_delivery_assistant"
-DATA_PATH = "/FileStore/ps_assistant/data"
+# Unity Catalog configuration
+CATALOG_NAME = "main"
+SCHEMA_NAME = "ps_assistant"
+VOLUME_NAME = "data"
+VOLUME_PATH = f"/Volumes/{CATALOG_NAME}/{SCHEMA_NAME}/{VOLUME_NAME}"
 
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ## Create Database
+# MAGIC ## Create Schema (if needed)
 
 # COMMAND ----------
 
-spark.sql(f"CREATE DATABASE IF NOT EXISTS {DATABASE_NAME}")
-spark.sql(f"USE {DATABASE_NAME}")
-print(f"Using database: {DATABASE_NAME}")
+spark.sql(f"CREATE CATALOG IF NOT EXISTS {CATALOG_NAME}")
+spark.sql(f"CREATE SCHEMA IF NOT EXISTS {CATALOG_NAME}.{SCHEMA_NAME}")
+spark.sql(f"USE CATALOG {CATALOG_NAME}")
+spark.sql(f"USE SCHEMA {SCHEMA_NAME}")
+print(f"Using: {CATALOG_NAME}.{SCHEMA_NAME}")
+
+# COMMAND ----------
+
+# Create volume if it doesn't exist
+spark.sql(f"""
+    CREATE VOLUME IF NOT EXISTS {CATALOG_NAME}.{SCHEMA_NAME}.{VOLUME_NAME}
+""")
+print(f"Volume ready: {VOLUME_PATH}")
 
 # COMMAND ----------
 
@@ -116,27 +130,28 @@ metrics_schema = StructType([
 
 # MAGIC %md
 # MAGIC ## Load and Write Data
-# MAGIC 
-# MAGIC **Note:** Upload the generated JSON files from `data/generated/` to DBFS at `/FileStore/ps_assistant/data/`
 
 # COMMAND ----------
 
-def load_and_write_delta(json_path: str, table_name: str, schema: StructType):
-    """Load JSON data and write to Delta table."""
+def load_and_write_delta(json_filename: str, table_name: str, schema: StructType):
+    """Load JSON data from Volume and write to Delta table."""
+    file_path = f"{VOLUME_PATH}/{json_filename}"
+    
     try:
-        df = spark.read.schema(schema).json(f"{DATA_PATH}/{json_path}")
+        df = spark.read.schema(schema).json(file_path)
         
-        # Write to Delta table
+        # Write to Delta table in Unity Catalog
         df.write \
             .format("delta") \
             .mode("overwrite") \
-            .saveAsTable(f"{DATABASE_NAME}.{table_name}")
+            .saveAsTable(f"{CATALOG_NAME}.{SCHEMA_NAME}.{table_name}")
         
         record_count = df.count()
-        print(f"✅ {table_name}: {record_count} records written to Delta")
+        print(f"✅ {table_name}: {record_count} records written")
         return df
     except Exception as e:
         print(f"❌ Error loading {table_name}: {str(e)}")
+        print(f"   Expected file at: {file_path}")
         return None
 
 # COMMAND ----------
@@ -156,7 +171,7 @@ metrics_df = load_and_write_delta("ai_metrics.json", "ps_ai_metrics", metrics_sc
 # COMMAND ----------
 
 # MAGIC %sql
-# MAGIC SHOW TABLES IN ps_delivery_assistant
+# MAGIC SHOW TABLES
 
 # COMMAND ----------
 
@@ -167,22 +182,17 @@ if engagements_df:
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ## Summary Statistics
+# MAGIC ## Summary
 
 # COMMAND ----------
 
 # MAGIC %sql
-# MAGIC SELECT 
-# MAGIC   'Engagements' as table_name, COUNT(*) as record_count FROM ps_delivery_assistant.ps_engagements
+# MAGIC SELECT 'Engagements' as table_name, COUNT(*) as records FROM ps_engagements
 # MAGIC UNION ALL
-# MAGIC SELECT 
-# MAGIC   'Tasks' as table_name, COUNT(*) as record_count FROM ps_delivery_assistant.ps_tasks
+# MAGIC SELECT 'Tasks', COUNT(*) FROM ps_tasks
 # MAGIC UNION ALL
-# MAGIC SELECT 
-# MAGIC   'Delivery Notes' as table_name, COUNT(*) as record_count FROM ps_delivery_assistant.ps_delivery_notes
+# MAGIC SELECT 'Delivery Notes', COUNT(*) FROM ps_delivery_notes
 # MAGIC UNION ALL
-# MAGIC SELECT 
-# MAGIC   'Notebook Usage' as table_name, COUNT(*) as record_count FROM ps_delivery_assistant.ps_notebook_usage
+# MAGIC SELECT 'Notebook Usage', COUNT(*) FROM ps_notebook_usage
 # MAGIC UNION ALL
-# MAGIC SELECT 
-# MAGIC   'AI Metrics' as table_name, COUNT(*) as record_count FROM ps_delivery_assistant.ps_ai_metrics
+# MAGIC SELECT 'AI Metrics', COUNT(*) FROM ps_ai_metrics

@@ -69,6 +69,28 @@ function Settings() {
         }
     }
 
+    const [syncing, setSyncing] = useState(false)
+
+    const syncToDataricks = async () => {
+        setSyncing(true)
+        setMessage(null)
+        try {
+            const response = await fetch('/api/notebooks/sync', { method: 'POST' })
+            const result = await response.json()
+            if (response.ok && result.success) {
+                setMessage({ type: 'success', text: `Synced ${result.synced}/${result.total} files to Databricks` })
+            } else if (response.ok) {
+                setMessage({ type: 'warning', text: `Partial sync: ${result.synced}/${result.total} files` })
+            } else {
+                setMessage({ type: 'error', text: result.detail || 'Sync failed' })
+            }
+        } catch (err) {
+            setMessage({ type: 'error', text: 'Error: ' + err.message })
+        } finally {
+            setSyncing(false)
+        }
+    }
+
     const pollRunStatus = async (runId) => {
         try {
             const response = await fetch(`/api/notebooks/runs/${runId}`)
@@ -280,14 +302,23 @@ function Settings() {
             <div className="card" style={{ marginBottom: 'var(--spacing-lg)' }}>
                 <div className="card-header">
                     <h3 className="card-title">Databricks Notebooks</h3>
-                    <a
-                        href="https://dbc-3a8386b7-5ab6.cloud.databricks.com"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="btn btn-secondary"
-                    >
-                        Open Workspace →
-                    </a>
+                    <div style={{ display: 'flex', gap: 'var(--spacing-sm)' }}>
+                        <button
+                            className="btn btn-primary"
+                            onClick={syncToDataricks}
+                            disabled={!databricksStatus?.connected || syncing}
+                        >
+                            {syncing ? '⏳ Syncing...' : '☁️ Sync Data to Databricks'}
+                        </button>
+                        <a
+                            href="https://dbc-3a8386b7-5ab6.cloud.databricks.com"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="btn btn-secondary"
+                        >
+                            Open Workspace →
+                        </a>
+                    </div>
                 </div>
 
                 {!databricksStatus?.connected && (

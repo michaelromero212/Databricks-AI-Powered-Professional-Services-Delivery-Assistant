@@ -466,6 +466,23 @@ async def cancel_notebook_run(run_id: int):
     return result
 
 
+@app.post("/api/notebooks/sync")
+async def sync_data_to_databricks():
+    """Sync local data files to Databricks Unity Catalog Volumes."""
+    client = get_databricks_client()
+    
+    if not client.is_connected:
+        raise HTTPException(
+            status_code=503,
+            detail="Databricks not connected. Check credentials."
+        )
+    
+    data_dir = DATA_DIR
+    result = client.sync_data_to_volumes(data_dir)
+    
+    return result
+
+
 # ----- Main -----
 
 if __name__ == "__main__":
