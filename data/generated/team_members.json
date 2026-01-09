@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ps001",
+    "name": "Sarah Chen",
+    "role": "Senior Solutions Architect"
+  },
+  {
+    "id": "ps002",
+    "name": "Marcus Johnson",
+    "role": "Lead Data Engineer"
+  },
+  {
+    "id": "ps003",
+    "name": "Emily Rodriguez",
+    "role": "ML Engineer"
+  },
+  {
+    "id": "ps004",
+    "name": "David Kim",
+    "role": "Solutions Architect"
+  },
+  {
+    "id": "ps005",
+    "name": "Rachel Thompson",
+    "role": "Delivery Manager"
+  },
+  {
+    "id": "ps006",
+    "name": "James Wilson",
+    "role": "Data Engineer"
+  },
+  {
+    "id": "ps007",
+    "name": "Priya Patel",
+    "role": "Senior Data Engineer"
+  },
+  {
+    "id": "ps008",
+    "name": "Michael Brown",
+    "role": "Solutions Architect"
+  }
+]

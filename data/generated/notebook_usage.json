@@ -1,0 +1,6887 @@
+[
+  {
+    "usage_id": "50e6b376",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-12",
+    "execution_count": 2,
+    "compute_hours": 0.88
+  },
+  {
+    "usage_id": "ba566a49",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-12",
+    "execution_count": 7,
+    "compute_hours": 2.27
+  },
+  {
+    "usage_id": "d89c8eaf",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-12",
+    "execution_count": 1,
+    "compute_hours": 0.57
+  },
+  {
+    "usage_id": "36224c08",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-12",
+    "execution_count": 4,
+    "compute_hours": 0.7
+  },
+  {
+    "usage_id": "ad88f7f1",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-13",
+    "execution_count": 9,
+    "compute_hours": 2.19
+  },
+  {
+    "usage_id": "b6f1e704",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-13",
+    "execution_count": 1,
+    "compute_hours": 0.66
+  },
+  {
+    "usage_id": "35c498a3",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-14",
+    "execution_count": 6,
+    "compute_hours": 1.51
+  },
+  {
+    "usage_id": "b469b210",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-14",
+    "execution_count": 4,
+    "compute_hours": 0.81
+  },
+  {
+    "usage_id": "be5a96c8",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-14",
+    "execution_count": 5,
+    "compute_hours": 1.77
+  },
+  {
+    "usage_id": "618e7ce8",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-14",
+    "execution_count": 1,
+    "compute_hours": 1.08
+  },
+  {
+    "usage_id": "4a956bc6",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-16",
+    "execution_count": 2,
+    "compute_hours": 1.36
+  },
+  {
+    "usage_id": "02ac6759",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-16",
+    "execution_count": 9,
+    "compute_hours": 2.17
+  },
+  {
+    "usage_id": "93519d14",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-16",
+    "execution_count": 6,
+    "compute_hours": 1.4
+  },
+  {
+    "usage_id": "b693a726",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-16",
+    "execution_count": 8,
+    "compute_hours": 2.14
+  },
+  {
+    "usage_id": "fc72cb23",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-18",
+    "execution_count": 4,
+    "compute_hours": 2.47
+  },
+  {
+    "usage_id": "8e4652f7",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-18",
+    "execution_count": 5,
+    "compute_hours": 0.99
+  },
+  {
+    "usage_id": "b1de53e0",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-18",
+    "execution_count": 7,
+    "compute_hours": 0.73
+  },
+  {
+    "usage_id": "4c8b328c",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-19",
+    "execution_count": 7,
+    "compute_hours": 2.15
+  },
+  {
+    "usage_id": "696663a3",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-19",
+    "execution_count": 3,
+    "compute_hours": 1.99
+  },
+  {
+    "usage_id": "38621ee7",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-20",
+    "execution_count": 9,
+    "compute_hours": 2.05
+  },
+  {
+    "usage_id": "bcc30581",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-20",
+    "execution_count": 8,
+    "compute_hours": 1.57
+  },
+  {
+    "usage_id": "723aef7e",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-21",
+    "execution_count": 8,
+    "compute_hours": 1.04
+  },
+  {
+    "usage_id": "bf7d1bb0",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-21",
+    "execution_count": 10,
+    "compute_hours": 1.19
+  },
+  {
+    "usage_id": "86008775",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-21",
+    "execution_count": 3,
+    "compute_hours": 1.09
+  },
+  {
+    "usage_id": "749cea78",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-22",
+    "execution_count": 1,
+    "compute_hours": 0.55
+  },
+  {
+    "usage_id": "e68827f9",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-22",
+    "execution_count": 4,
+    "compute_hours": 1.09
+  },
+  {
+    "usage_id": "776272a6",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-23",
+    "execution_count": 1,
+    "compute_hours": 1.05
+  },
+  {
+    "usage_id": "3a29acdc",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-24",
+    "execution_count": 3,
+    "compute_hours": 2.22
+  },
+  {
+    "usage_id": "5cc7a698",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-24",
+    "execution_count": 3,
+    "compute_hours": 0.7
+  },
+  {
+    "usage_id": "a9c2168f",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-24",
+    "execution_count": 8,
+    "compute_hours": 0.37
+  },
+  {
+    "usage_id": "b19c6128",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-27",
+    "execution_count": 6,
+    "compute_hours": 2.22
+  },
+  {
+    "usage_id": "f14f20e1",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-27",
+    "execution_count": 7,
+    "compute_hours": 1.27
+  },
+  {
+    "usage_id": "8f0c5403",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-28",
+    "execution_count": 10,
+    "compute_hours": 0.15
+  },
+  {
+    "usage_id": "0fd7d024",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-28",
+    "execution_count": 7,
+    "compute_hours": 1.36
+  },
+  {
+    "usage_id": "91421bc6",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-29",
+    "execution_count": 9,
+    "compute_hours": 1.5
+  },
+  {
+    "usage_id": "9e83813f",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-29",
+    "execution_count": 8,
+    "compute_hours": 0.28
+  },
+  {
+    "usage_id": "39350e29",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-29",
+    "execution_count": 9,
+    "compute_hours": 2.44
+  },
+  {
+    "usage_id": "05993ca6",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-30",
+    "execution_count": 3,
+    "compute_hours": 0.24
+  },
+  {
+    "usage_id": "ac4225c2",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-30",
+    "execution_count": 7,
+    "compute_hours": 0.43
+  },
+  {
+    "usage_id": "a6a7cd21",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-30",
+    "execution_count": 6,
+    "compute_hours": 0.7
+  },
+  {
+    "usage_id": "34b892e4",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-01",
+    "execution_count": 7,
+    "compute_hours": 1.8
+  },
+  {
+    "usage_id": "b3304ea5",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-01",
+    "execution_count": 3,
+    "compute_hours": 2.39
+  },
+  {
+    "usage_id": "c338d779",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-01",
+    "execution_count": 8,
+    "compute_hours": 0.71
+  },
+  {
+    "usage_id": "22d126c5",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-01",
+    "execution_count": 9,
+    "compute_hours": 1.9
+  },
+  {
+    "usage_id": "d57826ea",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-02",
+    "execution_count": 6,
+    "compute_hours": 1.36
+  },
+  {
+    "usage_id": "f3c93ef3",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-02",
+    "execution_count": 2,
+    "compute_hours": 2.08
+  },
+  {
+    "usage_id": "786e161a",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-03",
+    "execution_count": 6,
+    "compute_hours": 0.59
+  },
+  {
+    "usage_id": "be69f7b7",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-03",
+    "execution_count": 3,
+    "compute_hours": 1.18
+  },
+  {
+    "usage_id": "81a10e21",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-03",
+    "execution_count": 7,
+    "compute_hours": 2.12
+  },
+  {
+    "usage_id": "f24307e0",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-04",
+    "execution_count": 1,
+    "compute_hours": 2.12
+  },
+  {
+    "usage_id": "e6f8858a",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-04",
+    "execution_count": 8,
+    "compute_hours": 0.77
+  },
+  {
+    "usage_id": "1e812d59",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-04",
+    "execution_count": 9,
+    "compute_hours": 1.5
+  },
+  {
+    "usage_id": "115c396f",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-05",
+    "execution_count": 1,
+    "compute_hours": 0.23
+  },
+  {
+    "usage_id": "b99b524b",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-05",
+    "execution_count": 1,
+    "compute_hours": 0.19
+  },
+  {
+    "usage_id": "8bb7c783",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-05",
+    "execution_count": 1,
+    "compute_hours": 0.64
+  },
+  {
+    "usage_id": "fc63658f",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-05",
+    "execution_count": 2,
+    "compute_hours": 1.63
+  },
+  {
+    "usage_id": "faf7e8bb",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-06",
+    "execution_count": 10,
+    "compute_hours": 1.99
+  },
+  {
+    "usage_id": "acecad11",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-06",
+    "execution_count": 7,
+    "compute_hours": 0.36
+  },
+  {
+    "usage_id": "1a5bf7df",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-07",
+    "execution_count": 7,
+    "compute_hours": 1.74
+  },
+  {
+    "usage_id": "8d2560d8",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-07",
+    "execution_count": 4,
+    "compute_hours": 2.25
+  },
+  {
+    "usage_id": "b12825ed",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-08",
+    "execution_count": 8,
+    "compute_hours": 0.59
+  },
+  {
+    "usage_id": "b318d2cd",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-08",
+    "execution_count": 9,
+    "compute_hours": 1.69
+  },
+  {
+    "usage_id": "ff2d56fe",
+    "engagement_id": "ENG-2024-2447",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-08",
+    "execution_count": 9,
+    "compute_hours": 1.38
+  },
+  {
+    "usage_id": "ff2cb2d1",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-12",
+    "execution_count": 5,
+    "compute_hours": 2.04
+  },
+  {
+    "usage_id": "ddc6bf25",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-12",
+    "execution_count": 1,
+    "compute_hours": 0.32
+  },
+  {
+    "usage_id": "09c67975",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-14",
+    "execution_count": 5,
+    "compute_hours": 0.25
+  },
+  {
+    "usage_id": "fbf969aa",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-14",
+    "execution_count": 10,
+    "compute_hours": 1.53
+  },
+  {
+    "usage_id": "58407896",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-14",
+    "execution_count": 9,
+    "compute_hours": 2.38
+  },
+  {
+    "usage_id": "99f7673d",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-14",
+    "execution_count": 3,
+    "compute_hours": 1.43
+  },
+  {
+    "usage_id": "7c7251d9",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-15",
+    "execution_count": 1,
+    "compute_hours": 1.17
+  },
+  {
+    "usage_id": "10acb20e",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-16",
+    "execution_count": 10,
+    "compute_hours": 0.89
+  },
+  {
+    "usage_id": "71834b52",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-18",
+    "execution_count": 4,
+    "compute_hours": 0.58
+  },
+  {
+    "usage_id": "6406e0cb",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-18",
+    "execution_count": 7,
+    "compute_hours": 0.69
+  },
+  {
+    "usage_id": "adb284d3",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-18",
+    "execution_count": 1,
+    "compute_hours": 1.82
+  },
+  {
+    "usage_id": "a02656b7",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-18",
+    "execution_count": 6,
+    "compute_hours": 2.44
+  },
+  {
+    "usage_id": "eb1c0339",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-22",
+    "execution_count": 5,
+    "compute_hours": 1.02
+  },
+  {
+    "usage_id": "e9b448ba",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-22",
+    "execution_count": 7,
+    "compute_hours": 1.18
+  },
+  {
+    "usage_id": "11fa3251",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-22",
+    "execution_count": 8,
+    "compute_hours": 1.62
+  },
+  {
+    "usage_id": "2caf4f8d",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-24",
+    "execution_count": 9,
+    "compute_hours": 0.83
+  },
+  {
+    "usage_id": "89340999",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-24",
+    "execution_count": 10,
+    "compute_hours": 0.6
+  },
+  {
+    "usage_id": "15297399",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-24",
+    "execution_count": 2,
+    "compute_hours": 0.47
+  },
+  {
+    "usage_id": "63efad8b",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-26",
+    "execution_count": 1,
+    "compute_hours": 0.34
+  },
+  {
+    "usage_id": "fb39a262",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-26",
+    "execution_count": 4,
+    "compute_hours": 2.39
+  },
+  {
+    "usage_id": "ebd72831",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-26",
+    "execution_count": 5,
+    "compute_hours": 1.43
+  },
+  {
+    "usage_id": "0ff98cec",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-26",
+    "execution_count": 9,
+    "compute_hours": 2.28
+  },
+  {
+    "usage_id": "6de93774",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-28",
+    "execution_count": 2,
+    "compute_hours": 1.78
+  },
+  {
+    "usage_id": "b98f7581",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-31",
+    "execution_count": 4,
+    "compute_hours": 1.58
+  },
+  {
+    "usage_id": "58e63c81",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-31",
+    "execution_count": 6,
+    "compute_hours": 0.35
+  },
+  {
+    "usage_id": "3835439b",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-31",
+    "execution_count": 3,
+    "compute_hours": 0.78
+  },
+  {
+    "usage_id": "9539ce34",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-01",
+    "execution_count": 8,
+    "compute_hours": 0.3
+  },
+  {
+    "usage_id": "84b51f35",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-02",
+    "execution_count": 9,
+    "compute_hours": 0.51
+  },
+  {
+    "usage_id": "7c5d0041",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-02",
+    "execution_count": 4,
+    "compute_hours": 1.35
+  },
+  {
+    "usage_id": "ef51af27",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-02",
+    "execution_count": 5,
+    "compute_hours": 1.08
+  },
+  {
+    "usage_id": "ffab15a8",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-03",
+    "execution_count": 4,
+    "compute_hours": 1.51
+  },
+  {
+    "usage_id": "10a064ad",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-03",
+    "execution_count": 6,
+    "compute_hours": 1.45
+  },
+  {
+    "usage_id": "6300f168",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-05",
+    "execution_count": 10,
+    "compute_hours": 0.94
+  },
+  {
+    "usage_id": "35ee0348",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-05",
+    "execution_count": 10,
+    "compute_hours": 0.53
+  },
+  {
+    "usage_id": "24847ab3",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-06",
+    "execution_count": 3,
+    "compute_hours": 2.31
+  },
+  {
+    "usage_id": "6fe075e7",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-06",
+    "execution_count": 2,
+    "compute_hours": 2.49
+  },
+  {
+    "usage_id": "0e7a2e72",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-07",
+    "execution_count": 2,
+    "compute_hours": 1.47
+  },
+  {
+    "usage_id": "876f6176",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-07",
+    "execution_count": 5,
+    "compute_hours": 2.04
+  },
+  {
+    "usage_id": "7dfb1cc7",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-07",
+    "execution_count": 5,
+    "compute_hours": 1.0
+  },
+  {
+    "usage_id": "eac13764",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-07",
+    "execution_count": 1,
+    "compute_hours": 0.6
+  },
+  {
+    "usage_id": "32142fe7",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-08",
+    "execution_count": 9,
+    "compute_hours": 0.8
+  },
+  {
+    "usage_id": "bb6be01d",
+    "engagement_id": "ENG-2025-3466",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-08",
+    "execution_count": 6,
+    "compute_hours": 0.71
+  },
+  {
+    "usage_id": "e3093b8e",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-10",
+    "execution_count": 6,
+    "compute_hours": 1.57
+  },
+  {
+    "usage_id": "afab69d2",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-10",
+    "execution_count": 6,
+    "compute_hours": 2.35
+  },
+  {
+    "usage_id": "ab1bb150",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-10",
+    "execution_count": 9,
+    "compute_hours": 1.92
+  },
+  {
+    "usage_id": "c25c8e74",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-13",
+    "execution_count": 9,
+    "compute_hours": 2.12
+  },
+  {
+    "usage_id": "deedb35e",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-13",
+    "execution_count": 4,
+    "compute_hours": 1.0
+  },
+  {
+    "usage_id": "2a77ca8c",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-13",
+    "execution_count": 9,
+    "compute_hours": 2.13
+  },
+  {
+    "usage_id": "b2c44c15",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-13",
+    "execution_count": 8,
+    "compute_hours": 0.13
+  },
+  {
+    "usage_id": "e59d892f",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-14",
+    "execution_count": 8,
+    "compute_hours": 1.55
+  },
+  {
+    "usage_id": "a051d668",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-14",
+    "execution_count": 4,
+    "compute_hours": 1.26
+  },
+  {
+    "usage_id": "ff962eb9",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-14",
+    "execution_count": 8,
+    "compute_hours": 1.12
+  },
+  {
+    "usage_id": "f50a99f1",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-14",
+    "execution_count": 3,
+    "compute_hours": 1.04
+  },
+  {
+    "usage_id": "7582a662",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-15",
+    "execution_count": 3,
+    "compute_hours": 0.44
+  },
+  {
+    "usage_id": "3cf336ed",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-15",
+    "execution_count": 3,
+    "compute_hours": 1.35
+  },
+  {
+    "usage_id": "691cb4f4",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-15",
+    "execution_count": 4,
+    "compute_hours": 1.4
+  },
+  {
+    "usage_id": "0c80adc3",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-17",
+    "execution_count": 5,
+    "compute_hours": 2.2
+  },
+  {
+    "usage_id": "48ea7eee",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-17",
+    "execution_count": 7,
+    "compute_hours": 1.22
+  },
+  {
+    "usage_id": "6d249674",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-18",
+    "execution_count": 4,
+    "compute_hours": 2.37
+  },
+  {
+    "usage_id": "11b9ede4",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-19",
+    "execution_count": 10,
+    "compute_hours": 0.87
+  },
+  {
+    "usage_id": "222187f6",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-19",
+    "execution_count": 2,
+    "compute_hours": 2.43
+  },
+  {
+    "usage_id": "c037e3dd",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-20",
+    "execution_count": 6,
+    "compute_hours": 1.23
+  },
+  {
+    "usage_id": "bf863158",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-20",
+    "execution_count": 3,
+    "compute_hours": 1.84
+  },
+  {
+    "usage_id": "717e6fc2",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-21",
+    "execution_count": 8,
+    "compute_hours": 0.97
+  },
+  {
+    "usage_id": "9c4a97f3",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-23",
+    "execution_count": 7,
+    "compute_hours": 0.12
+  },
+  {
+    "usage_id": "9537a01d",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-23",
+    "execution_count": 2,
+    "compute_hours": 0.21
+  },
+  {
+    "usage_id": "9f986ad9",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-23",
+    "execution_count": 3,
+    "compute_hours": 1.93
+  },
+  {
+    "usage_id": "aee309c2",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-25",
+    "execution_count": 1,
+    "compute_hours": 0.94
+  },
+  {
+    "usage_id": "7d84cf00",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-25",
+    "execution_count": 2,
+    "compute_hours": 1.62
+  },
+  {
+    "usage_id": "e1f591ad",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-27",
+    "execution_count": 2,
+    "compute_hours": 1.49
+  },
+  {
+    "usage_id": "422a320b",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-27",
+    "execution_count": 7,
+    "compute_hours": 0.17
+  },
+  {
+    "usage_id": "93841a6e",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-27",
+    "execution_count": 6,
+    "compute_hours": 1.52
+  },
+  {
+    "usage_id": "833cba59",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-27",
+    "execution_count": 9,
+    "compute_hours": 0.67
+  },
+  {
+    "usage_id": "5175afec",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-28",
+    "execution_count": 10,
+    "compute_hours": 1.26
+  },
+  {
+    "usage_id": "df5472ec",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-29",
+    "execution_count": 7,
+    "compute_hours": 0.17
+  },
+  {
+    "usage_id": "94fcd448",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-29",
+    "execution_count": 1,
+    "compute_hours": 1.71
+  },
+  {
+    "usage_id": "b5b2662f",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-29",
+    "execution_count": 9,
+    "compute_hours": 0.74
+  },
+  {
+    "usage_id": "728f9940",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-30",
+    "execution_count": 6,
+    "compute_hours": 0.12
+  },
+  {
+    "usage_id": "17aae3d8",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-30",
+    "execution_count": 10,
+    "compute_hours": 0.61
+  },
+  {
+    "usage_id": "e52fdd30",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-30",
+    "execution_count": 5,
+    "compute_hours": 2.45
+  },
+  {
+    "usage_id": "160f3641",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-30",
+    "execution_count": 9,
+    "compute_hours": 0.37
+  },
+  {
+    "usage_id": "6c6ec30b",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-31",
+    "execution_count": 4,
+    "compute_hours": 0.29
+  },
+  {
+    "usage_id": "6f24ebc0",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-31",
+    "execution_count": 4,
+    "compute_hours": 0.51
+  },
+  {
+    "usage_id": "60adb1e0",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-31",
+    "execution_count": 10,
+    "compute_hours": 0.41
+  },
+  {
+    "usage_id": "91e692db",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-31",
+    "execution_count": 10,
+    "compute_hours": 2.39
+  },
+  {
+    "usage_id": "049ecf84",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-01",
+    "execution_count": 6,
+    "compute_hours": 1.91
+  },
+  {
+    "usage_id": "bd569ea6",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-01",
+    "execution_count": 8,
+    "compute_hours": 1.93
+  },
+  {
+    "usage_id": "2124fc10",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-01",
+    "execution_count": 6,
+    "compute_hours": 0.6
+  },
+  {
+    "usage_id": "053edd90",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-01",
+    "execution_count": 7,
+    "compute_hours": 0.64
+  },
+  {
+    "usage_id": "ef9fb2d6",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-02",
+    "execution_count": 7,
+    "compute_hours": 1.28
+  },
+  {
+    "usage_id": "4f237a6b",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-02",
+    "execution_count": 9,
+    "compute_hours": 0.45
+  },
+  {
+    "usage_id": "fe03a0e7",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-07",
+    "execution_count": 2,
+    "compute_hours": 2.07
+  },
+  {
+    "usage_id": "4d13dd38",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-07",
+    "execution_count": 6,
+    "compute_hours": 2.08
+  },
+  {
+    "usage_id": "e231fce3",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-07",
+    "execution_count": 2,
+    "compute_hours": 2.01
+  },
+  {
+    "usage_id": "c3777ef6",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-07",
+    "execution_count": 9,
+    "compute_hours": 1.04
+  },
+  {
+    "usage_id": "ae6afb8e",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-08",
+    "execution_count": 10,
+    "compute_hours": 2.2
+  },
+  {
+    "usage_id": "bcb828b2",
+    "engagement_id": "ENG-2024-5732",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-08",
+    "execution_count": 10,
+    "compute_hours": 0.61
+  },
+  {
+    "usage_id": "79641790",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-10",
+    "execution_count": 4,
+    "compute_hours": 1.52
+  },
+  {
+    "usage_id": "14499386",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-12",
+    "execution_count": 2,
+    "compute_hours": 1.43
+  },
+  {
+    "usage_id": "11f91dfe",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-13",
+    "execution_count": 9,
+    "compute_hours": 0.72
+  },
+  {
+    "usage_id": "f2c18277",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-14",
+    "execution_count": 3,
+    "compute_hours": 0.83
+  },
+  {
+    "usage_id": "a7c2a5f7",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-14",
+    "execution_count": 1,
+    "compute_hours": 2.08
+  },
+  {
+    "usage_id": "2ab70cf4",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-15",
+    "execution_count": 9,
+    "compute_hours": 1.06
+  },
+  {
+    "usage_id": "13d4623b",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-15",
+    "execution_count": 8,
+    "compute_hours": 0.75
+  },
+  {
+    "usage_id": "22b9200e",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-16",
+    "execution_count": 9,
+    "compute_hours": 1.33
+  },
+  {
+    "usage_id": "579d8385",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-19",
+    "execution_count": 5,
+    "compute_hours": 2.39
+  },
+  {
+    "usage_id": "850cabf3",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-19",
+    "execution_count": 3,
+    "compute_hours": 0.34
+  },
+  {
+    "usage_id": "40545f90",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-20",
+    "execution_count": 5,
+    "compute_hours": 2.09
+  },
+  {
+    "usage_id": "cce782f5",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-20",
+    "execution_count": 2,
+    "compute_hours": 2.45
+  },
+  {
+    "usage_id": "fcf2d8f1",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-21",
+    "execution_count": 8,
+    "compute_hours": 0.61
+  },
+  {
+    "usage_id": "85d2db28",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-23",
+    "execution_count": 2,
+    "compute_hours": 0.8
+  },
+  {
+    "usage_id": "f0876bfa",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-25",
+    "execution_count": 9,
+    "compute_hours": 0.72
+  },
+  {
+    "usage_id": "9ec52c2b",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-26",
+    "execution_count": 10,
+    "compute_hours": 2.32
+  },
+  {
+    "usage_id": "8165cb11",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-26",
+    "execution_count": 3,
+    "compute_hours": 1.62
+  },
+  {
+    "usage_id": "c03b99ca",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-26",
+    "execution_count": 2,
+    "compute_hours": 0.36
+  },
+  {
+    "usage_id": "dd28687d",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-27",
+    "execution_count": 6,
+    "compute_hours": 2.1
+  },
+  {
+    "usage_id": "694fab73",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-28",
+    "execution_count": 4,
+    "compute_hours": 2.37
+  },
+  {
+    "usage_id": "589ec8b9",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-28",
+    "execution_count": 5,
+    "compute_hours": 2.33
+  },
+  {
+    "usage_id": "90a48bfb",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-28",
+    "execution_count": 3,
+    "compute_hours": 0.95
+  },
+  {
+    "usage_id": "46672d11",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-29",
+    "execution_count": 10,
+    "compute_hours": 1.23
+  },
+  {
+    "usage_id": "3d25c14d",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-29",
+    "execution_count": 2,
+    "compute_hours": 2.33
+  },
+  {
+    "usage_id": "c8d4591b",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-30",
+    "execution_count": 4,
+    "compute_hours": 2.07
+  },
+  {
+    "usage_id": "4fd8a1a3",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-30",
+    "execution_count": 1,
+    "compute_hours": 1.52
+  },
+  {
+    "usage_id": "df479e14",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-01",
+    "execution_count": 7,
+    "compute_hours": 1.16
+  },
+  {
+    "usage_id": "2de65b31",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-01",
+    "execution_count": 4,
+    "compute_hours": 1.47
+  },
+  {
+    "usage_id": "3dafbe5b",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-03",
+    "execution_count": 8,
+    "compute_hours": 0.71
+  },
+  {
+    "usage_id": "2cce2b4f",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-03",
+    "execution_count": 5,
+    "compute_hours": 1.7
+  },
+  {
+    "usage_id": "a89d85e7",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-03",
+    "execution_count": 4,
+    "compute_hours": 2.5
+  },
+  {
+    "usage_id": "f9634e4c",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-05",
+    "execution_count": 7,
+    "compute_hours": 0.59
+  },
+  {
+    "usage_id": "6a661b5c",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-05",
+    "execution_count": 5,
+    "compute_hours": 0.14
+  },
+  {
+    "usage_id": "6f51cb6b",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-05",
+    "execution_count": 5,
+    "compute_hours": 1.3
+  },
+  {
+    "usage_id": "f3f35a5c",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-05",
+    "execution_count": 4,
+    "compute_hours": 1.74
+  },
+  {
+    "usage_id": "fa1a7728",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-06",
+    "execution_count": 1,
+    "compute_hours": 0.1
+  },
+  {
+    "usage_id": "73458e6b",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-06",
+    "execution_count": 6,
+    "compute_hours": 1.13
+  },
+  {
+    "usage_id": "21a5aca0",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-07",
+    "execution_count": 2,
+    "compute_hours": 2.35
+  },
+  {
+    "usage_id": "505bfa53",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-07",
+    "execution_count": 10,
+    "compute_hours": 0.58
+  },
+  {
+    "usage_id": "6a02e828",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-07",
+    "execution_count": 8,
+    "compute_hours": 0.95
+  },
+  {
+    "usage_id": "f28fb522",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-07",
+    "execution_count": 2,
+    "compute_hours": 0.52
+  },
+  {
+    "usage_id": "38349592",
+    "engagement_id": "ENG-2025-7573",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-08",
+    "execution_count": 6,
+    "compute_hours": 1.63
+  },
+  {
+    "usage_id": "de080194",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-12",
+    "execution_count": 8,
+    "compute_hours": 1.18
+  },
+  {
+    "usage_id": "19c056cd",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-13",
+    "execution_count": 10,
+    "compute_hours": 1.45
+  },
+  {
+    "usage_id": "61236732",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-14",
+    "execution_count": 5,
+    "compute_hours": 0.81
+  },
+  {
+    "usage_id": "7829e699",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-15",
+    "execution_count": 7,
+    "compute_hours": 1.48
+  },
+  {
+    "usage_id": "b359aaee",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-15",
+    "execution_count": 8,
+    "compute_hours": 1.56
+  },
+  {
+    "usage_id": "e50329d4",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-16",
+    "execution_count": 10,
+    "compute_hours": 1.27
+  },
+  {
+    "usage_id": "7d5115a3",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-20",
+    "execution_count": 3,
+    "compute_hours": 1.08
+  },
+  {
+    "usage_id": "37e20f35",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-20",
+    "execution_count": 10,
+    "compute_hours": 1.38
+  },
+  {
+    "usage_id": "c8b0c0f5",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-21",
+    "execution_count": 6,
+    "compute_hours": 0.46
+  },
+  {
+    "usage_id": "f11c9d4e",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-21",
+    "execution_count": 10,
+    "compute_hours": 1.23
+  },
+  {
+    "usage_id": "64f8d292",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-22",
+    "execution_count": 3,
+    "compute_hours": 0.67
+  },
+  {
+    "usage_id": "059dfb63",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-22",
+    "execution_count": 3,
+    "compute_hours": 0.46
+  },
+  {
+    "usage_id": "06ea1871",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-23",
+    "execution_count": 7,
+    "compute_hours": 1.55
+  },
+  {
+    "usage_id": "b385c2f3",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-24",
+    "execution_count": 10,
+    "compute_hours": 1.27
+  },
+  {
+    "usage_id": "7fb15607",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-25",
+    "execution_count": 9,
+    "compute_hours": 1.53
+  },
+  {
+    "usage_id": "05868e37",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-25",
+    "execution_count": 10,
+    "compute_hours": 2.17
+  },
+  {
+    "usage_id": "c7c0de4c",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-25",
+    "execution_count": 10,
+    "compute_hours": 1.99
+  },
+  {
+    "usage_id": "ff4c0481",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-26",
+    "execution_count": 7,
+    "compute_hours": 1.99
+  },
+  {
+    "usage_id": "6c2b5547",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-26",
+    "execution_count": 3,
+    "compute_hours": 0.78
+  },
+  {
+    "usage_id": "7eb6dd0f",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-26",
+    "execution_count": 9,
+    "compute_hours": 0.27
+  },
+  {
+    "usage_id": "bbc2a900",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-27",
+    "execution_count": 6,
+    "compute_hours": 1.54
+  },
+  {
+    "usage_id": "66f92e06",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-27",
+    "execution_count": 4,
+    "compute_hours": 2.19
+  },
+  {
+    "usage_id": "ce396588",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-27",
+    "execution_count": 1,
+    "compute_hours": 0.91
+  },
+  {
+    "usage_id": "a0b6c168",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-27",
+    "execution_count": 6,
+    "compute_hours": 1.34
+  },
+  {
+    "usage_id": "fee3bcf3",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-28",
+    "execution_count": 2,
+    "compute_hours": 0.77
+  },
+  {
+    "usage_id": "a32d8307",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-29",
+    "execution_count": 9,
+    "compute_hours": 1.11
+  },
+  {
+    "usage_id": "bc088796",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-29",
+    "execution_count": 7,
+    "compute_hours": 2.03
+  },
+  {
+    "usage_id": "458ee64f",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-29",
+    "execution_count": 2,
+    "compute_hours": 2.38
+  },
+  {
+    "usage_id": "184989b7",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-31",
+    "execution_count": 9,
+    "compute_hours": 0.72
+  },
+  {
+    "usage_id": "875c3c93",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-31",
+    "execution_count": 7,
+    "compute_hours": 1.18
+  },
+  {
+    "usage_id": "d2972ae4",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-02",
+    "execution_count": 7,
+    "compute_hours": 0.19
+  },
+  {
+    "usage_id": "567578b5",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-02",
+    "execution_count": 5,
+    "compute_hours": 0.12
+  },
+  {
+    "usage_id": "d7e28af5",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-02",
+    "execution_count": 3,
+    "compute_hours": 1.45
+  },
+  {
+    "usage_id": "aae44680",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-02",
+    "execution_count": 8,
+    "compute_hours": 1.21
+  },
+  {
+    "usage_id": "1aac90ec",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-05",
+    "execution_count": 9,
+    "compute_hours": 0.63
+  },
+  {
+    "usage_id": "140d5b5a",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-07",
+    "execution_count": 7,
+    "compute_hours": 1.04
+  },
+  {
+    "usage_id": "f6c56a77",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-07",
+    "execution_count": 4,
+    "compute_hours": 0.68
+  },
+  {
+    "usage_id": "98c16a14",
+    "engagement_id": "ENG-2025-9214",
+    "user_id": "ps003",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-07",
+    "execution_count": 1,
+    "compute_hours": 2.18
+  },
+  {
+    "usage_id": "33b1e1f8",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-10",
+    "execution_count": 6,
+    "compute_hours": 1.9
+  },
+  {
+    "usage_id": "cb71eb69",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-10",
+    "execution_count": 6,
+    "compute_hours": 0.41
+  },
+  {
+    "usage_id": "5d880a3b",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-10",
+    "execution_count": 10,
+    "compute_hours": 1.18
+  },
+  {
+    "usage_id": "b0da36e0",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-10",
+    "execution_count": 6,
+    "compute_hours": 1.78
+  },
+  {
+    "usage_id": "a9f964fe",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-11",
+    "execution_count": 9,
+    "compute_hours": 1.41
+  },
+  {
+    "usage_id": "91438eae",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-11",
+    "execution_count": 1,
+    "compute_hours": 0.21
+  },
+  {
+    "usage_id": "dbacb0b8",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-12",
+    "execution_count": 8,
+    "compute_hours": 1.59
+  },
+  {
+    "usage_id": "f08726b5",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-13",
+    "execution_count": 6,
+    "compute_hours": 2.18
+  },
+  {
+    "usage_id": "064a178e",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-13",
+    "execution_count": 10,
+    "compute_hours": 1.86
+  },
+  {
+    "usage_id": "3ea9185b",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-13",
+    "execution_count": 9,
+    "compute_hours": 2.05
+  },
+  {
+    "usage_id": "9058120b",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-15",
+    "execution_count": 9,
+    "compute_hours": 1.08
+  },
+  {
+    "usage_id": "0e478ead",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-15",
+    "execution_count": 7,
+    "compute_hours": 0.65
+  },
+  {
+    "usage_id": "b33a4a32",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-15",
+    "execution_count": 4,
+    "compute_hours": 0.31
+  },
+  {
+    "usage_id": "c6451c7e",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-15",
+    "execution_count": 8,
+    "compute_hours": 0.98
+  },
+  {
+    "usage_id": "8fe9ca1a",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-17",
+    "execution_count": 3,
+    "compute_hours": 2.35
+  },
+  {
+    "usage_id": "066f81c9",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-17",
+    "execution_count": 2,
+    "compute_hours": 1.71
+  },
+  {
+    "usage_id": "37501300",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-17",
+    "execution_count": 8,
+    "compute_hours": 2.25
+  },
+  {
+    "usage_id": "dcb7111d",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-18",
+    "execution_count": 2,
+    "compute_hours": 1.3
+  },
+  {
+    "usage_id": "c9b989ef",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-19",
+    "execution_count": 1,
+    "compute_hours": 1.85
+  },
+  {
+    "usage_id": "520bdfe1",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-19",
+    "execution_count": 3,
+    "compute_hours": 0.16
+  },
+  {
+    "usage_id": "b51a4bb7",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-19",
+    "execution_count": 5,
+    "compute_hours": 1.87
+  },
+  {
+    "usage_id": "2169d417",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-19",
+    "execution_count": 5,
+    "compute_hours": 2.44
+  },
+  {
+    "usage_id": "c98822bf",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-20",
+    "execution_count": 9,
+    "compute_hours": 0.76
+  },
+  {
+    "usage_id": "3c2c3c02",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-20",
+    "execution_count": 5,
+    "compute_hours": 1.92
+  },
+  {
+    "usage_id": "3a39822d",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-22",
+    "execution_count": 6,
+    "compute_hours": 0.75
+  },
+  {
+    "usage_id": "4f7ee318",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-22",
+    "execution_count": 7,
+    "compute_hours": 0.26
+  },
+  {
+    "usage_id": "01fb4a0d",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-23",
+    "execution_count": 5,
+    "compute_hours": 1.8
+  },
+  {
+    "usage_id": "03467f3e",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-23",
+    "execution_count": 9,
+    "compute_hours": 1.29
+  },
+  {
+    "usage_id": "4807a022",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-23",
+    "execution_count": 3,
+    "compute_hours": 2.44
+  },
+  {
+    "usage_id": "e31a7ff0",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-24",
+    "execution_count": 8,
+    "compute_hours": 1.84
+  },
+  {
+    "usage_id": "ad83b331",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-24",
+    "execution_count": 10,
+    "compute_hours": 1.54
+  },
+  {
+    "usage_id": "ed5d28ee",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-26",
+    "execution_count": 8,
+    "compute_hours": 1.77
+  },
+  {
+    "usage_id": "156b1a52",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-26",
+    "execution_count": 1,
+    "compute_hours": 1.75
+  },
+  {
+    "usage_id": "1c9a3dba",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-27",
+    "execution_count": 8,
+    "compute_hours": 1.69
+  },
+  {
+    "usage_id": "9c4f5f61",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-27",
+    "execution_count": 9,
+    "compute_hours": 2.19
+  },
+  {
+    "usage_id": "b15a0f35",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-27",
+    "execution_count": 1,
+    "compute_hours": 1.58
+  },
+  {
+    "usage_id": "fc275c1f",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-28",
+    "execution_count": 10,
+    "compute_hours": 0.39
+  },
+  {
+    "usage_id": "381a6b01",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-28",
+    "execution_count": 3,
+    "compute_hours": 0.65
+  },
+  {
+    "usage_id": "256822e0",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-28",
+    "execution_count": 1,
+    "compute_hours": 0.22
+  },
+  {
+    "usage_id": "c592ee9e",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-29",
+    "execution_count": 1,
+    "compute_hours": 0.35
+  },
+  {
+    "usage_id": "b098c560",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-02",
+    "execution_count": 4,
+    "compute_hours": 2.13
+  },
+  {
+    "usage_id": "a27013d6",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-02",
+    "execution_count": 2,
+    "compute_hours": 1.18
+  },
+  {
+    "usage_id": "852be085",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-02",
+    "execution_count": 4,
+    "compute_hours": 0.64
+  },
+  {
+    "usage_id": "d2e79c05",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-02",
+    "execution_count": 10,
+    "compute_hours": 1.85
+  },
+  {
+    "usage_id": "69b77754",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-03",
+    "execution_count": 1,
+    "compute_hours": 0.25
+  },
+  {
+    "usage_id": "59a02de9",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-04",
+    "execution_count": 2,
+    "compute_hours": 1.71
+  },
+  {
+    "usage_id": "ab90c729",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-04",
+    "execution_count": 3,
+    "compute_hours": 1.75
+  },
+  {
+    "usage_id": "0e9c7c4d",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-07",
+    "execution_count": 7,
+    "compute_hours": 1.28
+  },
+  {
+    "usage_id": "a9528c21",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-08",
+    "execution_count": 7,
+    "compute_hours": 0.74
+  },
+  {
+    "usage_id": "3304a15f",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-08",
+    "execution_count": 3,
+    "compute_hours": 0.81
+  },
+  {
+    "usage_id": "98587069",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-08",
+    "execution_count": 10,
+    "compute_hours": 1.47
+  },
+  {
+    "usage_id": "fc76bf27",
+    "engagement_id": "ENG-2025-3644",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-08",
+    "execution_count": 2,
+    "compute_hours": 2.2
+  },
+  {
+    "usage_id": "70fd4638",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-10",
+    "execution_count": 7,
+    "compute_hours": 1.85
+  },
+  {
+    "usage_id": "0c69be8d",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-10",
+    "execution_count": 4,
+    "compute_hours": 1.51
+  },
+  {
+    "usage_id": "aaa7d0d5",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-10",
+    "execution_count": 2,
+    "compute_hours": 1.33
+  },
+  {
+    "usage_id": "095b4d80",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-11",
+    "execution_count": 10,
+    "compute_hours": 1.79
+  },
+  {
+    "usage_id": "9b3066eb",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-11",
+    "execution_count": 10,
+    "compute_hours": 2.27
+  },
+  {
+    "usage_id": "d88593c2",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-11",
+    "execution_count": 9,
+    "compute_hours": 0.27
+  },
+  {
+    "usage_id": "492c1b15",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-11",
+    "execution_count": 1,
+    "compute_hours": 1.28
+  },
+  {
+    "usage_id": "9fa25b84",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-12",
+    "execution_count": 10,
+    "compute_hours": 0.93
+  },
+  {
+    "usage_id": "f721ac3c",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-12",
+    "execution_count": 7,
+    "compute_hours": 0.36
+  },
+  {
+    "usage_id": "9f8f63a2",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-12",
+    "execution_count": 5,
+    "compute_hours": 0.46
+  },
+  {
+    "usage_id": "04c2f661",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-13",
+    "execution_count": 3,
+    "compute_hours": 2.41
+  },
+  {
+    "usage_id": "afa31a29",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-13",
+    "execution_count": 10,
+    "compute_hours": 2.36
+  },
+  {
+    "usage_id": "e00dc94d",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-15",
+    "execution_count": 5,
+    "compute_hours": 1.91
+  },
+  {
+    "usage_id": "741b8315",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-15",
+    "execution_count": 3,
+    "compute_hours": 0.15
+  },
+  {
+    "usage_id": "2c4988ed",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-15",
+    "execution_count": 1,
+    "compute_hours": 1.75
+  },
+  {
+    "usage_id": "0e05d658",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-15",
+    "execution_count": 2,
+    "compute_hours": 1.02
+  },
+  {
+    "usage_id": "267af654",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-16",
+    "execution_count": 8,
+    "compute_hours": 1.68
+  },
+  {
+    "usage_id": "87daa924",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-17",
+    "execution_count": 5,
+    "compute_hours": 0.37
+  },
+  {
+    "usage_id": "2d8644ca",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-17",
+    "execution_count": 9,
+    "compute_hours": 2.03
+  },
+  {
+    "usage_id": "17791413",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-17",
+    "execution_count": 3,
+    "compute_hours": 0.77
+  },
+  {
+    "usage_id": "fd99b785",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-18",
+    "execution_count": 9,
+    "compute_hours": 0.16
+  },
+  {
+    "usage_id": "ae6f6f7a",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-18",
+    "execution_count": 2,
+    "compute_hours": 0.84
+  },
+  {
+    "usage_id": "baf5546a",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-19",
+    "execution_count": 1,
+    "compute_hours": 0.7
+  },
+  {
+    "usage_id": "51e7bc76",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-19",
+    "execution_count": 5,
+    "compute_hours": 0.6
+  },
+  {
+    "usage_id": "1bdc2eb3",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-20",
+    "execution_count": 5,
+    "compute_hours": 1.19
+  },
+  {
+    "usage_id": "05ddd1ad",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-21",
+    "execution_count": 5,
+    "compute_hours": 0.68
+  },
+  {
+    "usage_id": "bf34b469",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-21",
+    "execution_count": 3,
+    "compute_hours": 1.49
+  },
+  {
+    "usage_id": "f36218d3",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-22",
+    "execution_count": 1,
+    "compute_hours": 1.32
+  },
+  {
+    "usage_id": "4abbb340",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-22",
+    "execution_count": 5,
+    "compute_hours": 0.37
+  },
+  {
+    "usage_id": "5bf31d76",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-23",
+    "execution_count": 9,
+    "compute_hours": 0.16
+  },
+  {
+    "usage_id": "e29e43f5",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-25",
+    "execution_count": 3,
+    "compute_hours": 1.79
+  },
+  {
+    "usage_id": "2e0bf805",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-26",
+    "execution_count": 6,
+    "compute_hours": 1.39
+  },
+  {
+    "usage_id": "591e71d4",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-26",
+    "execution_count": 10,
+    "compute_hours": 2.5
+  },
+  {
+    "usage_id": "8815f73d",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-26",
+    "execution_count": 1,
+    "compute_hours": 2.22
+  },
+  {
+    "usage_id": "cab77b34",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-26",
+    "execution_count": 4,
+    "compute_hours": 1.65
+  },
+  {
+    "usage_id": "38195a34",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-29",
+    "execution_count": 4,
+    "compute_hours": 1.08
+  },
+  {
+    "usage_id": "cb7ade54",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-29",
+    "execution_count": 1,
+    "compute_hours": 1.4
+  },
+  {
+    "usage_id": "be001e25",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-29",
+    "execution_count": 8,
+    "compute_hours": 2.45
+  },
+  {
+    "usage_id": "a469cb5a",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-29",
+    "execution_count": 4,
+    "compute_hours": 1.73
+  },
+  {
+    "usage_id": "ec74b99f",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-31",
+    "execution_count": 6,
+    "compute_hours": 0.18
+  },
+  {
+    "usage_id": "a96c2e89",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-31",
+    "execution_count": 9,
+    "compute_hours": 0.49
+  },
+  {
+    "usage_id": "096b5a2a",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-31",
+    "execution_count": 3,
+    "compute_hours": 0.17
+  },
+  {
+    "usage_id": "5626a5f5",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-01",
+    "execution_count": 1,
+    "compute_hours": 1.78
+  },
+  {
+    "usage_id": "d259c4f3",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-01",
+    "execution_count": 4,
+    "compute_hours": 2.2
+  },
+  {
+    "usage_id": "5015bed5",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-02",
+    "execution_count": 10,
+    "compute_hours": 0.63
+  },
+  {
+    "usage_id": "8d3eaf1c",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-02",
+    "execution_count": 1,
+    "compute_hours": 1.86
+  },
+  {
+    "usage_id": "8943a6fe",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-02",
+    "execution_count": 3,
+    "compute_hours": 0.99
+  },
+  {
+    "usage_id": "4f336eb1",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-03",
+    "execution_count": 5,
+    "compute_hours": 1.94
+  },
+  {
+    "usage_id": "275032d0",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-03",
+    "execution_count": 8,
+    "compute_hours": 0.82
+  },
+  {
+    "usage_id": "f756f084",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-03",
+    "execution_count": 1,
+    "compute_hours": 0.85
+  },
+  {
+    "usage_id": "a95c2d46",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-03",
+    "execution_count": 8,
+    "compute_hours": 1.64
+  },
+  {
+    "usage_id": "2f62c459",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-04",
+    "execution_count": 9,
+    "compute_hours": 0.95
+  },
+  {
+    "usage_id": "50ed732b",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-05",
+    "execution_count": 2,
+    "compute_hours": 1.83
+  },
+  {
+    "usage_id": "c5997ebe",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-06",
+    "execution_count": 9,
+    "compute_hours": 1.48
+  },
+  {
+    "usage_id": "1e2089a2",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-06",
+    "execution_count": 2,
+    "compute_hours": 0.83
+  },
+  {
+    "usage_id": "0c910db7",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-06",
+    "execution_count": 10,
+    "compute_hours": 2.32
+  },
+  {
+    "usage_id": "54410ee2",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-06",
+    "execution_count": 10,
+    "compute_hours": 2.4
+  },
+  {
+    "usage_id": "29eefc5b",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-07",
+    "execution_count": 5,
+    "compute_hours": 2.13
+  },
+  {
+    "usage_id": "4851b7a4",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-07",
+    "execution_count": 9,
+    "compute_hours": 0.85
+  },
+  {
+    "usage_id": "5801e631",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-07",
+    "execution_count": 5,
+    "compute_hours": 0.58
+  },
+  {
+    "usage_id": "3328333d",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-07",
+    "execution_count": 4,
+    "compute_hours": 0.83
+  },
+  {
+    "usage_id": "a57ed69d",
+    "engagement_id": "ENG-2024-4906",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-08",
+    "execution_count": 8,
+    "compute_hours": 1.0
+  },
+  {
+    "usage_id": "2fb79703",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-11",
+    "execution_count": 7,
+    "compute_hours": 1.91
+  },
+  {
+    "usage_id": "605376ad",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-11",
+    "execution_count": 4,
+    "compute_hours": 0.51
+  },
+  {
+    "usage_id": "db812a30",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-11",
+    "execution_count": 7,
+    "compute_hours": 0.17
+  },
+  {
+    "usage_id": "edc2bec7",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-12",
+    "execution_count": 1,
+    "compute_hours": 2.36
+  },
+  {
+    "usage_id": "c90db694",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-12",
+    "execution_count": 3,
+    "compute_hours": 0.73
+  },
+  {
+    "usage_id": "2975ed78",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-13",
+    "execution_count": 4,
+    "compute_hours": 2.4
+  },
+  {
+    "usage_id": "61ffb1f8",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-13",
+    "execution_count": 1,
+    "compute_hours": 1.09
+  },
+  {
+    "usage_id": "5993ced3",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-13",
+    "execution_count": 1,
+    "compute_hours": 1.0
+  },
+  {
+    "usage_id": "3f18d649",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-14",
+    "execution_count": 5,
+    "compute_hours": 1.8
+  },
+  {
+    "usage_id": "7461c64b",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-15",
+    "execution_count": 7,
+    "compute_hours": 0.15
+  },
+  {
+    "usage_id": "73c25ca1",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-15",
+    "execution_count": 3,
+    "compute_hours": 0.98
+  },
+  {
+    "usage_id": "0998f5d8",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-15",
+    "execution_count": 8,
+    "compute_hours": 0.13
+  },
+  {
+    "usage_id": "6049d3cb",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-15",
+    "execution_count": 1,
+    "compute_hours": 0.87
+  },
+  {
+    "usage_id": "46594641",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-17",
+    "execution_count": 4,
+    "compute_hours": 1.08
+  },
+  {
+    "usage_id": "6ea99ab9",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-19",
+    "execution_count": 5,
+    "compute_hours": 1.61
+  },
+  {
+    "usage_id": "39ef9acd",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-19",
+    "execution_count": 5,
+    "compute_hours": 1.28
+  },
+  {
+    "usage_id": "b0c9f276",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-19",
+    "execution_count": 6,
+    "compute_hours": 2.17
+  },
+  {
+    "usage_id": "c2b090f8",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-19",
+    "execution_count": 1,
+    "compute_hours": 2.27
+  },
+  {
+    "usage_id": "2706d8d2",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-20",
+    "execution_count": 3,
+    "compute_hours": 1.59
+  },
+  {
+    "usage_id": "e21bc65e",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-20",
+    "execution_count": 2,
+    "compute_hours": 0.62
+  },
+  {
+    "usage_id": "597db3f7",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-21",
+    "execution_count": 3,
+    "compute_hours": 1.96
+  },
+  {
+    "usage_id": "8e3f9b41",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-21",
+    "execution_count": 2,
+    "compute_hours": 1.77
+  },
+  {
+    "usage_id": "03e15afa",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-22",
+    "execution_count": 10,
+    "compute_hours": 1.07
+  },
+  {
+    "usage_id": "8320f5ac",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-22",
+    "execution_count": 9,
+    "compute_hours": 1.87
+  },
+  {
+    "usage_id": "3ae776b6",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-22",
+    "execution_count": 6,
+    "compute_hours": 1.47
+  },
+  {
+    "usage_id": "8255ab54",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-22",
+    "execution_count": 9,
+    "compute_hours": 0.17
+  },
+  {
+    "usage_id": "453f62ed",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-23",
+    "execution_count": 10,
+    "compute_hours": 1.64
+  },
+  {
+    "usage_id": "401a3e30",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-23",
+    "execution_count": 6,
+    "compute_hours": 0.49
+  },
+  {
+    "usage_id": "85a1e0fe",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-23",
+    "execution_count": 8,
+    "compute_hours": 1.77
+  },
+  {
+    "usage_id": "3122e93a",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-23",
+    "execution_count": 3,
+    "compute_hours": 1.6
+  },
+  {
+    "usage_id": "d1285614",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-25",
+    "execution_count": 1,
+    "compute_hours": 1.49
+  },
+  {
+    "usage_id": "b532354a",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-25",
+    "execution_count": 7,
+    "compute_hours": 0.97
+  },
+  {
+    "usage_id": "360c2558",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-25",
+    "execution_count": 9,
+    "compute_hours": 1.08
+  },
+  {
+    "usage_id": "d8f51d25",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-25",
+    "execution_count": 4,
+    "compute_hours": 2.37
+  },
+  {
+    "usage_id": "1540a246",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-26",
+    "execution_count": 3,
+    "compute_hours": 1.93
+  },
+  {
+    "usage_id": "097995ca",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-26",
+    "execution_count": 7,
+    "compute_hours": 1.67
+  },
+  {
+    "usage_id": "4af7056c",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-26",
+    "execution_count": 2,
+    "compute_hours": 0.71
+  },
+  {
+    "usage_id": "8dff7cbd",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-27",
+    "execution_count": 9,
+    "compute_hours": 0.12
+  },
+  {
+    "usage_id": "3073a401",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-27",
+    "execution_count": 1,
+    "compute_hours": 1.26
+  },
+  {
+    "usage_id": "d5660cb3",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-27",
+    "execution_count": 1,
+    "compute_hours": 0.86
+  },
+  {
+    "usage_id": "23f0053a",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-27",
+    "execution_count": 3,
+    "compute_hours": 2.14
+  },
+  {
+    "usage_id": "d485dae0",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-29",
+    "execution_count": 3,
+    "compute_hours": 1.46
+  },
+  {
+    "usage_id": "74b9eed5",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-29",
+    "execution_count": 2,
+    "compute_hours": 0.58
+  },
+  {
+    "usage_id": "f20e2cfc",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-29",
+    "execution_count": 2,
+    "compute_hours": 1.34
+  },
+  {
+    "usage_id": "469aa1c0",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-29",
+    "execution_count": 10,
+    "compute_hours": 2.22
+  },
+  {
+    "usage_id": "6d4bff29",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-30",
+    "execution_count": 2,
+    "compute_hours": 0.8
+  },
+  {
+    "usage_id": "896e1319",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-30",
+    "execution_count": 5,
+    "compute_hours": 1.23
+  },
+  {
+    "usage_id": "0a3f44a6",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-30",
+    "execution_count": 5,
+    "compute_hours": 1.42
+  },
+  {
+    "usage_id": "77ad8fb3",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-31",
+    "execution_count": 8,
+    "compute_hours": 0.78
+  },
+  {
+    "usage_id": "29102d77",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-31",
+    "execution_count": 7,
+    "compute_hours": 2.17
+  },
+  {
+    "usage_id": "81cc8b73",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-01",
+    "execution_count": 5,
+    "compute_hours": 2.02
+  },
+  {
+    "usage_id": "e9ee8152",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-04",
+    "execution_count": 5,
+    "compute_hours": 0.25
+  },
+  {
+    "usage_id": "211d31a4",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-04",
+    "execution_count": 3,
+    "compute_hours": 0.31
+  },
+  {
+    "usage_id": "f13e8a5a",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-04",
+    "execution_count": 7,
+    "compute_hours": 1.96
+  },
+  {
+    "usage_id": "ef148fd0",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-05",
+    "execution_count": 5,
+    "compute_hours": 2.02
+  },
+  {
+    "usage_id": "077ddd9c",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-07",
+    "execution_count": 8,
+    "compute_hours": 2.35
+  },
+  {
+    "usage_id": "854ef838",
+    "engagement_id": "ENG-2025-8752",
+    "user_id": "ps002",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-08",
+    "execution_count": 5,
+    "compute_hours": 1.91
+  },
+  {
+    "usage_id": "70ab2c5b",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-12",
+    "execution_count": 3,
+    "compute_hours": 2.17
+  },
+  {
+    "usage_id": "6666f8e0",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-12",
+    "execution_count": 9,
+    "compute_hours": 2.44
+  },
+  {
+    "usage_id": "67a9cd32",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-13",
+    "execution_count": 3,
+    "compute_hours": 0.4
+  },
+  {
+    "usage_id": "030ded96",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-13",
+    "execution_count": 3,
+    "compute_hours": 0.5
+  },
+  {
+    "usage_id": "5f7affab",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-13",
+    "execution_count": 4,
+    "compute_hours": 1.04
+  },
+  {
+    "usage_id": "79544aa8",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-13",
+    "execution_count": 1,
+    "compute_hours": 0.36
+  },
+  {
+    "usage_id": "12cb55c5",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-14",
+    "execution_count": 2,
+    "compute_hours": 1.02
+  },
+  {
+    "usage_id": "a514e87d",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-15",
+    "execution_count": 3,
+    "compute_hours": 1.25
+  },
+  {
+    "usage_id": "071395c6",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-15",
+    "execution_count": 8,
+    "compute_hours": 2.35
+  },
+  {
+    "usage_id": "4d8243d9",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-16",
+    "execution_count": 2,
+    "compute_hours": 0.35
+  },
+  {
+    "usage_id": "820ada0a",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-16",
+    "execution_count": 7,
+    "compute_hours": 1.87
+  },
+  {
+    "usage_id": "1f5c3814",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-18",
+    "execution_count": 7,
+    "compute_hours": 1.19
+  },
+  {
+    "usage_id": "df9de432",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-18",
+    "execution_count": 7,
+    "compute_hours": 1.06
+  },
+  {
+    "usage_id": "8dec73b5",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-18",
+    "execution_count": 10,
+    "compute_hours": 0.57
+  },
+  {
+    "usage_id": "29f9d220",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-19",
+    "execution_count": 6,
+    "compute_hours": 0.23
+  },
+  {
+    "usage_id": "d39284fc",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-20",
+    "execution_count": 6,
+    "compute_hours": 2.09
+  },
+  {
+    "usage_id": "29d860bb",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-22",
+    "execution_count": 1,
+    "compute_hours": 1.82
+  },
+  {
+    "usage_id": "a9453ad7",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-22",
+    "execution_count": 1,
+    "compute_hours": 0.86
+  },
+  {
+    "usage_id": "d8f73480",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-22",
+    "execution_count": 5,
+    "compute_hours": 1.74
+  },
+  {
+    "usage_id": "1203979e",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-22",
+    "execution_count": 9,
+    "compute_hours": 2.34
+  },
+  {
+    "usage_id": "2b5ef4b6",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-23",
+    "execution_count": 3,
+    "compute_hours": 2.33
+  },
+  {
+    "usage_id": "400f82b6",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-25",
+    "execution_count": 7,
+    "compute_hours": 0.32
+  },
+  {
+    "usage_id": "0d612c26",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-25",
+    "execution_count": 2,
+    "compute_hours": 1.37
+  },
+  {
+    "usage_id": "3f1fab39",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-25",
+    "execution_count": 7,
+    "compute_hours": 0.77
+  },
+  {
+    "usage_id": "10655d73",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-25",
+    "execution_count": 8,
+    "compute_hours": 2.27
+  },
+  {
+    "usage_id": "12bb3e37",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-27",
+    "execution_count": 3,
+    "compute_hours": 1.28
+  },
+  {
+    "usage_id": "7771bece",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-27",
+    "execution_count": 10,
+    "compute_hours": 0.83
+  },
+  {
+    "usage_id": "1a44a2f1",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-27",
+    "execution_count": 3,
+    "compute_hours": 0.86
+  },
+  {
+    "usage_id": "1742c2fe",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-27",
+    "execution_count": 7,
+    "compute_hours": 1.73
+  },
+  {
+    "usage_id": "56b8c6f7",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-28",
+    "execution_count": 4,
+    "compute_hours": 1.53
+  },
+  {
+    "usage_id": "19d86220",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-29",
+    "execution_count": 4,
+    "compute_hours": 0.59
+  },
+  {
+    "usage_id": "8289f535",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-30",
+    "execution_count": 10,
+    "compute_hours": 0.52
+  },
+  {
+    "usage_id": "00a16aa5",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-30",
+    "execution_count": 6,
+    "compute_hours": 0.86
+  },
+  {
+    "usage_id": "a8f79a24",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-31",
+    "execution_count": 9,
+    "compute_hours": 0.7
+  },
+  {
+    "usage_id": "3429eee6",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-31",
+    "execution_count": 7,
+    "compute_hours": 2.01
+  },
+  {
+    "usage_id": "8e4ef309",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-31",
+    "execution_count": 3,
+    "compute_hours": 0.43
+  },
+  {
+    "usage_id": "2e2e6d99",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-03",
+    "execution_count": 1,
+    "compute_hours": 0.8
+  },
+  {
+    "usage_id": "9e5b4bde",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-03",
+    "execution_count": 1,
+    "compute_hours": 1.62
+  },
+  {
+    "usage_id": "ae160ac3",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-03",
+    "execution_count": 1,
+    "compute_hours": 1.48
+  },
+  {
+    "usage_id": "8188c433",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-05",
+    "execution_count": 7,
+    "compute_hours": 1.26
+  },
+  {
+    "usage_id": "add657d6",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-05",
+    "execution_count": 2,
+    "compute_hours": 2.27
+  },
+  {
+    "usage_id": "96b10da2",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-05",
+    "execution_count": 2,
+    "compute_hours": 0.57
+  },
+  {
+    "usage_id": "21f4fd65",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-07",
+    "execution_count": 3,
+    "compute_hours": 1.02
+  },
+  {
+    "usage_id": "3d9544a9",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-07",
+    "execution_count": 9,
+    "compute_hours": 0.12
+  },
+  {
+    "usage_id": "3259e452",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-08",
+    "execution_count": 4,
+    "compute_hours": 0.36
+  },
+  {
+    "usage_id": "b040d29c",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-08",
+    "execution_count": 8,
+    "compute_hours": 1.31
+  },
+  {
+    "usage_id": "b1a78e41",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-08",
+    "execution_count": 10,
+    "compute_hours": 1.91
+  },
+  {
+    "usage_id": "2fa63a5a",
+    "engagement_id": "ENG-2025-3483",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-08",
+    "execution_count": 7,
+    "compute_hours": 1.56
+  },
+  {
+    "usage_id": "7b9e75b4",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-10",
+    "execution_count": 7,
+    "compute_hours": 2.19
+  },
+  {
+    "usage_id": "2b68f3d6",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-10",
+    "execution_count": 1,
+    "compute_hours": 2.36
+  },
+  {
+    "usage_id": "fc1f90f4",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-10",
+    "execution_count": 5,
+    "compute_hours": 1.71
+  },
+  {
+    "usage_id": "111b9d75",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-11",
+    "execution_count": 7,
+    "compute_hours": 2.19
+  },
+  {
+    "usage_id": "cff0ef3d",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-11",
+    "execution_count": 4,
+    "compute_hours": 2.35
+  },
+  {
+    "usage_id": "58715af2",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-15",
+    "execution_count": 4,
+    "compute_hours": 0.94
+  },
+  {
+    "usage_id": "b4c5baac",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-15",
+    "execution_count": 2,
+    "compute_hours": 2.33
+  },
+  {
+    "usage_id": "9e73573e",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-15",
+    "execution_count": 10,
+    "compute_hours": 0.17
+  },
+  {
+    "usage_id": "4d42138f",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-15",
+    "execution_count": 6,
+    "compute_hours": 2.25
+  },
+  {
+    "usage_id": "f239f4e0",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-16",
+    "execution_count": 4,
+    "compute_hours": 1.11
+  },
+  {
+    "usage_id": "e8e3258e",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-17",
+    "execution_count": 9,
+    "compute_hours": 2.34
+  },
+  {
+    "usage_id": "437fabb5",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-17",
+    "execution_count": 4,
+    "compute_hours": 1.37
+  },
+  {
+    "usage_id": "5930cc32",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-17",
+    "execution_count": 2,
+    "compute_hours": 1.56
+  },
+  {
+    "usage_id": "abacf8f5",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-17",
+    "execution_count": 1,
+    "compute_hours": 0.46
+  },
+  {
+    "usage_id": "ceabd3e9",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-20",
+    "execution_count": 3,
+    "compute_hours": 0.18
+  },
+  {
+    "usage_id": "4d58c05f",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-20",
+    "execution_count": 3,
+    "compute_hours": 0.67
+  },
+  {
+    "usage_id": "40ee58b0",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-20",
+    "execution_count": 8,
+    "compute_hours": 1.86
+  },
+  {
+    "usage_id": "50ada16e",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-20",
+    "execution_count": 5,
+    "compute_hours": 0.24
+  },
+  {
+    "usage_id": "4094cb10",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-21",
+    "execution_count": 10,
+    "compute_hours": 0.37
+  },
+  {
+    "usage_id": "2097b9d7",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-21",
+    "execution_count": 10,
+    "compute_hours": 2.43
+  },
+  {
+    "usage_id": "fe09e69e",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-21",
+    "execution_count": 7,
+    "compute_hours": 1.67
+  },
+  {
+    "usage_id": "72baa9c4",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-21",
+    "execution_count": 7,
+    "compute_hours": 0.4
+  },
+  {
+    "usage_id": "7d91a4b4",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-24",
+    "execution_count": 6,
+    "compute_hours": 0.47
+  },
+  {
+    "usage_id": "1a9abfc0",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-24",
+    "execution_count": 1,
+    "compute_hours": 0.87
+  },
+  {
+    "usage_id": "6753da73",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-24",
+    "execution_count": 1,
+    "compute_hours": 0.74
+  },
+  {
+    "usage_id": "6744b155",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-25",
+    "execution_count": 5,
+    "compute_hours": 0.6
+  },
+  {
+    "usage_id": "3048b110",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-26",
+    "execution_count": 2,
+    "compute_hours": 0.77
+  },
+  {
+    "usage_id": "69100450",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-26",
+    "execution_count": 6,
+    "compute_hours": 2.01
+  },
+  {
+    "usage_id": "49c5f52e",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-26",
+    "execution_count": 2,
+    "compute_hours": 0.31
+  },
+  {
+    "usage_id": "05ba9c21",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-28",
+    "execution_count": 3,
+    "compute_hours": 0.34
+  },
+  {
+    "usage_id": "f2ece956",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-28",
+    "execution_count": 7,
+    "compute_hours": 0.24
+  },
+  {
+    "usage_id": "9dd6188a",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-28",
+    "execution_count": 6,
+    "compute_hours": 0.85
+  },
+  {
+    "usage_id": "3b4f5ac2",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-28",
+    "execution_count": 7,
+    "compute_hours": 0.58
+  },
+  {
+    "usage_id": "d2c9053d",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-29",
+    "execution_count": 8,
+    "compute_hours": 1.01
+  },
+  {
+    "usage_id": "f7b5cc04",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-30",
+    "execution_count": 2,
+    "compute_hours": 0.24
+  },
+  {
+    "usage_id": "35ef872b",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-31",
+    "execution_count": 10,
+    "compute_hours": 1.71
+  },
+  {
+    "usage_id": "f6683df1",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-31",
+    "execution_count": 4,
+    "compute_hours": 0.35
+  },
+  {
+    "usage_id": "572d5832",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-01",
+    "execution_count": 6,
+    "compute_hours": 1.29
+  },
+  {
+    "usage_id": "e9a99df7",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-01",
+    "execution_count": 3,
+    "compute_hours": 1.67
+  },
+  {
+    "usage_id": "5d722fb4",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-03",
+    "execution_count": 3,
+    "compute_hours": 1.47
+  },
+  {
+    "usage_id": "74df51e5",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-03",
+    "execution_count": 3,
+    "compute_hours": 0.22
+  },
+  {
+    "usage_id": "0fe69c96",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-03",
+    "execution_count": 8,
+    "compute_hours": 0.79
+  },
+  {
+    "usage_id": "ba134d91",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-03",
+    "execution_count": 4,
+    "compute_hours": 0.27
+  },
+  {
+    "usage_id": "d1402788",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-04",
+    "execution_count": 1,
+    "compute_hours": 1.52
+  },
+  {
+    "usage_id": "46f9772c",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-04",
+    "execution_count": 4,
+    "compute_hours": 0.44
+  },
+  {
+    "usage_id": "5f2d7217",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-04",
+    "execution_count": 9,
+    "compute_hours": 1.9
+  },
+  {
+    "usage_id": "5d448064",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-05",
+    "execution_count": 8,
+    "compute_hours": 2.34
+  },
+  {
+    "usage_id": "0ec6a2d3",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-05",
+    "execution_count": 10,
+    "compute_hours": 2.19
+  },
+  {
+    "usage_id": "d5ac8c3e",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-05",
+    "execution_count": 5,
+    "compute_hours": 1.38
+  },
+  {
+    "usage_id": "a19b5dce",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-06",
+    "execution_count": 4,
+    "compute_hours": 0.24
+  },
+  {
+    "usage_id": "a4a01177",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-07",
+    "execution_count": 9,
+    "compute_hours": 0.15
+  },
+  {
+    "usage_id": "aa1f5e40",
+    "engagement_id": "ENG-2024-2056",
+    "user_id": "ps004",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-07",
+    "execution_count": 2,
+    "compute_hours": 0.45
+  },
+  {
+    "usage_id": "d4638d55",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-10",
+    "execution_count": 10,
+    "compute_hours": 1.3
+  },
+  {
+    "usage_id": "48cb3ed1",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-10",
+    "execution_count": 8,
+    "compute_hours": 1.22
+  },
+  {
+    "usage_id": "fc650e02",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-10",
+    "execution_count": 10,
+    "compute_hours": 1.33
+  },
+  {
+    "usage_id": "0c7e438e",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-10",
+    "execution_count": 7,
+    "compute_hours": 0.56
+  },
+  {
+    "usage_id": "59486915",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-11",
+    "execution_count": 2,
+    "compute_hours": 1.85
+  },
+  {
+    "usage_id": "d4ae1a87",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-11",
+    "execution_count": 2,
+    "compute_hours": 1.53
+  },
+  {
+    "usage_id": "b69b3d58",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-12",
+    "execution_count": 3,
+    "compute_hours": 2.21
+  },
+  {
+    "usage_id": "cf485a6f",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-12",
+    "execution_count": 8,
+    "compute_hours": 0.86
+  },
+  {
+    "usage_id": "198d3a91",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-12",
+    "execution_count": 6,
+    "compute_hours": 1.04
+  },
+  {
+    "usage_id": "7fbbf02e",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-12",
+    "execution_count": 7,
+    "compute_hours": 0.82
+  },
+  {
+    "usage_id": "94004bd5",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-13",
+    "execution_count": 9,
+    "compute_hours": 2.44
+  },
+  {
+    "usage_id": "2c203370",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-14",
+    "execution_count": 3,
+    "compute_hours": 1.02
+  },
+  {
+    "usage_id": "b88cdfc3",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-14",
+    "execution_count": 9,
+    "compute_hours": 1.98
+  },
+  {
+    "usage_id": "af06e433",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-14",
+    "execution_count": 9,
+    "compute_hours": 0.37
+  },
+  {
+    "usage_id": "9584a552",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-14",
+    "execution_count": 10,
+    "compute_hours": 1.89
+  },
+  {
+    "usage_id": "acdac10d",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-15",
+    "execution_count": 4,
+    "compute_hours": 2.18
+  },
+  {
+    "usage_id": "16fa86e8",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-15",
+    "execution_count": 3,
+    "compute_hours": 1.87
+  },
+  {
+    "usage_id": "997d6e3e",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-15",
+    "execution_count": 6,
+    "compute_hours": 0.13
+  },
+  {
+    "usage_id": "3d8d041e",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-16",
+    "execution_count": 8,
+    "compute_hours": 0.49
+  },
+  {
+    "usage_id": "bb6e355b",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-16",
+    "execution_count": 9,
+    "compute_hours": 0.42
+  },
+  {
+    "usage_id": "55f26f77",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-17",
+    "execution_count": 8,
+    "compute_hours": 0.42
+  },
+  {
+    "usage_id": "5cef8968",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-17",
+    "execution_count": 10,
+    "compute_hours": 1.84
+  },
+  {
+    "usage_id": "5ca2e4ea",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-18",
+    "execution_count": 2,
+    "compute_hours": 2.41
+  },
+  {
+    "usage_id": "40b67a34",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-20",
+    "execution_count": 3,
+    "compute_hours": 1.4
+  },
+  {
+    "usage_id": "73522593",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-20",
+    "execution_count": 8,
+    "compute_hours": 1.97
+  },
+  {
+    "usage_id": "63c23d20",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-20",
+    "execution_count": 6,
+    "compute_hours": 1.7
+  },
+  {
+    "usage_id": "8ae7a178",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-20",
+    "execution_count": 3,
+    "compute_hours": 1.45
+  },
+  {
+    "usage_id": "56a8eb22",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-22",
+    "execution_count": 3,
+    "compute_hours": 0.68
+  },
+  {
+    "usage_id": "3e450b91",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-22",
+    "execution_count": 3,
+    "compute_hours": 1.37
+  },
+  {
+    "usage_id": "a59f8d92",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-22",
+    "execution_count": 9,
+    "compute_hours": 2.47
+  },
+  {
+    "usage_id": "f42d9463",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-22",
+    "execution_count": 10,
+    "compute_hours": 1.13
+  },
+  {
+    "usage_id": "c074a537",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-24",
+    "execution_count": 4,
+    "compute_hours": 0.25
+  },
+  {
+    "usage_id": "40713ac4",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-24",
+    "execution_count": 3,
+    "compute_hours": 1.21
+  },
+  {
+    "usage_id": "69c96fee",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-24",
+    "execution_count": 2,
+    "compute_hours": 2.28
+  },
+  {
+    "usage_id": "b7012ff4",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-24",
+    "execution_count": 6,
+    "compute_hours": 0.13
+  },
+  {
+    "usage_id": "8b3db2fe",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-26",
+    "execution_count": 3,
+    "compute_hours": 0.62
+  },
+  {
+    "usage_id": "5bb40af6",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-26",
+    "execution_count": 6,
+    "compute_hours": 0.9
+  },
+  {
+    "usage_id": "e14f6fc2",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-26",
+    "execution_count": 9,
+    "compute_hours": 2.4
+  },
+  {
+    "usage_id": "0a73a73d",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-26",
+    "execution_count": 9,
+    "compute_hours": 2.3
+  },
+  {
+    "usage_id": "27ff425f",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-27",
+    "execution_count": 3,
+    "compute_hours": 1.96
+  },
+  {
+    "usage_id": "434c32c7",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-27",
+    "execution_count": 4,
+    "compute_hours": 0.5
+  },
+  {
+    "usage_id": "0c1464fb",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-27",
+    "execution_count": 8,
+    "compute_hours": 0.74
+  },
+  {
+    "usage_id": "0d778a7d",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-27",
+    "execution_count": 2,
+    "compute_hours": 2.15
+  },
+  {
+    "usage_id": "1e297a0e",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-28",
+    "execution_count": 4,
+    "compute_hours": 0.16
+  },
+  {
+    "usage_id": "816a170c",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-29",
+    "execution_count": 3,
+    "compute_hours": 1.28
+  },
+  {
+    "usage_id": "e872c574",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-30",
+    "execution_count": 4,
+    "compute_hours": 1.75
+  },
+  {
+    "usage_id": "b3e0d83d",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-30",
+    "execution_count": 1,
+    "compute_hours": 0.16
+  },
+  {
+    "usage_id": "bd751e2b",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-30",
+    "execution_count": 3,
+    "compute_hours": 2.11
+  },
+  {
+    "usage_id": "821308c4",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-30",
+    "execution_count": 6,
+    "compute_hours": 1.86
+  },
+  {
+    "usage_id": "c7394c48",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-31",
+    "execution_count": 10,
+    "compute_hours": 2.02
+  },
+  {
+    "usage_id": "bf00e944",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-31",
+    "execution_count": 5,
+    "compute_hours": 0.64
+  },
+  {
+    "usage_id": "d589d9fb",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-31",
+    "execution_count": 3,
+    "compute_hours": 0.87
+  },
+  {
+    "usage_id": "1037ddb5",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-02",
+    "execution_count": 6,
+    "compute_hours": 0.62
+  },
+  {
+    "usage_id": "78c98e80",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-03",
+    "execution_count": 2,
+    "compute_hours": 0.66
+  },
+  {
+    "usage_id": "9fe3da3e",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-03",
+    "execution_count": 6,
+    "compute_hours": 1.68
+  },
+  {
+    "usage_id": "bb820094",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-05",
+    "execution_count": 9,
+    "compute_hours": 1.51
+  },
+  {
+    "usage_id": "b232b6e8",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-05",
+    "execution_count": 7,
+    "compute_hours": 1.1
+  },
+  {
+    "usage_id": "c9819fed",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-05",
+    "execution_count": 6,
+    "compute_hours": 2.21
+  },
+  {
+    "usage_id": "6d8a7d35",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-05",
+    "execution_count": 7,
+    "compute_hours": 1.63
+  },
+  {
+    "usage_id": "39d68b44",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-06",
+    "execution_count": 9,
+    "compute_hours": 2.24
+  },
+  {
+    "usage_id": "3b891e93",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-06",
+    "execution_count": 1,
+    "compute_hours": 0.7
+  },
+  {
+    "usage_id": "de14ccbb",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-06",
+    "execution_count": 9,
+    "compute_hours": 0.97
+  },
+  {
+    "usage_id": "fd130235",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-06",
+    "execution_count": 1,
+    "compute_hours": 2.11
+  },
+  {
+    "usage_id": "f14eddb5",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-07",
+    "execution_count": 1,
+    "compute_hours": 1.8
+  },
+  {
+    "usage_id": "29984a94",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-07",
+    "execution_count": 6,
+    "compute_hours": 2.35
+  },
+  {
+    "usage_id": "02ddbac9",
+    "engagement_id": "ENG-2024-1137",
+    "user_id": "ps006",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-07",
+    "execution_count": 8,
+    "compute_hours": 0.49
+  },
+  {
+    "usage_id": "c3e27ea1",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-10",
+    "execution_count": 2,
+    "compute_hours": 2.0
+  },
+  {
+    "usage_id": "c963ae33",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-11",
+    "execution_count": 10,
+    "compute_hours": 0.41
+  },
+  {
+    "usage_id": "84512a42",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-11",
+    "execution_count": 5,
+    "compute_hours": 2.22
+  },
+  {
+    "usage_id": "65ab6a7d",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-11",
+    "execution_count": 3,
+    "compute_hours": 2.04
+  },
+  {
+    "usage_id": "7ea52470",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-12",
+    "execution_count": 3,
+    "compute_hours": 0.93
+  },
+  {
+    "usage_id": "9f0f8b6f",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-12",
+    "execution_count": 10,
+    "compute_hours": 1.48
+  },
+  {
+    "usage_id": "9d45478e",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-13",
+    "execution_count": 4,
+    "compute_hours": 2.48
+  },
+  {
+    "usage_id": "785c83ad",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-14",
+    "execution_count": 8,
+    "compute_hours": 1.08
+  },
+  {
+    "usage_id": "87e5fabe",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-14",
+    "execution_count": 6,
+    "compute_hours": 0.93
+  },
+  {
+    "usage_id": "76647d4a",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-15",
+    "execution_count": 6,
+    "compute_hours": 2.05
+  },
+  {
+    "usage_id": "806535a9",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-15",
+    "execution_count": 10,
+    "compute_hours": 1.88
+  },
+  {
+    "usage_id": "7b4ee953",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-15",
+    "execution_count": 1,
+    "compute_hours": 1.59
+  },
+  {
+    "usage_id": "dad2c08e",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-15",
+    "execution_count": 5,
+    "compute_hours": 0.84
+  },
+  {
+    "usage_id": "ae977d18",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-17",
+    "execution_count": 5,
+    "compute_hours": 1.83
+  },
+  {
+    "usage_id": "a739e8d0",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-18",
+    "execution_count": 7,
+    "compute_hours": 0.96
+  },
+  {
+    "usage_id": "7ddfb55f",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-18",
+    "execution_count": 2,
+    "compute_hours": 2.46
+  },
+  {
+    "usage_id": "7aeab5c4",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-18",
+    "execution_count": 8,
+    "compute_hours": 1.64
+  },
+  {
+    "usage_id": "dfac8f17",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-19",
+    "execution_count": 1,
+    "compute_hours": 0.14
+  },
+  {
+    "usage_id": "667c6e54",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-20",
+    "execution_count": 9,
+    "compute_hours": 1.98
+  },
+  {
+    "usage_id": "95d23b1f",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-20",
+    "execution_count": 7,
+    "compute_hours": 0.42
+  },
+  {
+    "usage_id": "a41329e3",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-21",
+    "execution_count": 6,
+    "compute_hours": 2.37
+  },
+  {
+    "usage_id": "cde14140",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-21",
+    "execution_count": 10,
+    "compute_hours": 0.85
+  },
+  {
+    "usage_id": "d70a3c23",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-23",
+    "execution_count": 3,
+    "compute_hours": 1.2
+  },
+  {
+    "usage_id": "4d71d4c8",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-23",
+    "execution_count": 7,
+    "compute_hours": 0.19
+  },
+  {
+    "usage_id": "3f767ee5",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-24",
+    "execution_count": 9,
+    "compute_hours": 0.5
+  },
+  {
+    "usage_id": "81d301e5",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-24",
+    "execution_count": 3,
+    "compute_hours": 0.72
+  },
+  {
+    "usage_id": "d84f2ce1",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-26",
+    "execution_count": 9,
+    "compute_hours": 1.81
+  },
+  {
+    "usage_id": "44036d05",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-27",
+    "execution_count": 7,
+    "compute_hours": 0.37
+  },
+  {
+    "usage_id": "115f473f",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-27",
+    "execution_count": 8,
+    "compute_hours": 2.39
+  },
+  {
+    "usage_id": "494f3caf",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-27",
+    "execution_count": 3,
+    "compute_hours": 1.74
+  },
+  {
+    "usage_id": "424139ba",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-27",
+    "execution_count": 7,
+    "compute_hours": 0.41
+  },
+  {
+    "usage_id": "538342f7",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-28",
+    "execution_count": 10,
+    "compute_hours": 0.41
+  },
+  {
+    "usage_id": "9e24ba6d",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-28",
+    "execution_count": 9,
+    "compute_hours": 1.12
+  },
+  {
+    "usage_id": "fc64d21f",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-28",
+    "execution_count": 10,
+    "compute_hours": 0.44
+  },
+  {
+    "usage_id": "d8d6dee3",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-28",
+    "execution_count": 2,
+    "compute_hours": 0.81
+  },
+  {
+    "usage_id": "ee2f5c48",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-29",
+    "execution_count": 8,
+    "compute_hours": 1.23
+  },
+  {
+    "usage_id": "f7412cbd",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-29",
+    "execution_count": 6,
+    "compute_hours": 0.79
+  },
+  {
+    "usage_id": "9b7420e6",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-29",
+    "execution_count": 9,
+    "compute_hours": 0.12
+  },
+  {
+    "usage_id": "c3fc6341",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-29",
+    "execution_count": 2,
+    "compute_hours": 0.81
+  },
+  {
+    "usage_id": "452b8380",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-30",
+    "execution_count": 8,
+    "compute_hours": 1.97
+  },
+  {
+    "usage_id": "6ba47486",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-31",
+    "execution_count": 5,
+    "compute_hours": 2.42
+  },
+  {
+    "usage_id": "40f8930a",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-31",
+    "execution_count": 8,
+    "compute_hours": 2.07
+  },
+  {
+    "usage_id": "5794eb14",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-01",
+    "execution_count": 2,
+    "compute_hours": 0.88
+  },
+  {
+    "usage_id": "84e16f87",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-01",
+    "execution_count": 3,
+    "compute_hours": 1.94
+  },
+  {
+    "usage_id": "6ba4766d",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-02",
+    "execution_count": 5,
+    "compute_hours": 1.71
+  },
+  {
+    "usage_id": "5f4d4b10",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-02",
+    "execution_count": 5,
+    "compute_hours": 0.77
+  },
+  {
+    "usage_id": "201cce54",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-03",
+    "execution_count": 7,
+    "compute_hours": 0.7
+  },
+  {
+    "usage_id": "ff6cb355",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-03",
+    "execution_count": 3,
+    "compute_hours": 1.96
+  },
+  {
+    "usage_id": "f6fdd35d",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-03",
+    "execution_count": 4,
+    "compute_hours": 1.37
+  },
+  {
+    "usage_id": "13c24d0c",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-03",
+    "execution_count": 4,
+    "compute_hours": 0.36
+  },
+  {
+    "usage_id": "20dc7072",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-05",
+    "execution_count": 7,
+    "compute_hours": 2.23
+  },
+  {
+    "usage_id": "1026f237",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-06",
+    "execution_count": 10,
+    "compute_hours": 1.94
+  },
+  {
+    "usage_id": "28d38c87",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-06",
+    "execution_count": 8,
+    "compute_hours": 1.74
+  },
+  {
+    "usage_id": "e8cd0d22",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-06",
+    "execution_count": 7,
+    "compute_hours": 1.43
+  },
+  {
+    "usage_id": "2df47901",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-06",
+    "execution_count": 7,
+    "compute_hours": 1.32
+  },
+  {
+    "usage_id": "bed8be74",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-07",
+    "execution_count": 8,
+    "compute_hours": 1.05
+  },
+  {
+    "usage_id": "ce3c8372",
+    "engagement_id": "ENG-2025-5282",
+    "user_id": "ps007",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-07",
+    "execution_count": 6,
+    "compute_hours": 0.69
+  },
+  {
+    "usage_id": "520d4e37",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-10",
+    "execution_count": 4,
+    "compute_hours": 2.27
+  },
+  {
+    "usage_id": "a926982c",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-10",
+    "execution_count": 4,
+    "compute_hours": 2.2
+  },
+  {
+    "usage_id": "0823defa",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-11",
+    "execution_count": 2,
+    "compute_hours": 2.0
+  },
+  {
+    "usage_id": "018ddabd",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-11",
+    "execution_count": 8,
+    "compute_hours": 0.12
+  },
+  {
+    "usage_id": "1a854784",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-12",
+    "execution_count": 7,
+    "compute_hours": 2.2
+  },
+  {
+    "usage_id": "0020746f",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-12",
+    "execution_count": 6,
+    "compute_hours": 0.76
+  },
+  {
+    "usage_id": "610f83e3",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-12",
+    "execution_count": 1,
+    "compute_hours": 0.79
+  },
+  {
+    "usage_id": "31a4af75",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-12",
+    "execution_count": 5,
+    "compute_hours": 0.96
+  },
+  {
+    "usage_id": "79099c27",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-13",
+    "execution_count": 6,
+    "compute_hours": 2.35
+  },
+  {
+    "usage_id": "0a8f7fa7",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-13",
+    "execution_count": 4,
+    "compute_hours": 1.84
+  },
+  {
+    "usage_id": "21e3f863",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-13",
+    "execution_count": 4,
+    "compute_hours": 1.55
+  },
+  {
+    "usage_id": "d3163ede",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-14",
+    "execution_count": 8,
+    "compute_hours": 1.29
+  },
+  {
+    "usage_id": "f39d0214",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-14",
+    "execution_count": 1,
+    "compute_hours": 1.27
+  },
+  {
+    "usage_id": "cdcbcacf",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-14",
+    "execution_count": 6,
+    "compute_hours": 1.26
+  },
+  {
+    "usage_id": "0b3dec66",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-15",
+    "execution_count": 9,
+    "compute_hours": 1.58
+  },
+  {
+    "usage_id": "287e3403",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-15",
+    "execution_count": 10,
+    "compute_hours": 2.43
+  },
+  {
+    "usage_id": "1391e5fb",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-15",
+    "execution_count": 5,
+    "compute_hours": 2.3
+  },
+  {
+    "usage_id": "a5a1ce62",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-15",
+    "execution_count": 1,
+    "compute_hours": 1.58
+  },
+  {
+    "usage_id": "3bf2183a",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-16",
+    "execution_count": 9,
+    "compute_hours": 0.53
+  },
+  {
+    "usage_id": "0682d576",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-16",
+    "execution_count": 7,
+    "compute_hours": 1.89
+  },
+  {
+    "usage_id": "4bbd7f39",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-16",
+    "execution_count": 1,
+    "compute_hours": 1.51
+  },
+  {
+    "usage_id": "f55e3ad9",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-16",
+    "execution_count": 5,
+    "compute_hours": 0.43
+  },
+  {
+    "usage_id": "79c4d3b0",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-17",
+    "execution_count": 9,
+    "compute_hours": 1.6
+  },
+  {
+    "usage_id": "e274c95b",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-19",
+    "execution_count": 10,
+    "compute_hours": 0.31
+  },
+  {
+    "usage_id": "b298f594",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-19",
+    "execution_count": 7,
+    "compute_hours": 1.68
+  },
+  {
+    "usage_id": "e26fb55b",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-19",
+    "execution_count": 7,
+    "compute_hours": 1.09
+  },
+  {
+    "usage_id": "6d59edb5",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-19",
+    "execution_count": 5,
+    "compute_hours": 1.2
+  },
+  {
+    "usage_id": "961fd8c1",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-21",
+    "execution_count": 6,
+    "compute_hours": 2.43
+  },
+  {
+    "usage_id": "e836dd8c",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-21",
+    "execution_count": 4,
+    "compute_hours": 1.55
+  },
+  {
+    "usage_id": "3c8ebcc2",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-21",
+    "execution_count": 4,
+    "compute_hours": 1.88
+  },
+  {
+    "usage_id": "68cd6493",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-24",
+    "execution_count": 9,
+    "compute_hours": 0.22
+  },
+  {
+    "usage_id": "8b10a96e",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-24",
+    "execution_count": 10,
+    "compute_hours": 2.35
+  },
+  {
+    "usage_id": "6422db47",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-24",
+    "execution_count": 1,
+    "compute_hours": 1.52
+  },
+  {
+    "usage_id": "64af8854",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-24",
+    "execution_count": 3,
+    "compute_hours": 2.49
+  },
+  {
+    "usage_id": "5da27a94",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-25",
+    "execution_count": 5,
+    "compute_hours": 2.37
+  },
+  {
+    "usage_id": "13eeb9d7",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-25",
+    "execution_count": 4,
+    "compute_hours": 1.41
+  },
+  {
+    "usage_id": "6f0d5d2b",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-25",
+    "execution_count": 8,
+    "compute_hours": 1.06
+  },
+  {
+    "usage_id": "dbf411ae",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-25",
+    "execution_count": 5,
+    "compute_hours": 0.53
+  },
+  {
+    "usage_id": "9d52ee86",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-27",
+    "execution_count": 5,
+    "compute_hours": 1.92
+  },
+  {
+    "usage_id": "66986d1b",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-27",
+    "execution_count": 10,
+    "compute_hours": 0.44
+  },
+  {
+    "usage_id": "e9b81ed6",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-04",
+    "execution_count": 10,
+    "compute_hours": 0.58
+  },
+  {
+    "usage_id": "57c7207f",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-05",
+    "execution_count": 2,
+    "compute_hours": 1.88
+  },
+  {
+    "usage_id": "8ec4ee4f",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-05",
+    "execution_count": 2,
+    "compute_hours": 1.69
+  },
+  {
+    "usage_id": "6329541a",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-07",
+    "execution_count": 10,
+    "compute_hours": 2.34
+  },
+  {
+    "usage_id": "60755fb4",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-07",
+    "execution_count": 7,
+    "compute_hours": 0.81
+  },
+  {
+    "usage_id": "cbec978c",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-07",
+    "execution_count": 4,
+    "compute_hours": 0.71
+  },
+  {
+    "usage_id": "b1db95f5",
+    "engagement_id": "ENG-2024-1768",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-07",
+    "execution_count": 1,
+    "compute_hours": 0.24
+  },
+  {
+    "usage_id": "e6a936c0",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-10",
+    "execution_count": 5,
+    "compute_hours": 2.39
+  },
+  {
+    "usage_id": "97a0c2bf",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-10",
+    "execution_count": 10,
+    "compute_hours": 1.51
+  },
+  {
+    "usage_id": "8c07e354",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-11",
+    "execution_count": 2,
+    "compute_hours": 0.85
+  },
+  {
+    "usage_id": "d4db1f22",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-11",
+    "execution_count": 4,
+    "compute_hours": 0.79
+  },
+  {
+    "usage_id": "9cbd6593",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-13",
+    "execution_count": 6,
+    "compute_hours": 0.51
+  },
+  {
+    "usage_id": "2039fa16",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-14",
+    "execution_count": 5,
+    "compute_hours": 1.01
+  },
+  {
+    "usage_id": "0c7d5552",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-14",
+    "execution_count": 8,
+    "compute_hours": 0.6
+  },
+  {
+    "usage_id": "0c5ade06",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-15",
+    "execution_count": 3,
+    "compute_hours": 0.75
+  },
+  {
+    "usage_id": "afaee91d",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-15",
+    "execution_count": 5,
+    "compute_hours": 1.94
+  },
+  {
+    "usage_id": "ae5df0b6",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-15",
+    "execution_count": 7,
+    "compute_hours": 1.68
+  },
+  {
+    "usage_id": "b8b1849c",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-15",
+    "execution_count": 7,
+    "compute_hours": 0.62
+  },
+  {
+    "usage_id": "687e0826",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-16",
+    "execution_count": 3,
+    "compute_hours": 0.98
+  },
+  {
+    "usage_id": "70dee2b2",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-17",
+    "execution_count": 3,
+    "compute_hours": 1.14
+  },
+  {
+    "usage_id": "5d3d295f",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-17",
+    "execution_count": 1,
+    "compute_hours": 0.73
+  },
+  {
+    "usage_id": "9e99b585",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-18",
+    "execution_count": 7,
+    "compute_hours": 1.9
+  },
+  {
+    "usage_id": "fc6260ae",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-18",
+    "execution_count": 6,
+    "compute_hours": 1.82
+  },
+  {
+    "usage_id": "223eacae",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-20",
+    "execution_count": 8,
+    "compute_hours": 2.08
+  },
+  {
+    "usage_id": "3e726eea",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-20",
+    "execution_count": 8,
+    "compute_hours": 2.47
+  },
+  {
+    "usage_id": "3b998acd",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-23",
+    "execution_count": 6,
+    "compute_hours": 1.36
+  },
+  {
+    "usage_id": "d47c060e",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-23",
+    "execution_count": 6,
+    "compute_hours": 0.53
+  },
+  {
+    "usage_id": "793b8844",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-24",
+    "execution_count": 6,
+    "compute_hours": 1.11
+  },
+  {
+    "usage_id": "c378942a",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-25",
+    "execution_count": 1,
+    "compute_hours": 1.32
+  },
+  {
+    "usage_id": "331661f1",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-25",
+    "execution_count": 1,
+    "compute_hours": 0.28
+  },
+  {
+    "usage_id": "2777a9f9",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-25",
+    "execution_count": 8,
+    "compute_hours": 0.14
+  },
+  {
+    "usage_id": "2f72e3c3",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-28",
+    "execution_count": 10,
+    "compute_hours": 0.66
+  },
+  {
+    "usage_id": "33d42965",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-31",
+    "execution_count": 6,
+    "compute_hours": 0.41
+  },
+  {
+    "usage_id": "be3495f1",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-02",
+    "execution_count": 5,
+    "compute_hours": 0.67
+  },
+  {
+    "usage_id": "df07fcbf",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-02",
+    "execution_count": 10,
+    "compute_hours": 1.05
+  },
+  {
+    "usage_id": "8d512e0c",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-03",
+    "execution_count": 2,
+    "compute_hours": 1.01
+  },
+  {
+    "usage_id": "ad8dba46",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-04",
+    "execution_count": 3,
+    "compute_hours": 0.63
+  },
+  {
+    "usage_id": "01d9ad78",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-04",
+    "execution_count": 3,
+    "compute_hours": 2.03
+  },
+  {
+    "usage_id": "b6ae9415",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-04",
+    "execution_count": 6,
+    "compute_hours": 0.5
+  },
+  {
+    "usage_id": "7605f0c2",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-05",
+    "execution_count": 2,
+    "compute_hours": 1.21
+  },
+  {
+    "usage_id": "81327a7b",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-05",
+    "execution_count": 1,
+    "compute_hours": 0.12
+  },
+  {
+    "usage_id": "990cad48",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2026-01-05",
+    "execution_count": 6,
+    "compute_hours": 0.67
+  },
+  {
+    "usage_id": "402343bf",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-05",
+    "execution_count": 1,
+    "compute_hours": 2.14
+  },
+  {
+    "usage_id": "7e4ffc8e",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-07",
+    "execution_count": 3,
+    "compute_hours": 1.85
+  },
+  {
+    "usage_id": "866bb70a",
+    "engagement_id": "ENG-2024-2000",
+    "user_id": "ps008",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-07",
+    "execution_count": 5,
+    "compute_hours": 2.04
+  },
+  {
+    "usage_id": "5a51b036",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-11",
+    "execution_count": 1,
+    "compute_hours": 1.6
+  },
+  {
+    "usage_id": "e64bead5",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-11",
+    "execution_count": 6,
+    "compute_hours": 2.14
+  },
+  {
+    "usage_id": "ed3dbbed",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-11",
+    "execution_count": 4,
+    "compute_hours": 0.31
+  },
+  {
+    "usage_id": "ff86b30b",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-11",
+    "execution_count": 7,
+    "compute_hours": 2.38
+  },
+  {
+    "usage_id": "dbb8879e",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-12",
+    "execution_count": 2,
+    "compute_hours": 2.36
+  },
+  {
+    "usage_id": "215fcd03",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-13",
+    "execution_count": 8,
+    "compute_hours": 1.37
+  },
+  {
+    "usage_id": "757bed65",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-13",
+    "execution_count": 3,
+    "compute_hours": 0.91
+  },
+  {
+    "usage_id": "b38df39d",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-13",
+    "execution_count": 5,
+    "compute_hours": 0.76
+  },
+  {
+    "usage_id": "48a75f31",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-16",
+    "execution_count": 8,
+    "compute_hours": 1.84
+  },
+  {
+    "usage_id": "d9eadd91",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-16",
+    "execution_count": 2,
+    "compute_hours": 1.4
+  },
+  {
+    "usage_id": "c209dc49",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-16",
+    "execution_count": 5,
+    "compute_hours": 1.01
+  },
+  {
+    "usage_id": "57554803",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-16",
+    "execution_count": 3,
+    "compute_hours": 1.52
+  },
+  {
+    "usage_id": "5bc7f182",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-17",
+    "execution_count": 4,
+    "compute_hours": 0.15
+  },
+  {
+    "usage_id": "65d26892",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-17",
+    "execution_count": 7,
+    "compute_hours": 1.98
+  },
+  {
+    "usage_id": "c2f975b9",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-20",
+    "execution_count": 6,
+    "compute_hours": 1.45
+  },
+  {
+    "usage_id": "0d19ccd9",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-21",
+    "execution_count": 1,
+    "compute_hours": 1.46
+  },
+  {
+    "usage_id": "4035523f",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-21",
+    "execution_count": 4,
+    "compute_hours": 0.51
+  },
+  {
+    "usage_id": "ab3e9489",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-21",
+    "execution_count": 4,
+    "compute_hours": 0.98
+  },
+  {
+    "usage_id": "78582faa",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-24",
+    "execution_count": 5,
+    "compute_hours": 0.97
+  },
+  {
+    "usage_id": "b794fa44",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-24",
+    "execution_count": 3,
+    "compute_hours": 1.64
+  },
+  {
+    "usage_id": "6da9a1d9",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-26",
+    "execution_count": 8,
+    "compute_hours": 2.38
+  },
+  {
+    "usage_id": "9b5ae5c5",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-26",
+    "execution_count": 1,
+    "compute_hours": 2.4
+  },
+  {
+    "usage_id": "08caf26d",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-26",
+    "execution_count": 2,
+    "compute_hours": 1.31
+  },
+  {
+    "usage_id": "5eecbb4f",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-27",
+    "execution_count": 10,
+    "compute_hours": 0.49
+  },
+  {
+    "usage_id": "1d2201a7",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-29",
+    "execution_count": 4,
+    "compute_hours": 0.92
+  },
+  {
+    "usage_id": "eca40433",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2025-12-29",
+    "execution_count": 8,
+    "compute_hours": 0.53
+  },
+  {
+    "usage_id": "69a4bb1b",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-30",
+    "execution_count": 1,
+    "compute_hours": 0.22
+  },
+  {
+    "usage_id": "0f69c044",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-30",
+    "execution_count": 2,
+    "compute_hours": 2.44
+  },
+  {
+    "usage_id": "99661a21",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-30",
+    "execution_count": 8,
+    "compute_hours": 2.06
+  },
+  {
+    "usage_id": "1b5056b2",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2025-12-30",
+    "execution_count": 2,
+    "compute_hours": 2.5
+  },
+  {
+    "usage_id": "eb01e0cb",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2025-12-31",
+    "execution_count": 7,
+    "compute_hours": 1.34
+  },
+  {
+    "usage_id": "125068f2",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2025-12-31",
+    "execution_count": 6,
+    "compute_hours": 1.08
+  },
+  {
+    "usage_id": "8f69f52d",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2025-12-31",
+    "execution_count": 7,
+    "compute_hours": 0.96
+  },
+  {
+    "usage_id": "cd3e6360",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "04_data_quality_checks",
+    "execution_date": "2025-12-31",
+    "execution_count": 8,
+    "compute_hours": 1.63
+  },
+  {
+    "usage_id": "db43e824",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-01",
+    "execution_count": 5,
+    "compute_hours": 1.83
+  },
+  {
+    "usage_id": "683d0c9c",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-01",
+    "execution_count": 9,
+    "compute_hours": 2.02
+  },
+  {
+    "usage_id": "e07c6f0a",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-03",
+    "execution_count": 5,
+    "compute_hours": 0.22
+  },
+  {
+    "usage_id": "ff764c20",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-03",
+    "execution_count": 9,
+    "compute_hours": 0.29
+  },
+  {
+    "usage_id": "ad8568d6",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-04",
+    "execution_count": 6,
+    "compute_hours": 0.83
+  },
+  {
+    "usage_id": "73c094e3",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-04",
+    "execution_count": 3,
+    "compute_hours": 1.79
+  },
+  {
+    "usage_id": "720174e2",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-04",
+    "execution_count": 5,
+    "compute_hours": 2.29
+  },
+  {
+    "usage_id": "09535694",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "03_etl_pipeline",
+    "execution_date": "2026-01-05",
+    "execution_count": 3,
+    "compute_hours": 2.06
+  },
+  {
+    "usage_id": "82c9482a",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "02_schema_analysis",
+    "execution_date": "2026-01-07",
+    "execution_count": 7,
+    "compute_hours": 2.27
+  },
+  {
+    "usage_id": "aff7a310",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "01_data_exploration",
+    "execution_date": "2026-01-07",
+    "execution_count": 7,
+    "compute_hours": 1.89
+  },
+  {
+    "usage_id": "756557f2",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "05_performance_testing",
+    "execution_date": "2026-01-07",
+    "execution_count": 3,
+    "compute_hours": 0.8
+  },
+  {
+    "usage_id": "aa011288",
+    "engagement_id": "ENG-2024-3129",
+    "user_id": "ps001",
+    "notebook_name": "06_ml_feature_engineering",
+    "execution_date": "2026-01-07",
+    "execution_count": 6,
+    "compute_hours": 2.33
+  }
+]
