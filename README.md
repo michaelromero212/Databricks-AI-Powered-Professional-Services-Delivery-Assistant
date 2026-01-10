@@ -109,4 +109,63 @@ Detailed documentation can be found in [docs/architecture.md](docs/architecture.
 For a complete walkthrough, see the [Onboarding Guide](docs/onboarding.md).
 
 ---
+
+## 🐳 Docker
+
+Run the full stack with Docker Compose:
+
+```bash
+# Start backend and frontend
+docker-compose up
+
+# Or run backend only
+docker build -f Dockerfile.backend -t ps-assistant .
+docker run -p 8000:8000 ps-assistant
+```
+
+---
+
+## 🧪 Testing
+
+Run the test suite:
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run all tests
+pytest tests/ -v
+
+# Run with coverage
+pytest tests/ -v --cov=app/backend
+```
+
+**Test coverage:**
+- `test_api.py` — API endpoint tests
+- `test_ai_client.py` — AI/LLM integration tests  
+- `test_connector.py` — Data layer tests
+
+---
+
+## 🔄 CI/CD
+
+GitHub Actions automatically runs on every push:
+- ✅ Backend tests (pytest)
+- ✅ Frontend build (npm)
+- ✅ Docker image verification
+
+See [`.github/workflows/ci.yml`](.github/workflows/ci.yml) for the full pipeline.
+
+---
+
+## 📐 Architecture Decisions
+
+Key technical decisions are documented in [docs/ARCHITECTURE_DECISIONS.md](docs/ARCHITECTURE_DECISIONS.md):
+- React + Vite over Streamlit
+- Hugging Face over OpenAI
+- FastAPI over Flask
+- Unity Catalog Volumes over DBFS
+
+---
+
 *Created by the Databricks AI-Powered Delivery Team*
