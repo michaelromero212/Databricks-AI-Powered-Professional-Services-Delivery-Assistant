@@ -1,5 +1,10 @@
 # Databricks AI-Powered Professional Services Delivery Assistant
 
+![CI](https://github.com/michaelromero212/Databricks-AI-Powered-Professional-Services-Delivery-Assistant/actions/workflows/ci.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![React](https://img.shields.io/badge/react-18+-61dafb.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 A professional internal tooling proof-of-concept designed for Databricks Professional Services (PS) teams. This application provides a unified layer for managing engagements, surfacing delivery risks through AI, and tracking the adoption of AI-enhanced workflows.
 
 ## 🚀 Overview

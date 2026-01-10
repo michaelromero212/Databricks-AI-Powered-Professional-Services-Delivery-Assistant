@@ -1,79 +1,187 @@
 [
   {
-    "metric_id": "c58de06d",
-    "date": "2025-12-10",
+    "metric_id": "29b8cb01",
+    "date": "2025-12-11",
     "role": "Solutions Architect",
-    "insight_type": "risk_detection",
-    "insights_generated": 5,
-    "estimated_time_saved_minutes": 35,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "703c69df",
-    "date": "2025-12-10",
-    "role": "Data Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 9,
-    "estimated_time_saved_minutes": 45,
+    "insight_type": "health_summary",
+    "insights_generated": 10,
+    "estimated_time_saved_minutes": 130,
     "user_rating": null
   },
   {
-    "metric_id": "c2ae4ef4",
-    "date": "2025-12-10",
-    "role": "ML Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 10,
-    "estimated_time_saved_minutes": 130,
-    "user_rating": 5
+    "metric_id": "8076a792",
+    "date": "2025-12-11",
+    "role": "Data Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 2,
+    "estimated_time_saved_minutes": 26,
+    "user_rating": 4
   },
   {
-    "metric_id": "393ade59",
-    "date": "2025-12-10",
+    "metric_id": "b73fea72",
+    "date": "2025-12-11",
+    "role": "ML Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 56,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "875495cf",
+    "date": "2025-12-11",
     "role": "Delivery Manager",
     "insight_type": "risk_detection",
     "insights_generated": 15,
-    "estimated_time_saved_minutes": 195,
+    "estimated_time_saved_minutes": 120,
+    "user_rating": null
+  },
+  {
+    "metric_id": "8e5e2059",
+    "date": "2025-12-12",
+    "role": "Solutions Architect",
+    "insight_type": "theme_extraction",
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 143,
     "user_rating": 5
   },
   {
-    "metric_id": "d531e020",
-    "date": "2025-12-11",
+    "metric_id": "c1dd8504",
+    "date": "2025-12-12",
+    "role": "Data Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 6,
+    "estimated_time_saved_minutes": 90,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "0115ce3d",
+    "date": "2025-12-12",
+    "role": "ML Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 8,
+    "estimated_time_saved_minutes": 112,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "f6926bda",
+    "date": "2025-12-12",
+    "role": "Delivery Manager",
+    "insight_type": "theme_extraction",
+    "insights_generated": 14,
+    "estimated_time_saved_minutes": 154,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "d9417b66",
+    "date": "2025-12-13",
     "role": "Solutions Architect",
     "insight_type": "health_summary",
-    "insights_generated": 13,
-    "estimated_time_saved_minutes": 104,
-    "user_rating": 5
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 77,
+    "user_rating": null
   },
   {
-    "metric_id": "94ef8ab0",
-    "date": "2025-12-11",
+    "metric_id": "2fa4fcab",
+    "date": "2025-12-13",
     "role": "Data Engineer",
-    "insight_type": "health_summary",
+    "insight_type": "theme_extraction",
+    "insights_generated": 2,
+    "estimated_time_saved_minutes": 22,
+    "user_rating": null
+  },
+  {
+    "metric_id": "4b84818c",
+    "date": "2025-12-13",
+    "role": "ML Engineer",
+    "insight_type": "theme_extraction",
     "insights_generated": 4,
-    "estimated_time_saved_minutes": 60,
+    "estimated_time_saved_minutes": 56,
     "user_rating": 5
   },
   {
-    "metric_id": "7098d6f3",
-    "date": "2025-12-11",
+    "metric_id": "34b7e54c",
+    "date": "2025-12-13",
+    "role": "Delivery Manager",
+    "insight_type": "action_recommendation",
+    "insights_generated": 12,
+    "estimated_time_saved_minutes": 168,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "64d3dfce",
+    "date": "2025-12-14",
+    "role": "Solutions Architect",
+    "insight_type": "action_recommendation",
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 99,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "6724488d",
+    "date": "2025-12-14",
+    "role": "Data Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 65,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "e2188fea",
+    "date": "2025-12-14",
     "role": "ML Engineer",
     "insight_type": "health_summary",
-    "insights_generated": 10,
-    "estimated_time_saved_minutes": 60,
-    "user_rating": 4
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 66,
+    "user_rating": 5
   },
   {
-    "metric_id": "ca29b81c",
-    "date": "2025-12-11",
+    "metric_id": "2b1ed129",
+    "date": "2025-12-14",
     "role": "Delivery Manager",
+    "insight_type": "theme_extraction",
+    "insights_generated": 15,
+    "estimated_time_saved_minutes": 135,
+    "user_rating": null
+  },
+  {
+    "metric_id": "cfaa4017",
+    "date": "2025-12-15",
+    "role": "Solutions Architect",
+    "insight_type": "risk_detection",
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 42,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "909335af",
+    "date": "2025-12-15",
+    "role": "Data Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 84,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "ba353ea3",
+    "date": "2025-12-15",
+    "role": "ML Engineer",
     "insight_type": "health_summary",
-    "insights_generated": 8,
-    "estimated_time_saved_minutes": 120,
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 81,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "a70f7403",
+    "date": "2025-12-15",
+    "role": "Delivery Manager",
+    "insight_type": "action_recommendation",
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 154,
     "user_rating": 4
   },
   {
-    "metric_id": "21ab8a59",
-    "date": "2025-12-12",
+    "metric_id": "f0675fb3",
+    "date": "2025-12-16",
     "role": "Solutions Architect",
     "insight_type": "risk_detection",
     "insights_generated": 11,
@@ -81,1002 +189,894 @@
     "user_rating": 5
   },
   {
-    "metric_id": "8262ca0b",
-    "date": "2025-12-12",
+    "metric_id": "a5124034",
+    "date": "2025-12-16",
     "role": "Data Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 70,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "8af8781f",
-    "date": "2025-12-12",
-    "role": "ML Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 5,
-    "estimated_time_saved_minutes": 25,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "d0682733",
-    "date": "2025-12-12",
-    "role": "Delivery Manager",
-    "insight_type": "action_recommendation",
-    "insights_generated": 10,
-    "estimated_time_saved_minutes": 140,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "e88d523c",
-    "date": "2025-12-13",
-    "role": "Solutions Architect",
     "insight_type": "health_summary",
-    "insights_generated": 11,
-    "estimated_time_saved_minutes": 165,
-    "user_rating": 4
-  },
-  {
-    "metric_id": "c71d03dd",
-    "date": "2025-12-13",
-    "role": "Data Engineer",
-    "insight_type": "action_recommendation",
     "insights_generated": 7,
-    "estimated_time_saved_minutes": 91,
+    "estimated_time_saved_minutes": 49,
     "user_rating": 5
   },
   {
-    "metric_id": "42b17bcf",
-    "date": "2025-12-13",
+    "metric_id": "98910a58",
+    "date": "2025-12-16",
     "role": "ML Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 98,
+    "insight_type": "theme_extraction",
+    "insights_generated": 8,
+    "estimated_time_saved_minutes": 80,
     "user_rating": 5
   },
   {
-    "metric_id": "25025170",
-    "date": "2025-12-13",
+    "metric_id": "63ed8a7a",
+    "date": "2025-12-16",
     "role": "Delivery Manager",
-    "insight_type": "risk_detection",
-    "insights_generated": 10,
-    "estimated_time_saved_minutes": 70,
+    "insight_type": "health_summary",
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 42,
     "user_rating": 5
   },
   {
-    "metric_id": "47511b4c",
-    "date": "2025-12-14",
+    "metric_id": "165291d1",
+    "date": "2025-12-17",
     "role": "Solutions Architect",
-    "insight_type": "risk_detection",
-    "insights_generated": 5,
-    "estimated_time_saved_minutes": 45,
-    "user_rating": 4
+    "insight_type": "theme_extraction",
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 143,
+    "user_rating": 5
   },
   {
-    "metric_id": "9b263116",
-    "date": "2025-12-14",
+    "metric_id": "ebcf4a4c",
+    "date": "2025-12-17",
     "role": "Data Engineer",
     "insight_type": "theme_extraction",
-    "insights_generated": 3,
-    "estimated_time_saved_minutes": 30,
-    "user_rating": 4
-  },
-  {
-    "metric_id": "6c74d0ee",
-    "date": "2025-12-14",
-    "role": "ML Engineer",
-    "insight_type": "risk_detection",
     "insights_generated": 8,
-    "estimated_time_saved_minutes": 64,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "4d553be7",
-    "date": "2025-12-14",
-    "role": "Delivery Manager",
-    "insight_type": "health_summary",
-    "insights_generated": 14,
     "estimated_time_saved_minutes": 112,
     "user_rating": 5
   },
   {
-    "metric_id": "17bea2ae",
-    "date": "2025-12-15",
-    "role": "Solutions Architect",
-    "insight_type": "theme_extraction",
-    "insights_generated": 6,
-    "estimated_time_saved_minutes": 48,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "1c610c49",
-    "date": "2025-12-15",
-    "role": "Data Engineer",
-    "insight_type": "health_summary",
-    "insights_generated": 8,
-    "estimated_time_saved_minutes": 40,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "5690059c",
-    "date": "2025-12-15",
+    "metric_id": "cbb0f448",
+    "date": "2025-12-17",
     "role": "ML Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 5,
-    "estimated_time_saved_minutes": 60,
+    "insight_type": "action_recommendation",
+    "insights_generated": 10,
+    "estimated_time_saved_minutes": 70,
     "user_rating": null
   },
   {
-    "metric_id": "e2ab65ad",
-    "date": "2025-12-15",
-    "role": "Delivery Manager",
-    "insight_type": "risk_detection",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 91,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "aa532bac",
-    "date": "2025-12-16",
-    "role": "Solutions Architect",
-    "insight_type": "action_recommendation",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 77,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "3e371bf1",
-    "date": "2025-12-16",
-    "role": "Data Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 4,
-    "estimated_time_saved_minutes": 28,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "882febd8",
-    "date": "2025-12-16",
-    "role": "ML Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 9,
-    "estimated_time_saved_minutes": 45,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "5f5eb5b1",
-    "date": "2025-12-16",
+    "metric_id": "f4f25b67",
+    "date": "2025-12-17",
     "role": "Delivery Manager",
     "insight_type": "theme_extraction",
-    "insights_generated": 12,
-    "estimated_time_saved_minutes": 96,
+    "insights_generated": 13,
+    "estimated_time_saved_minutes": 104,
     "user_rating": 5
   },
   {
-    "metric_id": "f8a8e347",
-    "date": "2025-12-17",
+    "metric_id": "27ca2a03",
+    "date": "2025-12-18",
     "role": "Solutions Architect",
-    "insight_type": "action_recommendation",
-    "insights_generated": 6,
-    "estimated_time_saved_minutes": 66,
-    "user_rating": null
-  },
-  {
-    "metric_id": "e4432fe7",
-    "date": "2025-12-17",
-    "role": "Data Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 5,
-    "estimated_time_saved_minutes": 60,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "41e64003",
-    "date": "2025-12-17",
-    "role": "ML Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 11,
-    "estimated_time_saved_minutes": 110,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "bbda3f9b",
-    "date": "2025-12-17",
-    "role": "Delivery Manager",
     "insight_type": "health_summary",
-    "insights_generated": 12,
-    "estimated_time_saved_minutes": 108,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "f9961b54",
-    "date": "2025-12-18",
-    "role": "Solutions Architect",
-    "insight_type": "theme_extraction",
-    "insights_generated": 6,
-    "estimated_time_saved_minutes": 66,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "b02924bc",
-    "date": "2025-12-18",
-    "role": "Data Engineer",
-    "insight_type": "theme_extraction",
     "insights_generated": 9,
     "estimated_time_saved_minutes": 126,
     "user_rating": 4
   },
   {
-    "metric_id": "bfd27bea",
+    "metric_id": "166a2ca2",
     "date": "2025-12-18",
-    "role": "ML Engineer",
-    "insight_type": "theme_extraction",
-    "insights_generated": 8,
-    "estimated_time_saved_minutes": 80,
-    "user_rating": null
-  },
-  {
-    "metric_id": "6732706d",
-    "date": "2025-12-18",
-    "role": "Delivery Manager",
+    "role": "Data Engineer",
     "insight_type": "health_summary",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 70,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "9b55dce3",
-    "date": "2025-12-19",
-    "role": "Solutions Architect",
-    "insight_type": "risk_detection",
-    "insights_generated": 13,
-    "estimated_time_saved_minutes": 91,
-    "user_rating": 4
-  },
-  {
-    "metric_id": "ac980a55",
-    "date": "2025-12-19",
-    "role": "Data Engineer",
-    "insight_type": "action_recommendation",
     "insights_generated": 3,
-    "estimated_time_saved_minutes": 30,
-    "user_rating": null
-  },
-  {
-    "metric_id": "9d128ec9",
-    "date": "2025-12-19",
-    "role": "ML Engineer",
-    "insight_type": "theme_extraction",
-    "insights_generated": 8,
-    "estimated_time_saved_minutes": 96,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "ba6295c4",
-    "date": "2025-12-19",
-    "role": "Delivery Manager",
-    "insight_type": "theme_extraction",
-    "insights_generated": 13,
-    "estimated_time_saved_minutes": 78,
+    "estimated_time_saved_minutes": 45,
     "user_rating": 4
   },
   {
-    "metric_id": "06f9ff0c",
-    "date": "2025-12-20",
-    "role": "Solutions Architect",
-    "insight_type": "action_recommendation",
-    "insights_generated": 13,
-    "estimated_time_saved_minutes": 117,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "b72f183a",
-    "date": "2025-12-20",
-    "role": "Data Engineer",
-    "insight_type": "theme_extraction",
-    "insights_generated": 8,
-    "estimated_time_saved_minutes": 104,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "9a95884b",
-    "date": "2025-12-20",
+    "metric_id": "413fc461",
+    "date": "2025-12-18",
     "role": "ML Engineer",
     "insight_type": "action_recommendation",
     "insights_generated": 4,
-    "estimated_time_saved_minutes": 20,
+    "estimated_time_saved_minutes": 36,
     "user_rating": 5
   },
   {
-    "metric_id": "7ab53fda",
-    "date": "2025-12-20",
+    "metric_id": "74955328",
+    "date": "2025-12-18",
     "role": "Delivery Manager",
-    "insight_type": "risk_detection",
-    "insights_generated": 12,
-    "estimated_time_saved_minutes": 168,
-    "user_rating": null
-  },
-  {
-    "metric_id": "b7c6335e",
-    "date": "2025-12-21",
-    "role": "Solutions Architect",
     "insight_type": "action_recommendation",
-    "insights_generated": 10,
+    "insights_generated": 9,
     "estimated_time_saved_minutes": 90,
     "user_rating": 5
   },
   {
-    "metric_id": "86345a4c",
-    "date": "2025-12-21",
-    "role": "Data Engineer",
+    "metric_id": "c0663f46",
+    "date": "2025-12-19",
+    "role": "Solutions Architect",
     "insight_type": "risk_detection",
-    "insights_generated": 2,
-    "estimated_time_saved_minutes": 10,
-    "user_rating": null
-  },
-  {
-    "metric_id": "c89c0df7",
-    "date": "2025-12-21",
-    "role": "ML Engineer",
-    "insight_type": "health_summary",
-    "insights_generated": 3,
-    "estimated_time_saved_minutes": 24,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "2101c16a",
-    "date": "2025-12-21",
-    "role": "Delivery Manager",
-    "insight_type": "health_summary",
     "insights_generated": 12,
     "estimated_time_saved_minutes": 108,
     "user_rating": 5
   },
   {
-    "metric_id": "8da396f7",
-    "date": "2025-12-22",
-    "role": "Solutions Architect",
-    "insight_type": "action_recommendation",
-    "insights_generated": 10,
-    "estimated_time_saved_minutes": 70,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "2d5654fc",
-    "date": "2025-12-22",
+    "metric_id": "9bc114cd",
+    "date": "2025-12-19",
     "role": "Data Engineer",
     "insight_type": "action_recommendation",
-    "insights_generated": 8,
-    "estimated_time_saved_minutes": 72,
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 63,
     "user_rating": 5
   },
   {
-    "metric_id": "241ff55c",
+    "metric_id": "d6ef9db5",
+    "date": "2025-12-19",
+    "role": "ML Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 81,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "488103e1",
+    "date": "2025-12-19",
+    "role": "Delivery Manager",
+    "insight_type": "action_recommendation",
+    "insights_generated": 14,
+    "estimated_time_saved_minutes": 210,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "43ad0115",
+    "date": "2025-12-20",
+    "role": "Solutions Architect",
+    "insight_type": "health_summary",
+    "insights_generated": 12,
+    "estimated_time_saved_minutes": 72,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "8464782a",
+    "date": "2025-12-20",
+    "role": "Data Engineer",
+    "insight_type": "health_summary",
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 30,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "accad720",
+    "date": "2025-12-20",
+    "role": "ML Engineer",
+    "insight_type": "health_summary",
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 77,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "024cc3a4",
+    "date": "2025-12-20",
+    "role": "Delivery Manager",
+    "insight_type": "action_recommendation",
+    "insights_generated": 15,
+    "estimated_time_saved_minutes": 210,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "a677c7a3",
+    "date": "2025-12-21",
+    "role": "Solutions Architect",
+    "insight_type": "theme_extraction",
+    "insights_generated": 13,
+    "estimated_time_saved_minutes": 91,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "5c37fa3c",
+    "date": "2025-12-21",
+    "role": "Data Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 75,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "c86ad047",
+    "date": "2025-12-21",
+    "role": "ML Engineer",
+    "insight_type": "theme_extraction",
+    "insights_generated": 3,
+    "estimated_time_saved_minutes": 24,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "96c206fe",
+    "date": "2025-12-21",
+    "role": "Delivery Manager",
+    "insight_type": "health_summary",
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 135,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "e49fdca6",
+    "date": "2025-12-22",
+    "role": "Solutions Architect",
+    "insight_type": "theme_extraction",
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 65,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "423c37c4",
+    "date": "2025-12-22",
+    "role": "Data Engineer",
+    "insight_type": "theme_extraction",
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 75,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "d854ba5f",
     "date": "2025-12-22",
     "role": "ML Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 99,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "87033821",
+    "date": "2025-12-22",
+    "role": "Delivery Manager",
+    "insight_type": "action_recommendation",
+    "insights_generated": 15,
+    "estimated_time_saved_minutes": 105,
+    "user_rating": null
+  },
+  {
+    "metric_id": "472921ff",
+    "date": "2025-12-23",
+    "role": "Solutions Architect",
+    "insight_type": "action_recommendation",
+    "insights_generated": 6,
+    "estimated_time_saved_minutes": 78,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "b5c76311",
+    "date": "2025-12-23",
+    "role": "Data Engineer",
+    "insight_type": "theme_extraction",
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 45,
+    "user_rating": null
+  },
+  {
+    "metric_id": "f74a648b",
+    "date": "2025-12-23",
+    "role": "ML Engineer",
+    "insight_type": "theme_extraction",
+    "insights_generated": 4,
+    "estimated_time_saved_minutes": 60,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "7f7d2c09",
+    "date": "2025-12-23",
+    "role": "Delivery Manager",
     "insight_type": "risk_detection",
     "insights_generated": 9,
     "estimated_time_saved_minutes": 81,
     "user_rating": 5
   },
   {
-    "metric_id": "cfc7f7ee",
-    "date": "2025-12-22",
+    "metric_id": "47a90924",
+    "date": "2025-12-24",
+    "role": "Solutions Architect",
+    "insight_type": "theme_extraction",
+    "insights_generated": 6,
+    "estimated_time_saved_minutes": 72,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "9d19c303",
+    "date": "2025-12-24",
+    "role": "Data Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 35,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "d6ba8eac",
+    "date": "2025-12-24",
+    "role": "ML Engineer",
+    "insight_type": "theme_extraction",
+    "insights_generated": 10,
+    "estimated_time_saved_minutes": 150,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "c1561b12",
+    "date": "2025-12-24",
+    "role": "Delivery Manager",
+    "insight_type": "risk_detection",
+    "insights_generated": 13,
+    "estimated_time_saved_minutes": 156,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "4ffe7c13",
+    "date": "2025-12-25",
+    "role": "Solutions Architect",
+    "insight_type": "theme_extraction",
+    "insights_generated": 8,
+    "estimated_time_saved_minutes": 56,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "9d14766e",
+    "date": "2025-12-25",
+    "role": "Data Engineer",
+    "insight_type": "health_summary",
+    "insights_generated": 4,
+    "estimated_time_saved_minutes": 32,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "16c6beb1",
+    "date": "2025-12-25",
+    "role": "ML Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 63,
+    "user_rating": null
+  },
+  {
+    "metric_id": "bf322165",
+    "date": "2025-12-25",
+    "role": "Delivery Manager",
+    "insight_type": "risk_detection",
+    "insights_generated": 12,
+    "estimated_time_saved_minutes": 108,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "688bff74",
+    "date": "2025-12-26",
+    "role": "Solutions Architect",
+    "insight_type": "health_summary",
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 126,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "541f2940",
+    "date": "2025-12-26",
+    "role": "Data Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 3,
+    "estimated_time_saved_minutes": 33,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "c6a6ee40",
+    "date": "2025-12-26",
+    "role": "ML Engineer",
+    "insight_type": "health_summary",
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 55,
+    "user_rating": null
+  },
+  {
+    "metric_id": "f6caeeeb",
+    "date": "2025-12-26",
+    "role": "Delivery Manager",
+    "insight_type": "action_recommendation",
+    "insights_generated": 8,
+    "estimated_time_saved_minutes": 96,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "a4140898",
+    "date": "2025-12-27",
+    "role": "Solutions Architect",
+    "insight_type": "action_recommendation",
+    "insights_generated": 12,
+    "estimated_time_saved_minutes": 132,
+    "user_rating": null
+  },
+  {
+    "metric_id": "c794817a",
+    "date": "2025-12-27",
+    "role": "Data Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 6,
+    "estimated_time_saved_minutes": 84,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "99cf3e3d",
+    "date": "2025-12-27",
+    "role": "ML Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 3,
+    "estimated_time_saved_minutes": 18,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "0470b19f",
+    "date": "2025-12-27",
     "role": "Delivery Manager",
     "insight_type": "theme_extraction",
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 110,
+    "user_rating": null
+  },
+  {
+    "metric_id": "783e07de",
+    "date": "2025-12-28",
+    "role": "Solutions Architect",
+    "insight_type": "action_recommendation",
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 126,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "07e26741",
+    "date": "2025-12-28",
+    "role": "Data Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 50,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "ea060d3d",
+    "date": "2025-12-28",
+    "role": "ML Engineer",
+    "insight_type": "theme_extraction",
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 154,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "3653a218",
+    "date": "2025-12-28",
+    "role": "Delivery Manager",
+    "insight_type": "theme_extraction",
+    "insights_generated": 15,
+    "estimated_time_saved_minutes": 150,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "b82d454b",
+    "date": "2025-12-29",
+    "role": "Solutions Architect",
+    "insight_type": "health_summary",
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 105,
+    "user_rating": null
+  },
+  {
+    "metric_id": "7be65806",
+    "date": "2025-12-29",
+    "role": "Data Engineer",
+    "insight_type": "health_summary",
+    "insights_generated": 3,
+    "estimated_time_saved_minutes": 24,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "c5b0acff",
+    "date": "2025-12-29",
+    "role": "ML Engineer",
+    "insight_type": "health_summary",
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 84,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "9ee814a8",
+    "date": "2025-12-29",
+    "role": "Delivery Manager",
+    "insight_type": "risk_detection",
+    "insights_generated": 12,
+    "estimated_time_saved_minutes": 60,
+    "user_rating": null
+  },
+  {
+    "metric_id": "24319acb",
+    "date": "2025-12-30",
+    "role": "Solutions Architect",
+    "insight_type": "health_summary",
     "insights_generated": 12,
     "estimated_time_saved_minutes": 84,
     "user_rating": 5
   },
   {
-    "metric_id": "a387bdbb",
-    "date": "2025-12-23",
-    "role": "Solutions Architect",
-    "insight_type": "theme_extraction",
-    "insights_generated": 11,
-    "estimated_time_saved_minutes": 154,
-    "user_rating": 4
-  },
-  {
-    "metric_id": "2c58301f",
-    "date": "2025-12-23",
-    "role": "Data Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 3,
-    "estimated_time_saved_minutes": 39,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "72773da1",
-    "date": "2025-12-23",
-    "role": "ML Engineer",
-    "insight_type": "health_summary",
-    "insights_generated": 10,
-    "estimated_time_saved_minutes": 140,
-    "user_rating": null
-  },
-  {
-    "metric_id": "a705b501",
-    "date": "2025-12-23",
-    "role": "Delivery Manager",
-    "insight_type": "health_summary",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 70,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "b7c15ae1",
-    "date": "2025-12-24",
-    "role": "Solutions Architect",
-    "insight_type": "health_summary",
-    "insights_generated": 5,
-    "estimated_time_saved_minutes": 45,
-    "user_rating": 4
-  },
-  {
-    "metric_id": "1345cf9f",
-    "date": "2025-12-24",
-    "role": "Data Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 10,
-    "estimated_time_saved_minutes": 140,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "ff9fc81a",
-    "date": "2025-12-24",
-    "role": "ML Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 11,
-    "estimated_time_saved_minutes": 99,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "cb0f0676",
-    "date": "2025-12-24",
-    "role": "Delivery Manager",
-    "insight_type": "theme_extraction",
-    "insights_generated": 14,
-    "estimated_time_saved_minutes": 182,
-    "user_rating": 4
-  },
-  {
-    "metric_id": "f7fdd4e2",
-    "date": "2025-12-25",
-    "role": "Solutions Architect",
-    "insight_type": "theme_extraction",
-    "insights_generated": 8,
-    "estimated_time_saved_minutes": 120,
-    "user_rating": null
-  },
-  {
-    "metric_id": "fb595ea8",
-    "date": "2025-12-25",
-    "role": "Data Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 77,
-    "user_rating": null
-  },
-  {
-    "metric_id": "690f04f5",
-    "date": "2025-12-25",
-    "role": "ML Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 9,
-    "estimated_time_saved_minutes": 135,
-    "user_rating": null
-  },
-  {
-    "metric_id": "4fe627dc",
-    "date": "2025-12-25",
-    "role": "Delivery Manager",
-    "insight_type": "health_summary",
-    "insights_generated": 11,
-    "estimated_time_saved_minutes": 66,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "18c32f1c",
-    "date": "2025-12-26",
-    "role": "Solutions Architect",
-    "insight_type": "health_summary",
-    "insights_generated": 6,
-    "estimated_time_saved_minutes": 36,
-    "user_rating": null
-  },
-  {
-    "metric_id": "36cea8e7",
-    "date": "2025-12-26",
-    "role": "Data Engineer",
-    "insight_type": "theme_extraction",
-    "insights_generated": 2,
-    "estimated_time_saved_minutes": 10,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "0badcfac",
-    "date": "2025-12-26",
-    "role": "ML Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 49,
-    "user_rating": null
-  },
-  {
-    "metric_id": "1028bc93",
-    "date": "2025-12-26",
-    "role": "Delivery Manager",
-    "insight_type": "action_recommendation",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 63,
-    "user_rating": 4
-  },
-  {
-    "metric_id": "299774aa",
-    "date": "2025-12-27",
-    "role": "Solutions Architect",
-    "insight_type": "risk_detection",
-    "insights_generated": 12,
-    "estimated_time_saved_minutes": 72,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "93bcb14f",
-    "date": "2025-12-27",
+    "metric_id": "986d534a",
+    "date": "2025-12-30",
     "role": "Data Engineer",
     "insight_type": "risk_detection",
-    "insights_generated": 10,
-    "estimated_time_saved_minutes": 60,
-    "user_rating": null
-  },
-  {
-    "metric_id": "55dbd8a2",
-    "date": "2025-12-27",
-    "role": "ML Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 77,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "8d6521e0",
-    "date": "2025-12-27",
-    "role": "Delivery Manager",
-    "insight_type": "action_recommendation",
-    "insights_generated": 13,
-    "estimated_time_saved_minutes": 65,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "970f522a",
-    "date": "2025-12-28",
-    "role": "Solutions Architect",
-    "insight_type": "health_summary",
-    "insights_generated": 13,
-    "estimated_time_saved_minutes": 104,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "818599f4",
-    "date": "2025-12-28",
-    "role": "Data Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 2,
-    "estimated_time_saved_minutes": 28,
-    "user_rating": null
-  },
-  {
-    "metric_id": "242a25ba",
-    "date": "2025-12-28",
-    "role": "ML Engineer",
-    "insight_type": "action_recommendation",
     "insights_generated": 4,
-    "estimated_time_saved_minutes": 20,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "0ce6f3cb",
-    "date": "2025-12-28",
-    "role": "Delivery Manager",
-    "insight_type": "health_summary",
-    "insights_generated": 15,
-    "estimated_time_saved_minutes": 180,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "a015f25d",
-    "date": "2025-12-29",
-    "role": "Solutions Architect",
-    "insight_type": "risk_detection",
-    "insights_generated": 12,
-    "estimated_time_saved_minutes": 60,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "8d74ef9e",
-    "date": "2025-12-29",
-    "role": "Data Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 5,
-    "estimated_time_saved_minutes": 75,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "8ff68572",
-    "date": "2025-12-29",
-    "role": "ML Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 5,
-    "estimated_time_saved_minutes": 30,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "5ace6eee",
-    "date": "2025-12-29",
-    "role": "Delivery Manager",
-    "insight_type": "health_summary",
-    "insights_generated": 9,
-    "estimated_time_saved_minutes": 54,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "d4437089",
-    "date": "2025-12-30",
-    "role": "Solutions Architect",
-    "insight_type": "risk_detection",
-    "insights_generated": 11,
-    "estimated_time_saved_minutes": 66,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "7ce02844",
-    "date": "2025-12-30",
-    "role": "Data Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 77,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "d8d4e848",
-    "date": "2025-12-30",
-    "role": "ML Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 9,
-    "estimated_time_saved_minutes": 99,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "6a81bd51",
-    "date": "2025-12-30",
-    "role": "Delivery Manager",
-    "insight_type": "risk_detection",
-    "insights_generated": 8,
     "estimated_time_saved_minutes": 56,
-    "user_rating": 5
+    "user_rating": 4
   },
   {
-    "metric_id": "4b59d038",
-    "date": "2025-12-31",
-    "role": "Solutions Architect",
-    "insight_type": "theme_extraction",
+    "metric_id": "52b92cdb",
+    "date": "2025-12-30",
+    "role": "ML Engineer",
+    "insight_type": "health_summary",
     "insights_generated": 5,
     "estimated_time_saved_minutes": 25,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "7b9523e2",
-    "date": "2025-12-31",
-    "role": "Data Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 8,
-    "estimated_time_saved_minutes": 56,
-    "user_rating": null
-  },
-  {
-    "metric_id": "e2baedb2",
-    "date": "2025-12-31",
-    "role": "ML Engineer",
-    "insight_type": "health_summary",
-    "insights_generated": 4,
-    "estimated_time_saved_minutes": 40,
-    "user_rating": null
-  },
-  {
-    "metric_id": "ea024958",
-    "date": "2025-12-31",
-    "role": "Delivery Manager",
-    "insight_type": "risk_detection",
-    "insights_generated": 15,
-    "estimated_time_saved_minutes": 105,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "4f315af4",
-    "date": "2026-01-01",
-    "role": "Solutions Architect",
-    "insight_type": "theme_extraction",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 56,
-    "user_rating": null
-  },
-  {
-    "metric_id": "d342ac8e",
-    "date": "2026-01-01",
-    "role": "Data Engineer",
-    "insight_type": "health_summary",
-    "insights_generated": 9,
-    "estimated_time_saved_minutes": 72,
     "user_rating": 4
   },
   {
-    "metric_id": "b199a4c3",
-    "date": "2026-01-01",
-    "role": "ML Engineer",
-    "insight_type": "theme_extraction",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 42,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "2344fc7d",
-    "date": "2026-01-01",
+    "metric_id": "95cd289b",
+    "date": "2025-12-30",
     "role": "Delivery Manager",
-    "insight_type": "health_summary",
-    "insights_generated": 13,
-    "estimated_time_saved_minutes": 169,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "b78a1d41",
-    "date": "2026-01-02",
-    "role": "Solutions Architect",
     "insight_type": "action_recommendation",
-    "insights_generated": 13,
-    "estimated_time_saved_minutes": 65,
+    "insights_generated": 14,
+    "estimated_time_saved_minutes": 154,
     "user_rating": 5
   },
   {
-    "metric_id": "e2215497",
-    "date": "2026-01-02",
-    "role": "Data Engineer",
-    "insight_type": "health_summary",
-    "insights_generated": 9,
-    "estimated_time_saved_minutes": 117,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "2d813306",
-    "date": "2026-01-02",
-    "role": "ML Engineer",
-    "insight_type": "theme_extraction",
-    "insights_generated": 9,
-    "estimated_time_saved_minutes": 45,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "2d5aa07f",
-    "date": "2026-01-02",
-    "role": "Delivery Manager",
-    "insight_type": "risk_detection",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 35,
-    "user_rating": null
-  },
-  {
-    "metric_id": "c803a592",
-    "date": "2026-01-03",
+    "metric_id": "c87256ed",
+    "date": "2025-12-31",
     "role": "Solutions Architect",
     "insight_type": "health_summary",
-    "insights_generated": 11,
-    "estimated_time_saved_minutes": 143,
-    "user_rating": 5
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 75,
+    "user_rating": 4
   },
   {
-    "metric_id": "d2235d7a",
-    "date": "2026-01-03",
+    "metric_id": "6d67d64e",
+    "date": "2025-12-31",
     "role": "Data Engineer",
     "insight_type": "action_recommendation",
-    "insights_generated": 3,
-    "estimated_time_saved_minutes": 15,
-    "user_rating": null
-  },
-  {
-    "metric_id": "2a00f09b",
-    "date": "2026-01-03",
-    "role": "ML Engineer",
-    "insight_type": "risk_detection",
     "insights_generated": 9,
-    "estimated_time_saved_minutes": 108,
-    "user_rating": null
-  },
-  {
-    "metric_id": "ca830cc2",
-    "date": "2026-01-03",
-    "role": "Delivery Manager",
-    "insight_type": "theme_extraction",
-    "insights_generated": 7,
-    "estimated_time_saved_minutes": 98,
+    "estimated_time_saved_minutes": 72,
     "user_rating": 5
   },
   {
-    "metric_id": "6e003e3a",
-    "date": "2026-01-04",
-    "role": "Solutions Architect",
-    "insight_type": "risk_detection",
+    "metric_id": "5bcb573d",
+    "date": "2025-12-31",
+    "role": "ML Engineer",
+    "insight_type": "health_summary",
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 77,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "ea40b36f",
+    "date": "2025-12-31",
+    "role": "Delivery Manager",
+    "insight_type": "theme_extraction",
     "insights_generated": 10,
     "estimated_time_saved_minutes": 100,
     "user_rating": 5
   },
   {
-    "metric_id": "f3cc8073",
-    "date": "2026-01-04",
-    "role": "Data Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 2,
-    "estimated_time_saved_minutes": 14,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "8d6fcf97",
-    "date": "2026-01-04",
-    "role": "ML Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 11,
-    "estimated_time_saved_minutes": 66,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "c0d9dd13",
-    "date": "2026-01-04",
-    "role": "Delivery Manager",
-    "insight_type": "action_recommendation",
-    "insights_generated": 10,
-    "estimated_time_saved_minutes": 140,
+    "metric_id": "6dd1b900",
+    "date": "2026-01-01",
+    "role": "Solutions Architect",
+    "insight_type": "theme_extraction",
+    "insights_generated": 13,
+    "estimated_time_saved_minutes": 117,
     "user_rating": null
   },
   {
-    "metric_id": "b5020d45",
-    "date": "2026-01-05",
-    "role": "Solutions Architect",
-    "insight_type": "theme_extraction",
+    "metric_id": "8af01ddb",
+    "date": "2026-01-01",
+    "role": "Data Engineer",
+    "insight_type": "health_summary",
     "insights_generated": 8,
     "estimated_time_saved_minutes": 112,
     "user_rating": 4
   },
   {
-    "metric_id": "28fe9d3d",
-    "date": "2026-01-05",
-    "role": "Data Engineer",
-    "insight_type": "theme_extraction",
-    "insights_generated": 6,
-    "estimated_time_saved_minutes": 48,
-    "user_rating": 4
-  },
-  {
-    "metric_id": "432f3c2c",
-    "date": "2026-01-05",
+    "metric_id": "5d2d7792",
+    "date": "2026-01-01",
     "role": "ML Engineer",
-    "insight_type": "action_recommendation",
-    "insights_generated": 8,
-    "estimated_time_saved_minutes": 56,
-    "user_rating": 4
-  },
-  {
-    "metric_id": "254b89cc",
-    "date": "2026-01-05",
-    "role": "Delivery Manager",
     "insight_type": "risk_detection",
-    "insights_generated": 11,
-    "estimated_time_saved_minutes": 143,
-    "user_rating": 4
-  },
-  {
-    "metric_id": "3c13008f",
-    "date": "2026-01-06",
-    "role": "Solutions Architect",
-    "insight_type": "health_summary",
     "insights_generated": 10,
-    "estimated_time_saved_minutes": 60,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "dc54e728",
-    "date": "2026-01-06",
-    "role": "Data Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 5,
-    "estimated_time_saved_minutes": 75,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "1acfd0c6",
-    "date": "2026-01-06",
-    "role": "ML Engineer",
-    "insight_type": "health_summary",
-    "insights_generated": 5,
-    "estimated_time_saved_minutes": 65,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "0d7d4b66",
-    "date": "2026-01-06",
-    "role": "Delivery Manager",
-    "insight_type": "theme_extraction",
-    "insights_generated": 9,
-    "estimated_time_saved_minutes": 135,
-    "user_rating": null
-  },
-  {
-    "metric_id": "10ad4bf3",
-    "date": "2026-01-07",
-    "role": "Solutions Architect",
-    "insight_type": "action_recommendation",
-    "insights_generated": 8,
-    "estimated_time_saved_minutes": 56,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "90eff623",
-    "date": "2026-01-07",
-    "role": "Data Engineer",
-    "insight_type": "theme_extraction",
-    "insights_generated": 10,
-    "estimated_time_saved_minutes": 90,
-    "user_rating": 4
-  },
-  {
-    "metric_id": "bbfd3631",
-    "date": "2026-01-07",
-    "role": "ML Engineer",
-    "insight_type": "risk_detection",
-    "insights_generated": 8,
     "estimated_time_saved_minutes": 80,
     "user_rating": 5
   },
   {
-    "metric_id": "f4a3571a",
-    "date": "2026-01-07",
+    "metric_id": "fcb8c976",
+    "date": "2026-01-01",
     "role": "Delivery Manager",
     "insight_type": "risk_detection",
-    "insights_generated": 14,
+    "insights_generated": 15,
+    "estimated_time_saved_minutes": 165,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "54657e50",
+    "date": "2026-01-02",
+    "role": "Solutions Architect",
+    "insight_type": "risk_detection",
+    "insights_generated": 7,
     "estimated_time_saved_minutes": 84,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "0a5ef8a8",
+    "date": "2026-01-02",
+    "role": "Data Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 90,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "e475366a",
+    "date": "2026-01-02",
+    "role": "ML Engineer",
+    "insight_type": "health_summary",
+    "insights_generated": 6,
+    "estimated_time_saved_minutes": 72,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "3b3e95e1",
+    "date": "2026-01-02",
+    "role": "Delivery Manager",
+    "insight_type": "theme_extraction",
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 66,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "33e7bb8d",
+    "date": "2026-01-03",
+    "role": "Solutions Architect",
+    "insight_type": "action_recommendation",
+    "insights_generated": 13,
+    "estimated_time_saved_minutes": 91,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "c8e68239",
+    "date": "2026-01-03",
+    "role": "Data Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 35,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "c16952cc",
+    "date": "2026-01-03",
+    "role": "ML Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 35,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "7717a176",
+    "date": "2026-01-03",
+    "role": "Delivery Manager",
+    "insight_type": "risk_detection",
+    "insights_generated": 12,
+    "estimated_time_saved_minutes": 144,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "9a8a4955",
+    "date": "2026-01-04",
+    "role": "Solutions Architect",
+    "insight_type": "theme_extraction",
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 81,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "4e5a42d9",
+    "date": "2026-01-04",
+    "role": "Data Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 45,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "1f636665",
+    "date": "2026-01-04",
+    "role": "ML Engineer",
+    "insight_type": "health_summary",
+    "insights_generated": 10,
+    "estimated_time_saved_minutes": 130,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "319830fb",
+    "date": "2026-01-04",
+    "role": "Delivery Manager",
+    "insight_type": "health_summary",
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 110,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "ca9cd051",
+    "date": "2026-01-05",
+    "role": "Solutions Architect",
+    "insight_type": "action_recommendation",
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 99,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "fb6a51d3",
+    "date": "2026-01-05",
+    "role": "Data Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 6,
+    "estimated_time_saved_minutes": 36,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "244449d9",
+    "date": "2026-01-05",
+    "role": "ML Engineer",
+    "insight_type": "health_summary",
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 50,
     "user_rating": null
   },
   {
-    "metric_id": "c86c0122",
-    "date": "2026-01-08",
-    "role": "Solutions Architect",
-    "insight_type": "risk_detection",
-    "insights_generated": 12,
-    "estimated_time_saved_minutes": 108,
-    "user_rating": 5
-  },
-  {
-    "metric_id": "90d273d3",
-    "date": "2026-01-08",
-    "role": "Data Engineer",
+    "metric_id": "a6c12997",
+    "date": "2026-01-05",
+    "role": "Delivery Manager",
     "insight_type": "action_recommendation",
-    "insights_generated": 8,
-    "estimated_time_saved_minutes": 64,
+    "insights_generated": 14,
+    "estimated_time_saved_minutes": 84,
     "user_rating": 5
   },
   {
-    "metric_id": "ce305cb8",
-    "date": "2026-01-08",
-    "role": "ML Engineer",
-    "insight_type": "theme_extraction",
-    "insights_generated": 3,
+    "metric_id": "80b6f9ac",
+    "date": "2026-01-06",
+    "role": "Solutions Architect",
+    "insight_type": "action_recommendation",
+    "insights_generated": 10,
+    "estimated_time_saved_minutes": 90,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "d4a7821c",
+    "date": "2026-01-06",
+    "role": "Data Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 6,
     "estimated_time_saved_minutes": 42,
     "user_rating": 5
   },
   {
-    "metric_id": "d3112a42",
-    "date": "2026-01-08",
+    "metric_id": "5f3ffed7",
+    "date": "2026-01-06",
+    "role": "ML Engineer",
+    "insight_type": "health_summary",
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 132,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "701b5f3c",
+    "date": "2026-01-06",
     "role": "Delivery Manager",
     "insight_type": "risk_detection",
-    "insights_generated": 14,
-    "estimated_time_saved_minutes": 154,
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 45,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "a77d209c",
+    "date": "2026-01-07",
+    "role": "Solutions Architect",
+    "insight_type": "risk_detection",
+    "insights_generated": 11,
+    "estimated_time_saved_minutes": 55,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "f2b4c0b9",
+    "date": "2026-01-07",
+    "role": "Data Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 3,
+    "estimated_time_saved_minutes": 18,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "9f4ee51d",
+    "date": "2026-01-07",
+    "role": "ML Engineer",
+    "insight_type": "action_recommendation",
+    "insights_generated": 10,
+    "estimated_time_saved_minutes": 120,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "febd9b34",
+    "date": "2026-01-07",
+    "role": "Delivery Manager",
+    "insight_type": "risk_detection",
+    "insights_generated": 7,
+    "estimated_time_saved_minutes": 70,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "e7f92d01",
+    "date": "2026-01-08",
+    "role": "Solutions Architect",
+    "insight_type": "action_recommendation",
+    "insights_generated": 12,
+    "estimated_time_saved_minutes": 96,
+    "user_rating": null
+  },
+  {
+    "metric_id": "e3c91374",
+    "date": "2026-01-08",
+    "role": "Data Engineer",
+    "insight_type": "theme_extraction",
+    "insights_generated": 5,
+    "estimated_time_saved_minutes": 65,
+    "user_rating": null
+  },
+  {
+    "metric_id": "f970ba28",
+    "date": "2026-01-08",
+    "role": "ML Engineer",
+    "insight_type": "theme_extraction",
+    "insights_generated": 3,
+    "estimated_time_saved_minutes": 15,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "89ac2ca2",
+    "date": "2026-01-08",
+    "role": "Delivery Manager",
+    "insight_type": "theme_extraction",
+    "insights_generated": 13,
+    "estimated_time_saved_minutes": 91,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "bd7ddaa2",
+    "date": "2026-01-09",
+    "role": "Solutions Architect",
+    "insight_type": "risk_detection",
+    "insights_generated": 6,
+    "estimated_time_saved_minutes": 90,
+    "user_rating": 4
+  },
+  {
+    "metric_id": "39f7fdfc",
+    "date": "2026-01-09",
+    "role": "Data Engineer",
+    "insight_type": "theme_extraction",
+    "insights_generated": 9,
+    "estimated_time_saved_minutes": 90,
+    "user_rating": 5
+  },
+  {
+    "metric_id": "50130384",
+    "date": "2026-01-09",
+    "role": "ML Engineer",
+    "insight_type": "risk_detection",
+    "insights_generated": 3,
+    "estimated_time_saved_minutes": 24,
+    "user_rating": null
+  },
+  {
+    "metric_id": "994e9c52",
+    "date": "2026-01-09",
+    "role": "Delivery Manager",
+    "insight_type": "action_recommendation",
+    "insights_generated": 8,
+    "estimated_time_saved_minutes": 120,
     "user_rating": 5
   }
 ]

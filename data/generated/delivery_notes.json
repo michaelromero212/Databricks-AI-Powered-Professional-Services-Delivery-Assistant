@@ -1,1146 +1,1306 @@
 [
   {
-    "note_id": "ENG-2024-1872-N01",
-    "engagement_id": "ENG-2024-1872",
+    "note_id": "ENG-2025-9918-N01",
+    "engagement_id": "ENG-2025-9918",
     "author_id": "ps004",
-    "created_at": "2026-02-18 00:00:00",
-    "content": "Production cluster performing well under load testing.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-1872-N02",
-    "engagement_id": "ENG-2024-1872",
-    "author_id": "ps004",
-    "created_at": "2026-02-22 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-1872-N03",
-    "engagement_id": "ENG-2024-1872",
-    "author_id": "ps004",
-    "created_at": "2026-01-20 00:00:00",
-    "content": "Security review pending. May delay production deployment.",
+    "created_at": "2025-12-26 00:00:00",
+    "content": "Dependency on third-party vendor causing delays.",
     "sentiment": "risk"
   },
   {
-    "note_id": "ENG-2024-1872-N04",
-    "engagement_id": "ENG-2024-1872",
+    "note_id": "ENG-2025-9918-N02",
+    "engagement_id": "ENG-2025-9918",
     "author_id": "ps004",
-    "created_at": "2026-02-22 00:00:00",
-    "content": "Mid-project review scheduled for next week.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-1872-N05",
-    "engagement_id": "ENG-2024-1872",
-    "author_id": "ps004",
-    "created_at": "2026-01-26 00:00:00",
-    "content": "Regular sync with customer team. No blockers currently.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-1872-N06",
-    "engagement_id": "ENG-2024-1872",
-    "author_id": "ps004",
-    "created_at": "2026-02-09 00:00:00",
-    "content": "Waiting on customer IT for network configuration.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-1872-N07",
-    "engagement_id": "ENG-2024-1872",
-    "author_id": "ps004",
-    "created_at": "2026-01-26 00:00:00",
+    "created_at": "2026-02-01 00:00:00",
     "content": "Data validation scripts running. Results expected tomorrow.",
     "sentiment": "neutral"
   },
   {
-    "note_id": "ENG-2024-1872-N08",
-    "engagement_id": "ENG-2024-1872",
+    "note_id": "ENG-2025-9918-N03",
+    "engagement_id": "ENG-2025-9918",
     "author_id": "ps004",
-    "created_at": "2026-01-21 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
+    "created_at": "2026-02-04 00:00:00",
+    "content": "Scope creep detected. Customer requesting additional features not in SOW.",
+    "sentiment": "risk"
   },
   {
-    "note_id": "ENG-2024-1872-N09",
-    "engagement_id": "ENG-2024-1872",
+    "note_id": "ENG-2025-9918-N04",
+    "engagement_id": "ENG-2025-9918",
     "author_id": "ps004",
-    "created_at": "2026-02-24 00:00:00",
-    "content": "Dependency on third-party vendor causing delays.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-1872-N10",
-    "engagement_id": "ENG-2024-1872",
-    "author_id": "ps004",
-    "created_at": "2026-02-26 00:00:00",
-    "content": "Regular sync with customer team. No blockers currently.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-1872-N11",
-    "engagement_id": "ENG-2024-1872",
-    "author_id": "ps004",
-    "created_at": "2026-01-09 00:00:00",
-    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-1872-N12",
-    "engagement_id": "ENG-2024-1872",
-    "author_id": "ps004",
-    "created_at": "2026-02-18 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-1872-N13",
-    "engagement_id": "ENG-2024-1872",
-    "author_id": "ps004",
-    "created_at": "2026-02-12 00:00:00",
-    "content": "Customer team is highly engaged and technical. Good progress on Knowledge Transfer.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-1872-N14",
-    "engagement_id": "ENG-2024-1872",
-    "author_id": "ps004",
-    "created_at": "2026-02-13 00:00:00",
-    "content": "Security review pending. May delay production deployment.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2025-8422-N01",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2025-12-07 00:00:00",
-    "content": "Completed Data Modeling ahead of schedule. Customer expressed satisfaction with the approach.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-8422-N02",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2026-01-14 00:00:00",
-    "content": "Dependency on third-party vendor causing delays.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2025-8422-N03",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2025-12-04 00:00:00",
-    "content": "Mid-project review scheduled for next week.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2025-8422-N04",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2026-01-12 00:00:00",
-    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-8422-N05",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2025-12-29 00:00:00",
-    "content": "Data quality issues found in source systems. Additional cleansing required.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2025-8422-N06",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2026-01-15 00:00:00",
-    "content": "Key stakeholder unavailable this week. May impact timeline.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2025-8422-N07",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2026-01-24 00:00:00",
-    "content": "Production cluster performing well under load testing.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-8422-N08",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2026-01-14 00:00:00",
-    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-8422-N09",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2025-12-19 00:00:00",
-    "content": "Production cluster performing well under load testing.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-8422-N10",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2026-01-15 00:00:00",
-    "content": "Regular sync with customer team. No blockers currently.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2025-8422-N11",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2025-12-24 00:00:00",
-    "content": "Customer team is highly engaged and technical. Good progress on Data Assessment.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-8422-N12",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2026-01-11 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-8422-N13",
-    "engagement_id": "ENG-2025-8422",
-    "author_id": "ps005",
-    "created_at": "2025-12-19 00:00:00",
-    "content": "Customer team resource constraints. Training velocity slower than planned.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-7999-N01",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-02-18 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-7999-N02",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-02-16 00:00:00",
-    "content": "Completed Data Modeling ahead of schedule. Customer expressed satisfaction with the approach.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-7999-N03",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-02-11 00:00:00",
-    "content": "Security review pending. May delay production deployment.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-7999-N04",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-02-15 00:00:00",
-    "content": "Customer team resource constraints. Training velocity slower than planned.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-7999-N05",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-01-25 00:00:00",
+    "created_at": "2026-02-03 00:00:00",
     "content": "Technical debt in legacy systems causing migration challenges.",
     "sentiment": "risk"
   },
   {
-    "note_id": "ENG-2024-7999-N06",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-02-13 00:00:00",
+    "note_id": "ENG-2025-9918-N05",
+    "engagement_id": "ENG-2025-9918",
+    "author_id": "ps004",
+    "created_at": "2026-01-02 00:00:00",
+    "content": "Waiting on customer IT for network configuration.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-9918-N06",
+    "engagement_id": "ENG-2025-9918",
+    "author_id": "ps004",
+    "created_at": "2026-01-01 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-9918-N07",
+    "engagement_id": "ENG-2025-9918",
+    "author_id": "ps004",
+    "created_at": "2026-02-06 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Architecture Design.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-9918-N08",
+    "engagement_id": "ENG-2025-9918",
+    "author_id": "ps004",
+    "created_at": "2026-02-21 00:00:00",
+    "content": "Regular sync with customer team. No blockers currently.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-7499-N01",
+    "engagement_id": "ENG-2024-7499",
+    "author_id": "ps005",
+    "created_at": "2026-02-02 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Performance Tuning.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-7499-N02",
+    "engagement_id": "ENG-2024-7499",
+    "author_id": "ps005",
+    "created_at": "2026-01-15 00:00:00",
     "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2024-7999-N07",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-02-16 00:00:00",
+    "note_id": "ENG-2024-7499-N03",
+    "engagement_id": "ENG-2024-7499",
+    "author_id": "ps005",
+    "created_at": "2026-01-31 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-7499-N04",
+    "engagement_id": "ENG-2024-7499",
+    "author_id": "ps005",
+    "created_at": "2026-02-06 00:00:00",
+    "content": "Working through ETL Pipeline Development. On track for milestone deadline.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-7499-N05",
+    "engagement_id": "ENG-2024-7499",
+    "author_id": "ps005",
+    "created_at": "2026-02-18 00:00:00",
+    "content": "Executive sponsor actively involved. Strong organizational support.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-7499-N06",
+    "engagement_id": "ENG-2024-7499",
+    "author_id": "ps005",
+    "created_at": "2026-02-12 00:00:00",
     "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2024-7999-N08",
-    "engagement_id": "ENG-2024-7999",
+    "note_id": "ENG-2024-7499-N07",
+    "engagement_id": "ENG-2024-7499",
+    "author_id": "ps005",
+    "created_at": "2026-02-06 00:00:00",
+    "content": "Security review pending. May delay production deployment.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2024-7499-N08",
+    "engagement_id": "ENG-2024-7499",
+    "author_id": "ps005",
+    "created_at": "2026-01-19 00:00:00",
+    "content": "Data validation scripts running. Results expected tomorrow.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-4734-N01",
+    "engagement_id": "ENG-2025-4734",
     "author_id": "ps007",
+    "created_at": "2026-01-07 00:00:00",
+    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-4734-N02",
+    "engagement_id": "ENG-2025-4734",
+    "author_id": "ps007",
+    "created_at": "2025-12-04 00:00:00",
+    "content": "Data quality better than expected. Migration estimates can be reduced.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-4734-N03",
+    "engagement_id": "ENG-2025-4734",
+    "author_id": "ps007",
+    "created_at": "2025-11-29 00:00:00",
+    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-4734-N04",
+    "engagement_id": "ENG-2025-4734",
+    "author_id": "ps007",
+    "created_at": "2026-01-16 00:00:00",
+    "content": "Customer requesting timeline acceleration. Discussing trade-offs.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-4734-N05",
+    "engagement_id": "ENG-2025-4734",
+    "author_id": "ps007",
+    "created_at": "2026-01-17 00:00:00",
+    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-4734-N06",
+    "engagement_id": "ENG-2025-4734",
+    "author_id": "ps007",
+    "created_at": "2025-12-14 00:00:00",
+    "content": "Data quality issues found in source systems. Additional cleansing required.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-4734-N07",
+    "engagement_id": "ENG-2025-4734",
+    "author_id": "ps007",
+    "created_at": "2025-11-26 00:00:00",
+    "content": "Security review pending. May delay production deployment.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-4734-N08",
+    "engagement_id": "ENG-2025-4734",
+    "author_id": "ps007",
+    "created_at": "2026-01-05 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Testing & Validation.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7755-N01",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-01-29 00:00:00",
+    "content": "Documentation in progress for completed modules.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7755-N02",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-02-02 00:00:00",
+    "content": "Scope creep detected. Customer requesting additional features not in SOW.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-7755-N03",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-02-21 00:00:00",
+    "content": "Documentation in progress for completed modules.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7755-N04",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-02-19 00:00:00",
+    "content": "Waiting on customer IT for network configuration.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7755-N05",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-03-02 00:00:00",
+    "content": "Mid-project review scheduled for next week.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7755-N06",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-03-01 00:00:00",
+    "content": "Data validation scripts running. Results expected tomorrow.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7755-N07",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-03-05 00:00:00",
+    "content": "Executive sponsor actively involved. Strong organizational support.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7755-N08",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-02-16 00:00:00",
+    "content": "Production cluster performing well under load testing.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7755-N09",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-02-07 00:00:00",
+    "content": "Data quality better than expected. Migration estimates can be reduced.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7755-N10",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-02-10 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Testing & Validation.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7755-N11",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-02-01 00:00:00",
+    "content": "Data quality better than expected. Migration estimates can be reduced.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7755-N12",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-03-04 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7755-N13",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-02-27 00:00:00",
+    "content": "Mid-project review scheduled for next week.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7755-N14",
+    "engagement_id": "ENG-2025-7755",
+    "author_id": "ps002",
+    "created_at": "2026-02-15 00:00:00",
+    "content": "Mid-project review scheduled for next week.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-5717-N01",
+    "engagement_id": "ENG-2024-5717",
+    "author_id": "ps008",
+    "created_at": "2026-01-15 00:00:00",
+    "content": "Executive sponsor actively involved. Strong organizational support.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-5717-N02",
+    "engagement_id": "ENG-2024-5717",
+    "author_id": "ps008",
+    "created_at": "2026-01-22 00:00:00",
+    "content": "Waiting on customer IT for network configuration.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-5717-N03",
+    "engagement_id": "ENG-2024-5717",
+    "author_id": "ps008",
+    "created_at": "2026-01-25 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-5717-N04",
+    "engagement_id": "ENG-2024-5717",
+    "author_id": "ps008",
+    "created_at": "2026-01-18 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Requirements Gathering.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-5717-N05",
+    "engagement_id": "ENG-2024-5717",
+    "author_id": "ps008",
+    "created_at": "2026-01-09 00:00:00",
+    "content": "Production cluster performing well under load testing.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-2395-N01",
+    "engagement_id": "ENG-2025-2395",
+    "author_id": "ps005",
+    "created_at": "2026-03-19 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Knowledge Transfer.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-2395-N02",
+    "engagement_id": "ENG-2025-2395",
+    "author_id": "ps005",
+    "created_at": "2026-02-05 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Go-Live Support.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-2395-N03",
+    "engagement_id": "ENG-2025-2395",
+    "author_id": "ps005",
+    "created_at": "2026-03-20 00:00:00",
+    "content": "Data quality issues found in source systems. Additional cleansing required.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-2395-N04",
+    "engagement_id": "ENG-2025-2395",
+    "author_id": "ps005",
+    "created_at": "2026-01-30 00:00:00",
+    "content": "Customer team resource constraints. Training velocity slower than planned.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-2395-N05",
+    "engagement_id": "ENG-2025-2395",
+    "author_id": "ps005",
+    "created_at": "2026-02-02 00:00:00",
+    "content": "Completed Documentation ahead of schedule. Customer expressed satisfaction with the approach.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-2395-N06",
+    "engagement_id": "ENG-2025-2395",
+    "author_id": "ps005",
+    "created_at": "2026-01-21 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Architecture Design.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-6058-N01",
+    "engagement_id": "ENG-2025-6058",
+    "author_id": "ps004",
+    "created_at": "2025-12-19 00:00:00",
+    "content": "Executive sponsor actively involved. Strong organizational support.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-6058-N02",
+    "engagement_id": "ENG-2025-6058",
+    "author_id": "ps004",
+    "created_at": "2025-12-31 00:00:00",
+    "content": "Completed Architecture Design ahead of schedule. Customer expressed satisfaction with the approach.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-6058-N03",
+    "engagement_id": "ENG-2025-6058",
+    "author_id": "ps004",
+    "created_at": "2025-12-28 00:00:00",
+    "content": "Documentation in progress for completed modules.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-6058-N04",
+    "engagement_id": "ENG-2025-6058",
+    "author_id": "ps004",
+    "created_at": "2026-01-10 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-6058-N05",
+    "engagement_id": "ENG-2025-6058",
+    "author_id": "ps004",
+    "created_at": "2025-12-14 00:00:00",
+    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-6058-N06",
+    "engagement_id": "ENG-2025-6058",
+    "author_id": "ps004",
+    "created_at": "2025-12-15 00:00:00",
+    "content": "Scope creep detected. Customer requesting additional features not in SOW.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-6058-N07",
+    "engagement_id": "ENG-2025-6058",
+    "author_id": "ps004",
+    "created_at": "2026-01-24 00:00:00",
+    "content": "Security review pending. May delay production deployment.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-6058-N08",
+    "engagement_id": "ENG-2025-6058",
+    "author_id": "ps004",
+    "created_at": "2026-01-07 00:00:00",
+    "content": "Executive sponsor actively involved. Strong organizational support.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-6058-N09",
+    "engagement_id": "ENG-2025-6058",
+    "author_id": "ps004",
+    "created_at": "2025-12-31 00:00:00",
+    "content": "Completed Data Modeling ahead of schedule. Customer expressed satisfaction with the approach.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-6058-N10",
+    "engagement_id": "ENG-2025-6058",
+    "author_id": "ps004",
+    "created_at": "2026-01-01 00:00:00",
+    "content": "Data validation scripts running. Results expected tomorrow.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-2902-N01",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-02-14 00:00:00",
+    "content": "Data validation scripts running. Results expected tomorrow.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-2902-N02",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-01-30 00:00:00",
+    "content": "Data quality better than expected. Migration estimates can be reduced.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-2902-N03",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-02-20 00:00:00",
+    "content": "Completed Knowledge Transfer ahead of schedule. Customer expressed satisfaction with the approach.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-2902-N04",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-01-19 00:00:00",
+    "content": "Data quality better than expected. Migration estimates can be reduced.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-2902-N05",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-01-15 00:00:00",
+    "content": "Data quality better than expected. Migration estimates can be reduced.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-2902-N06",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-02-11 00:00:00",
+    "content": "Completed Testing & Validation ahead of schedule. Customer expressed satisfaction with the approach.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-2902-N07",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-01-30 00:00:00",
+    "content": "Waiting on customer IT for network configuration.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-2902-N08",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-01-24 00:00:00",
+    "content": "Key stakeholder unavailable this week. May impact timeline.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2024-2902-N09",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-02-20 00:00:00",
+    "content": "Data validation scripts running. Results expected tomorrow.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-2902-N10",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-01-20 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Data Assessment.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-2902-N11",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-01-16 00:00:00",
+    "content": "Documentation in progress for completed modules.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-2902-N12",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-02-06 00:00:00",
+    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-2902-N13",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-02-06 00:00:00",
+    "content": "Mid-project review scheduled for next week.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-2902-N14",
+    "engagement_id": "ENG-2024-2902",
+    "author_id": "ps001",
+    "created_at": "2026-02-14 00:00:00",
+    "content": "Waiting on customer IT for network configuration.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-6254-N01",
+    "engagement_id": "ENG-2024-6254",
+    "author_id": "ps002",
+    "created_at": "2026-02-20 00:00:00",
+    "content": "Mid-project review scheduled for next week.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-6254-N02",
+    "engagement_id": "ENG-2024-6254",
+    "author_id": "ps002",
+    "created_at": "2026-02-17 00:00:00",
+    "content": "Working through Data Modeling. On track for milestone deadline.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-6254-N03",
+    "engagement_id": "ENG-2024-6254",
+    "author_id": "ps002",
+    "created_at": "2026-02-07 00:00:00",
+    "content": "Regular sync with customer team. No blockers currently.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-6254-N04",
+    "engagement_id": "ENG-2024-6254",
+    "author_id": "ps002",
+    "created_at": "2026-02-19 00:00:00",
+    "content": "Data quality issues found in source systems. Additional cleansing required.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2024-6254-N05",
+    "engagement_id": "ENG-2024-6254",
+    "author_id": "ps002",
+    "created_at": "2026-03-08 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Data Modeling.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6254-N06",
+    "engagement_id": "ENG-2024-6254",
+    "author_id": "ps002",
+    "created_at": "2026-03-04 00:00:00",
+    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6254-N07",
+    "engagement_id": "ENG-2024-6254",
+    "author_id": "ps002",
+    "created_at": "2026-03-06 00:00:00",
+    "content": "Production cluster performing well under load testing.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6254-N08",
+    "engagement_id": "ENG-2024-6254",
+    "author_id": "ps002",
+    "created_at": "2026-01-30 00:00:00",
+    "content": "Regular sync with customer team. No blockers currently.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-6254-N09",
+    "engagement_id": "ENG-2024-6254",
+    "author_id": "ps002",
+    "created_at": "2026-03-01 00:00:00",
+    "content": "Regular sync with customer team. No blockers currently.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-6254-N10",
+    "engagement_id": "ENG-2024-6254",
+    "author_id": "ps002",
+    "created_at": "2026-02-02 00:00:00",
+    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-8826-N01",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
+    "created_at": "2026-02-08 00:00:00",
+    "content": "Key stakeholder unavailable this week. May impact timeline.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2024-8826-N02",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
+    "created_at": "2026-01-03 00:00:00",
+    "content": "Documentation in progress for completed modules.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-8826-N03",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
+    "created_at": "2026-02-07 00:00:00",
+    "content": "Data quality better than expected. Migration estimates can be reduced.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-8826-N04",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
+    "created_at": "2026-02-14 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Testing & Validation.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-8826-N05",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
     "created_at": "2026-01-14 00:00:00",
     "content": "Customer requesting timeline acceleration. Discussing trade-offs.",
     "sentiment": "risk"
   },
   {
-    "note_id": "ENG-2024-7999-N09",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-02-21 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-7999-N10",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-02-09 00:00:00",
-    "content": "Integration complexity higher than estimated. Recommend timeline extension.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-7999-N11",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-02-11 00:00:00",
-    "content": "Customer team is highly engaged and technical. Good progress on Documentation.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-7999-N12",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-01-13 00:00:00",
-    "content": "Documentation in progress for completed modules.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-7999-N13",
-    "engagement_id": "ENG-2024-7999",
-    "author_id": "ps007",
-    "created_at": "2026-01-14 00:00:00",
-    "content": "Waiting on customer IT for network configuration.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2025-3597-N01",
-    "engagement_id": "ENG-2025-3597",
-    "author_id": "ps008",
-    "created_at": "2026-01-11 00:00:00",
-    "content": "Security review pending. May delay production deployment.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2025-3597-N02",
-    "engagement_id": "ENG-2025-3597",
-    "author_id": "ps008",
-    "created_at": "2026-01-20 00:00:00",
+    "note_id": "ENG-2024-8826-N06",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
+    "created_at": "2025-12-25 00:00:00",
     "content": "Production cluster performing well under load testing.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2025-3597-N03",
-    "engagement_id": "ENG-2025-3597",
-    "author_id": "ps008",
-    "created_at": "2026-02-17 00:00:00",
-    "content": "Completed ETL Pipeline Development ahead of schedule. Customer expressed satisfaction with the approach.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-3597-N04",
-    "engagement_id": "ENG-2025-3597",
-    "author_id": "ps008",
-    "created_at": "2026-02-07 00:00:00",
-    "content": "Customer team is highly engaged and technical. Good progress on Testing & Validation.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-3597-N05",
-    "engagement_id": "ENG-2025-3597",
-    "author_id": "ps008",
-    "created_at": "2026-02-21 00:00:00",
-    "content": "Customer team resource constraints. Training velocity slower than planned.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2025-3597-N06",
-    "engagement_id": "ENG-2025-3597",
-    "author_id": "ps008",
-    "created_at": "2026-02-04 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-3597-N07",
-    "engagement_id": "ENG-2025-3597",
-    "author_id": "ps008",
-    "created_at": "2026-01-26 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-3597-N08",
-    "engagement_id": "ENG-2025-3597",
-    "author_id": "ps008",
-    "created_at": "2026-02-04 00:00:00",
-    "content": "Documentation in progress for completed modules.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2025-9507-N01",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-01-11 00:00:00",
-    "content": "Customer team is highly engaged and technical. Good progress on Security Implementation.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-9507-N02",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-01-13 00:00:00",
-    "content": "Completed Performance Tuning ahead of schedule. Customer expressed satisfaction with the approach.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-9507-N03",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-01-23 00:00:00",
-    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-9507-N04",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-01-02 00:00:00",
-    "content": "Data quality issues found in source systems. Additional cleansing required.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2025-9507-N05",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-01-09 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-9507-N06",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-01-06 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-9507-N07",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-02-16 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-9507-N08",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-02-02 00:00:00",
-    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-9507-N09",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2025-12-25 00:00:00",
-    "content": "Security review pending. May delay production deployment.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2025-9507-N10",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-01-10 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-9507-N11",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-01-22 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-9507-N12",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-02-10 00:00:00",
-    "content": "Working through Environment Setup. On track for milestone deadline.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2025-9507-N13",
-    "engagement_id": "ENG-2025-9507",
-    "author_id": "ps007",
-    "created_at": "2026-01-24 00:00:00",
-    "content": "Documentation in progress for completed modules.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-8077-N01",
-    "engagement_id": "ENG-2024-8077",
+    "note_id": "ENG-2024-8826-N07",
+    "engagement_id": "ENG-2024-8826",
     "author_id": "ps003",
-    "created_at": "2025-11-30 00:00:00",
+    "created_at": "2026-01-09 00:00:00",
+    "content": "Documentation in progress for completed modules.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-8826-N08",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
+    "created_at": "2026-02-11 00:00:00",
+    "content": "Production cluster performing well under load testing.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-8826-N09",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
+    "created_at": "2026-01-06 00:00:00",
+    "content": "Completed Architecture Design ahead of schedule. Customer expressed satisfaction with the approach.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-8826-N10",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
+    "created_at": "2025-12-30 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Knowledge Transfer.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-8826-N11",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
+    "created_at": "2026-01-11 00:00:00",
+    "content": "Executive sponsor actively involved. Strong organizational support.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-8826-N12",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
+    "created_at": "2026-01-12 00:00:00",
+    "content": "Technical debt in legacy systems causing migration challenges.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2024-8826-N13",
+    "engagement_id": "ENG-2024-8826",
+    "author_id": "ps003",
+    "created_at": "2026-01-13 00:00:00",
     "content": "Regular sync with customer team. No blockers currently.",
     "sentiment": "neutral"
   },
   {
-    "note_id": "ENG-2024-8077-N02",
-    "engagement_id": "ENG-2024-8077",
+    "note_id": "ENG-2024-8826-N14",
+    "engagement_id": "ENG-2024-8826",
     "author_id": "ps003",
-    "created_at": "2025-12-01 00:00:00",
+    "created_at": "2026-01-21 00:00:00",
+    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-8049-N01",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-12-20 00:00:00",
+    "content": "Waiting on customer IT for network configuration.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-8049-N02",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-11-20 00:00:00",
+    "content": "Regular sync with customer team. No blockers currently.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-8049-N03",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-11-18 00:00:00",
+    "content": "Waiting on customer IT for network configuration.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-8049-N04",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-11-29 00:00:00",
+    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-8049-N05",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-11-18 00:00:00",
+    "content": "Waiting on customer IT for network configuration.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-8049-N06",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-12-11 00:00:00",
     "content": "Production cluster performing well under load testing.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2024-8077-N03",
-    "engagement_id": "ENG-2024-8077",
-    "author_id": "ps003",
-    "created_at": "2025-11-27 00:00:00",
-    "content": "Documentation in progress for completed modules.",
+    "note_id": "ENG-2025-8049-N07",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-12-31 00:00:00",
+    "content": "Working through Data Assessment. On track for milestone deadline.",
     "sentiment": "neutral"
   },
   {
-    "note_id": "ENG-2024-8077-N04",
-    "engagement_id": "ENG-2024-8077",
-    "author_id": "ps003",
+    "note_id": "ENG-2025-8049-N08",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-11-30 00:00:00",
+    "content": "Completed Go-Live Support ahead of schedule. Customer expressed satisfaction with the approach.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-8049-N09",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-11-20 00:00:00",
+    "content": "Technical debt in legacy systems causing migration challenges.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-8049-N10",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-12-01 00:00:00",
+    "content": "Scope creep detected. Customer requesting additional features not in SOW.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-8049-N11",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
     "created_at": "2025-11-28 00:00:00",
     "content": "Technical debt in legacy systems causing migration challenges.",
     "sentiment": "risk"
   },
   {
-    "note_id": "ENG-2024-8077-N05",
-    "engagement_id": "ENG-2024-8077",
-    "author_id": "ps003",
-    "created_at": "2026-01-06 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-8077-N06",
-    "engagement_id": "ENG-2024-8077",
-    "author_id": "ps003",
-    "created_at": "2025-12-08 00:00:00",
-    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-8077-N07",
-    "engagement_id": "ENG-2024-8077",
-    "author_id": "ps003",
-    "created_at": "2025-12-03 00:00:00",
-    "content": "Waiting on customer IT for network configuration.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-8077-N08",
-    "engagement_id": "ENG-2024-8077",
-    "author_id": "ps003",
-    "created_at": "2026-01-11 00:00:00",
-    "content": "Scope creep detected. Customer requesting additional features not in SOW.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-8077-N09",
-    "engagement_id": "ENG-2024-8077",
-    "author_id": "ps003",
-    "created_at": "2025-12-10 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-8077-N10",
-    "engagement_id": "ENG-2024-8077",
-    "author_id": "ps003",
-    "created_at": "2025-12-22 00:00:00",
-    "content": "Security review pending. May delay production deployment.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-8077-N11",
-    "engagement_id": "ENG-2024-8077",
-    "author_id": "ps003",
-    "created_at": "2025-11-30 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-8077-N12",
-    "engagement_id": "ENG-2024-8077",
-    "author_id": "ps003",
-    "created_at": "2026-01-11 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-2314-N01",
-    "engagement_id": "ENG-2024-2314",
-    "author_id": "ps008",
-    "created_at": "2026-01-13 00:00:00",
-    "content": "Integration complexity higher than estimated. Recommend timeline extension.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-2314-N02",
-    "engagement_id": "ENG-2024-2314",
-    "author_id": "ps008",
-    "created_at": "2025-12-19 00:00:00",
+    "note_id": "ENG-2025-8049-N12",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-11-18 00:00:00",
     "content": "Customer's existing infrastructure integrates well with Databricks.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2024-2314-N03",
-    "engagement_id": "ENG-2024-2314",
-    "author_id": "ps008",
-    "created_at": "2025-12-18 00:00:00",
-    "content": "Integration complexity higher than estimated. Recommend timeline extension.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-2314-N04",
-    "engagement_id": "ENG-2024-2314",
-    "author_id": "ps008",
-    "created_at": "2025-12-07 00:00:00",
-    "content": "Documentation in progress for completed modules.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-2314-N05",
-    "engagement_id": "ENG-2024-2314",
-    "author_id": "ps008",
-    "created_at": "2026-01-17 00:00:00",
-    "content": "Data validation scripts running. Results expected tomorrow.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-2314-N06",
-    "engagement_id": "ENG-2024-2314",
-    "author_id": "ps008",
-    "created_at": "2025-12-23 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-2314-N07",
-    "engagement_id": "ENG-2024-2314",
-    "author_id": "ps008",
-    "created_at": "2025-12-11 00:00:00",
-    "content": "Mid-project review scheduled for next week.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-2314-N08",
-    "engagement_id": "ENG-2024-2314",
-    "author_id": "ps008",
-    "created_at": "2026-01-25 00:00:00",
-    "content": "Regular sync with customer team. No blockers currently.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-2314-N09",
-    "engagement_id": "ENG-2024-2314",
-    "author_id": "ps008",
-    "created_at": "2025-12-18 00:00:00",
-    "content": "Data quality issues found in source systems. Additional cleansing required.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-5670-N01",
-    "engagement_id": "ENG-2024-5670",
-    "author_id": "ps003",
-    "created_at": "2026-01-22 00:00:00",
-    "content": "Security review pending. May delay production deployment.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-5670-N02",
-    "engagement_id": "ENG-2024-5670",
-    "author_id": "ps003",
-    "created_at": "2026-02-11 00:00:00",
-    "content": "Key stakeholder unavailable this week. May impact timeline.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-5670-N03",
-    "engagement_id": "ENG-2024-5670",
-    "author_id": "ps003",
-    "created_at": "2026-01-13 00:00:00",
-    "content": "Completed Data Modeling ahead of schedule. Customer expressed satisfaction with the approach.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-5670-N04",
-    "engagement_id": "ENG-2024-5670",
-    "author_id": "ps003",
-    "created_at": "2026-01-21 00:00:00",
-    "content": "Production cluster performing well under load testing.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-5670-N05",
-    "engagement_id": "ENG-2024-5670",
-    "author_id": "ps003",
-    "created_at": "2026-01-23 00:00:00",
-    "content": "Technical debt in legacy systems causing migration challenges.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-5670-N06",
-    "engagement_id": "ENG-2024-5670",
-    "author_id": "ps003",
-    "created_at": "2026-02-16 00:00:00",
-    "content": "Customer team is highly engaged and technical. Good progress on Documentation.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-5670-N07",
-    "engagement_id": "ENG-2024-5670",
-    "author_id": "ps003",
-    "created_at": "2026-01-16 00:00:00",
-    "content": "Production cluster performing well under load testing.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-3926-N01",
-    "engagement_id": "ENG-2024-3926",
-    "author_id": "ps006",
-    "created_at": "2026-01-14 00:00:00",
-    "content": "Documentation in progress for completed modules.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-3926-N02",
-    "engagement_id": "ENG-2024-3926",
-    "author_id": "ps006",
-    "created_at": "2025-12-06 00:00:00",
-    "content": "Regular sync with customer team. No blockers currently.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-3926-N03",
-    "engagement_id": "ENG-2024-3926",
-    "author_id": "ps006",
-    "created_at": "2025-12-09 00:00:00",
-    "content": "Documentation in progress for completed modules.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-3926-N04",
-    "engagement_id": "ENG-2024-3926",
-    "author_id": "ps006",
-    "created_at": "2025-12-31 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-3926-N05",
-    "engagement_id": "ENG-2024-3926",
-    "author_id": "ps006",
-    "created_at": "2026-01-11 00:00:00",
-    "content": "Completed ETL Pipeline Development ahead of schedule. Customer expressed satisfaction with the approach.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-3926-N06",
-    "engagement_id": "ENG-2024-3926",
-    "author_id": "ps006",
-    "created_at": "2025-12-08 00:00:00",
-    "content": "Production cluster performing well under load testing.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-3926-N07",
-    "engagement_id": "ENG-2024-3926",
-    "author_id": "ps006",
-    "created_at": "2025-12-16 00:00:00",
-    "content": "Completed Documentation ahead of schedule. Customer expressed satisfaction with the approach.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-3926-N08",
-    "engagement_id": "ENG-2024-3926",
-    "author_id": "ps006",
-    "created_at": "2025-12-16 00:00:00",
-    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-3926-N09",
-    "engagement_id": "ENG-2024-3926",
-    "author_id": "ps006",
-    "created_at": "2025-12-15 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-3926-N10",
-    "engagement_id": "ENG-2024-3926",
-    "author_id": "ps006",
-    "created_at": "2025-12-11 00:00:00",
-    "content": "Dependency on third-party vendor causing delays.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-3926-N11",
-    "engagement_id": "ENG-2024-3926",
-    "author_id": "ps006",
-    "created_at": "2025-12-16 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-7922-N01",
-    "engagement_id": "ENG-2024-7922",
-    "author_id": "ps001",
-    "created_at": "2026-04-11 00:00:00",
-    "content": "Completed Data Modeling ahead of schedule. Customer expressed satisfaction with the approach.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-7922-N02",
-    "engagement_id": "ENG-2024-7922",
-    "author_id": "ps001",
-    "created_at": "2026-03-11 00:00:00",
-    "content": "Customer requesting timeline acceleration. Discussing trade-offs.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-7922-N03",
-    "engagement_id": "ENG-2024-7922",
-    "author_id": "ps001",
-    "created_at": "2026-03-28 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-7922-N04",
-    "engagement_id": "ENG-2024-7922",
-    "author_id": "ps001",
-    "created_at": "2026-03-28 00:00:00",
-    "content": "Documentation in progress for completed modules.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-7922-N05",
-    "engagement_id": "ENG-2024-7922",
-    "author_id": "ps001",
-    "created_at": "2026-04-14 00:00:00",
-    "content": "Customer team is highly engaged and technical. Good progress on Testing & Validation.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-7922-N06",
-    "engagement_id": "ENG-2024-7922",
-    "author_id": "ps001",
-    "created_at": "2026-03-30 00:00:00",
+    "note_id": "ENG-2025-8049-N13",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-12-12 00:00:00",
     "content": "Customer team resource constraints. Training velocity slower than planned.",
     "sentiment": "risk"
   },
   {
-    "note_id": "ENG-2024-8329-N01",
-    "engagement_id": "ENG-2024-8329",
-    "author_id": "ps001",
-    "created_at": "2026-02-28 00:00:00",
-    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-8329-N02",
-    "engagement_id": "ENG-2024-8329",
-    "author_id": "ps001",
-    "created_at": "2026-03-14 00:00:00",
-    "content": "Scope creep detected. Customer requesting additional features not in SOW.",
+    "note_id": "ENG-2025-8049-N14",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-12-25 00:00:00",
+    "content": "Customer requesting timeline acceleration. Discussing trade-offs.",
     "sentiment": "risk"
   },
   {
-    "note_id": "ENG-2024-8329-N03",
-    "engagement_id": "ENG-2024-8329",
-    "author_id": "ps001",
-    "created_at": "2026-02-25 00:00:00",
-    "content": "Dependency on third-party vendor causing delays.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-8329-N04",
-    "engagement_id": "ENG-2024-8329",
-    "author_id": "ps001",
-    "created_at": "2026-03-22 00:00:00",
+    "note_id": "ENG-2025-8049-N15",
+    "engagement_id": "ENG-2025-8049",
+    "author_id": "ps007",
+    "created_at": "2025-12-24 00:00:00",
     "content": "Customer team is highly engaged and technical. Good progress on Requirements Gathering.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2024-8329-N05",
-    "engagement_id": "ENG-2024-8329",
-    "author_id": "ps001",
-    "created_at": "2026-02-26 00:00:00",
-    "content": "Customer team is highly engaged and technical. Good progress on Go-Live Support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-8329-N06",
-    "engagement_id": "ENG-2024-8329",
-    "author_id": "ps001",
-    "created_at": "2026-03-17 00:00:00",
-    "content": "Regular sync with customer team. No blockers currently.",
+    "note_id": "ENG-2025-5473-N01",
+    "engagement_id": "ENG-2025-5473",
+    "author_id": "ps008",
+    "created_at": "2026-01-29 00:00:00",
+    "content": "Documentation in progress for completed modules.",
     "sentiment": "neutral"
   },
   {
-    "note_id": "ENG-2024-8329-N07",
-    "engagement_id": "ENG-2024-8329",
-    "author_id": "ps001",
-    "created_at": "2026-03-19 00:00:00",
-    "content": "Data quality issues found in source systems. Additional cleansing required.",
+    "note_id": "ENG-2025-5473-N02",
+    "engagement_id": "ENG-2025-5473",
+    "author_id": "ps008",
+    "created_at": "2026-02-15 00:00:00",
+    "content": "Key stakeholder unavailable this week. May impact timeline.",
     "sentiment": "risk"
   },
   {
-    "note_id": "ENG-2024-8693-N01",
-    "engagement_id": "ENG-2024-8693",
+    "note_id": "ENG-2025-5473-N03",
+    "engagement_id": "ENG-2025-5473",
     "author_id": "ps008",
-    "created_at": "2026-02-18 00:00:00",
-    "content": "Customer team is highly engaged and technical. Good progress on Environment Setup.",
+    "created_at": "2026-02-13 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2024-8693-N02",
-    "engagement_id": "ENG-2024-8693",
+    "note_id": "ENG-2025-5473-N04",
+    "engagement_id": "ENG-2025-5473",
     "author_id": "ps008",
-    "created_at": "2026-02-16 00:00:00",
-    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
+    "created_at": "2026-01-21 00:00:00",
+    "content": "Executive sponsor actively involved. Strong organizational support.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2024-8693-N03",
-    "engagement_id": "ENG-2024-8693",
+    "note_id": "ENG-2025-5473-N05",
+    "engagement_id": "ENG-2025-5473",
     "author_id": "ps008",
-    "created_at": "2026-02-19 00:00:00",
-    "content": "Scope creep detected. Customer requesting additional features not in SOW.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-8693-N04",
-    "engagement_id": "ENG-2024-8693",
-    "author_id": "ps008",
-    "created_at": "2026-01-26 00:00:00",
-    "content": "Dependency on third-party vendor causing delays.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-8693-N05",
-    "engagement_id": "ENG-2024-8693",
-    "author_id": "ps008",
-    "created_at": "2026-01-18 00:00:00",
-    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
+    "created_at": "2026-02-07 00:00:00",
+    "content": "Production cluster performing well under load testing.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2024-8693-N06",
-    "engagement_id": "ENG-2024-8693",
+    "note_id": "ENG-2025-5473-N06",
+    "engagement_id": "ENG-2025-5473",
     "author_id": "ps008",
-    "created_at": "2026-02-21 00:00:00",
-    "content": "Regular sync with customer team. No blockers currently.",
+    "created_at": "2026-02-11 00:00:00",
+    "content": "Mid-project review scheduled for next week.",
     "sentiment": "neutral"
   },
   {
-    "note_id": "ENG-2024-8693-N07",
-    "engagement_id": "ENG-2024-8693",
+    "note_id": "ENG-2025-5473-N07",
+    "engagement_id": "ENG-2025-5473",
     "author_id": "ps008",
-    "created_at": "2026-01-09 00:00:00",
+    "created_at": "2026-02-06 00:00:00",
     "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2024-8693-N08",
-    "engagement_id": "ENG-2024-8693",
+    "note_id": "ENG-2025-5473-N08",
+    "engagement_id": "ENG-2025-5473",
     "author_id": "ps008",
-    "created_at": "2026-02-23 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
+    "created_at": "2026-01-31 00:00:00",
+    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2024-8693-N09",
-    "engagement_id": "ENG-2024-8693",
+    "note_id": "ENG-2025-5473-N09",
+    "engagement_id": "ENG-2025-5473",
     "author_id": "ps008",
-    "created_at": "2026-01-17 00:00:00",
+    "created_at": "2026-02-14 00:00:00",
+    "content": "Completed Environment Setup ahead of schedule. Customer expressed satisfaction with the approach.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-5473-N10",
+    "engagement_id": "ENG-2025-5473",
+    "author_id": "ps008",
+    "created_at": "2026-02-17 00:00:00",
     "content": "Working through Security Implementation. On track for milestone deadline.",
     "sentiment": "neutral"
   },
   {
-    "note_id": "ENG-2025-5985-N01",
-    "engagement_id": "ENG-2025-5985",
-    "author_id": "ps005",
-    "created_at": "2026-02-09 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
+    "note_id": "ENG-2025-5473-N11",
+    "engagement_id": "ENG-2025-5473",
+    "author_id": "ps008",
+    "created_at": "2026-01-26 00:00:00",
+    "content": "Production cluster performing well under load testing.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2025-5985-N02",
-    "engagement_id": "ENG-2025-5985",
-    "author_id": "ps005",
-    "created_at": "2025-12-17 00:00:00",
-    "content": "Customer team is highly engaged and technical. Good progress on Go-Live Support.",
-    "sentiment": "positive"
+    "note_id": "ENG-2025-5473-N12",
+    "engagement_id": "ENG-2025-5473",
+    "author_id": "ps008",
+    "created_at": "2026-02-15 00:00:00",
+    "content": "Regular sync with customer team. No blockers currently.",
+    "sentiment": "neutral"
   },
   {
-    "note_id": "ENG-2025-5985-N03",
-    "engagement_id": "ENG-2025-5985",
-    "author_id": "ps005",
-    "created_at": "2026-01-14 00:00:00",
-    "content": "Customer's existing infrastructure integrates well with Databricks.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-5985-N04",
-    "engagement_id": "ENG-2025-5985",
-    "author_id": "ps005",
-    "created_at": "2026-02-07 00:00:00",
-    "content": "Customer's existing infrastructure integrates well with Databricks.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-5985-N05",
-    "engagement_id": "ENG-2025-5985",
-    "author_id": "ps005",
-    "created_at": "2026-01-04 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-5985-N06",
-    "engagement_id": "ENG-2025-5985",
-    "author_id": "ps005",
+    "note_id": "ENG-2025-5473-N13",
+    "engagement_id": "ENG-2025-5473",
+    "author_id": "ps008",
     "created_at": "2026-02-01 00:00:00",
     "content": "Technical debt in legacy systems causing migration challenges.",
     "sentiment": "risk"
   },
   {
-    "note_id": "ENG-2025-5985-N07",
-    "engagement_id": "ENG-2025-5985",
-    "author_id": "ps005",
-    "created_at": "2026-02-10 00:00:00",
-    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-8560-N01",
-    "engagement_id": "ENG-2024-8560",
-    "author_id": "ps006",
-    "created_at": "2025-12-13 00:00:00",
-    "content": "Production cluster performing well under load testing.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-8560-N02",
-    "engagement_id": "ENG-2024-8560",
-    "author_id": "ps006",
-    "created_at": "2025-12-24 00:00:00",
-    "content": "Customer requesting timeline acceleration. Discussing trade-offs.",
-    "sentiment": "risk"
-  },
-  {
-    "note_id": "ENG-2024-8560-N03",
-    "engagement_id": "ENG-2024-8560",
-    "author_id": "ps006",
-    "created_at": "2025-12-15 00:00:00",
-    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-8560-N04",
-    "engagement_id": "ENG-2024-8560",
-    "author_id": "ps006",
-    "created_at": "2025-12-18 00:00:00",
-    "content": "Working through Environment Setup. On track for milestone deadline.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2024-8560-N05",
-    "engagement_id": "ENG-2024-8560",
-    "author_id": "ps006",
-    "created_at": "2026-01-09 00:00:00",
-    "content": "Completed Data Assessment ahead of schedule. Customer expressed satisfaction with the approach.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2024-8560-N06",
-    "engagement_id": "ENG-2024-8560",
-    "author_id": "ps006",
-    "created_at": "2026-01-05 00:00:00",
-    "content": "Data quality better than expected. Migration estimates can be reduced.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-4947-N01",
-    "engagement_id": "ENG-2025-4947",
-    "author_id": "ps005",
-    "created_at": "2026-01-25 00:00:00",
-    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-4947-N02",
-    "engagement_id": "ENG-2025-4947",
-    "author_id": "ps005",
-    "created_at": "2026-01-16 00:00:00",
-    "content": "Mid-project review scheduled for next week.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2025-4947-N03",
-    "engagement_id": "ENG-2025-4947",
-    "author_id": "ps005",
-    "created_at": "2026-01-25 00:00:00",
-    "content": "Working through Environment Setup. On track for milestone deadline.",
-    "sentiment": "neutral"
-  },
-  {
-    "note_id": "ENG-2025-4947-N04",
-    "engagement_id": "ENG-2025-4947",
-    "author_id": "ps005",
-    "created_at": "2025-12-10 00:00:00",
-    "content": "Executive sponsor actively involved. Strong organizational support.",
-    "sentiment": "positive"
-  },
-  {
-    "note_id": "ENG-2025-4947-N05",
-    "engagement_id": "ENG-2025-4947",
-    "author_id": "ps005",
+    "note_id": "ENG-2025-5473-N14",
+    "engagement_id": "ENG-2025-5473",
+    "author_id": "ps008",
     "created_at": "2026-01-26 00:00:00",
     "content": "Production cluster performing well under load testing.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2025-4947-N06",
-    "engagement_id": "ENG-2025-4947",
+    "note_id": "ENG-2025-5473-N15",
+    "engagement_id": "ENG-2025-5473",
+    "author_id": "ps008",
+    "created_at": "2026-02-16 00:00:00",
+    "content": "Data validation scripts running. Results expected tomorrow.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7492-N01",
+    "engagement_id": "ENG-2025-7492",
     "author_id": "ps005",
-    "created_at": "2025-12-17 00:00:00",
+    "created_at": "2026-01-20 00:00:00",
+    "content": "Data validation scripts running. Results expected tomorrow.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7492-N02",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-01-31 00:00:00",
+    "content": "Regular sync with customer team. No blockers currently.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7492-N03",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-02-28 00:00:00",
+    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7492-N04",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-02-22 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7492-N05",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-01-19 00:00:00",
+    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7492-N06",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-02-21 00:00:00",
+    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7492-N07",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-02-04 00:00:00",
+    "content": "Customer requesting timeline acceleration. Discussing trade-offs.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-7492-N08",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-01-30 00:00:00",
+    "content": "Documentation in progress for completed modules.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7492-N09",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-02-21 00:00:00",
+    "content": "Executive sponsor actively involved. Strong organizational support.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7492-N10",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-01-18 00:00:00",
+    "content": "Working through Testing & Validation. On track for milestone deadline.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7492-N11",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-03-01 00:00:00",
+    "content": "Executive sponsor actively involved. Strong organizational support.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7492-N12",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-03-01 00:00:00",
+    "content": "Security review pending. May delay production deployment.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-7492-N13",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-01-31 00:00:00",
+    "content": "Documentation in progress for completed modules.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-7492-N14",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-03-01 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Testing & Validation.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-7492-N15",
+    "engagement_id": "ENG-2025-7492",
+    "author_id": "ps005",
+    "created_at": "2026-01-26 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Documentation.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-2014-N01",
+    "engagement_id": "ENG-2025-2014",
+    "author_id": "ps004",
+    "created_at": "2026-02-20 00:00:00",
+    "content": "Customer team is highly engaged and technical. Good progress on Performance Tuning.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-2014-N02",
+    "engagement_id": "ENG-2025-2014",
+    "author_id": "ps004",
+    "created_at": "2026-01-30 00:00:00",
+    "content": "Production cluster performing well under load testing.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-2014-N03",
+    "engagement_id": "ENG-2025-2014",
+    "author_id": "ps004",
+    "created_at": "2026-01-27 00:00:00",
+    "content": "Regular sync with customer team. No blockers currently.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-2014-N04",
+    "engagement_id": "ENG-2025-2014",
+    "author_id": "ps004",
+    "created_at": "2026-02-23 00:00:00",
     "content": "Data quality better than expected. Migration estimates can be reduced.",
     "sentiment": "positive"
   },
   {
-    "note_id": "ENG-2025-4947-N07",
-    "engagement_id": "ENG-2025-4947",
-    "author_id": "ps005",
-    "created_at": "2025-12-25 00:00:00",
+    "note_id": "ENG-2025-2014-N05",
+    "engagement_id": "ENG-2025-2014",
+    "author_id": "ps004",
+    "created_at": "2026-03-18 00:00:00",
+    "content": "Mid-project review scheduled for next week.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2025-2014-N06",
+    "engagement_id": "ENG-2025-2014",
+    "author_id": "ps004",
+    "created_at": "2026-01-28 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2025-2014-N07",
+    "engagement_id": "ENG-2025-2014",
+    "author_id": "ps004",
+    "created_at": "2026-01-26 00:00:00",
+    "content": "Data quality issues found in source systems. Additional cleansing required.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2025-2014-N08",
+    "engagement_id": "ENG-2025-2014",
+    "author_id": "ps004",
+    "created_at": "2026-03-08 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6399-N01",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-02-05 00:00:00",
+    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6399-N02",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-02-17 00:00:00",
+    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6399-N03",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-02-02 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6399-N04",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-02-03 00:00:00",
     "content": "Waiting on customer IT for network configuration.",
     "sentiment": "neutral"
   },
   {
-    "note_id": "ENG-2025-4947-N08",
-    "engagement_id": "ENG-2025-4947",
-    "author_id": "ps005",
-    "created_at": "2026-01-15 00:00:00",
-    "content": "Customer team is highly engaged and technical. Good progress on Requirements Gathering.",
+    "note_id": "ENG-2024-6399-N05",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-02-07 00:00:00",
+    "content": "Team ramping up quickly on platform features. Minimal hand-holding needed.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6399-N06",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-03-02 00:00:00",
+    "content": "Waiting on customer IT for network configuration.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-6399-N07",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-03-18 00:00:00",
+    "content": "Documentation in progress for completed modules.",
+    "sentiment": "neutral"
+  },
+  {
+    "note_id": "ENG-2024-6399-N08",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-03-23 00:00:00",
+    "content": "Successful workshop with stakeholders. Clear alignment on next steps.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6399-N09",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-03-16 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6399-N10",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-02-20 00:00:00",
+    "content": "Executive sponsor actively involved. Strong organizational support.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6399-N11",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-02-27 00:00:00",
+    "content": "Customer requesting timeline acceleration. Discussing trade-offs.",
+    "sentiment": "risk"
+  },
+  {
+    "note_id": "ENG-2024-6399-N12",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-02-09 00:00:00",
+    "content": "Customer's existing infrastructure integrates well with Databricks.",
+    "sentiment": "positive"
+  },
+  {
+    "note_id": "ENG-2024-6399-N13",
+    "engagement_id": "ENG-2024-6399",
+    "author_id": "ps001",
+    "created_at": "2026-02-09 00:00:00",
+    "content": "Executive sponsor actively involved. Strong organizational support.",
     "sentiment": "positive"
   }
 ]

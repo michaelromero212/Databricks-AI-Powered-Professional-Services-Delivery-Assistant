@@ -1,349 +1,279 @@
 [
   {
-    "engagement_id": "ENG-2024-1872",
+    "engagement_id": "ENG-2025-9918",
     "customer_name": "Acme Financial Services",
-    "engagement_type": "Delta Lake Implementation",
-    "start_date": "2026-01-09",
-    "end_date": "2026-05-29",
+    "engagement_type": "Data Lake Implementation",
+    "start_date": "2025-12-25",
+    "end_date": "2026-04-30",
     "status": "Active",
-    "health_score": 85,
+    "health_score": 66,
     "owner_id": "ps004",
     "owner_name": "David Kim",
     "team_members": [
       {
+        "id": "ps006",
+        "name": "James Wilson",
+        "role": "Data Engineer"
+      },
+      {
         "id": "ps002",
         "name": "Marcus Johnson",
         "role": "Lead Data Engineer"
-      },
-      {
-        "id": "ps005",
-        "name": "Rachel Thompson",
-        "role": "Delivery Manager"
       }
     ],
-    "contract_value": 460000,
-    "created_at": "2026-01-02 13:36:53"
+    "contract_value": 319000,
+    "created_at": "2025-12-15 09:33:29"
   },
   {
-    "engagement_id": "ENG-2025-8422",
+    "engagement_id": "ENG-2024-7499",
     "customer_name": "TechVentures Inc",
-    "engagement_type": "Data Lake Implementation",
-    "start_date": "2025-11-29",
-    "end_date": "2026-02-21",
-    "status": "Active",
-    "health_score": 50,
+    "engagement_type": "ML Platform Setup",
+    "start_date": "2026-01-07",
+    "end_date": "2026-04-22",
+    "status": "At Risk",
+    "health_score": 27,
     "owner_id": "ps005",
     "owner_name": "Rachel Thompson",
     "team_members": [
       {
+        "id": "ps001",
+        "name": "Sarah Chen",
+        "role": "Senior Solutions Architect"
+      },
+      {
+        "id": "ps002",
+        "name": "Marcus Johnson",
+        "role": "Lead Data Engineer"
+      },
+      {
         "id": "ps004",
         "name": "David Kim",
         "role": "Solutions Architect"
-      },
-      {
-        "id": "ps008",
-        "name": "Michael Brown",
-        "role": "Solutions Architect"
       }
     ],
-    "contract_value": 150000,
-    "created_at": "2025-11-18 13:36:53"
+    "contract_value": 344000,
+    "created_at": "2025-12-10 09:33:29"
   },
   {
-    "engagement_id": "ENG-2024-7999",
+    "engagement_id": "ENG-2025-4734",
     "customer_name": "Global Retail Partners",
-    "engagement_type": "ML Platform Setup",
-    "start_date": "2026-01-13",
-    "end_date": "2026-06-30",
-    "status": "Not Started",
-    "health_score": null,
-    "owner_id": "ps007",
-    "owner_name": "Priya Patel",
-    "team_members": [
-      {
-        "id": "ps008",
-        "name": "Michael Brown",
-        "role": "Solutions Architect"
-      },
-      {
-        "id": "ps006",
-        "name": "James Wilson",
-        "role": "Data Engineer"
-      },
-      {
-        "id": "ps005",
-        "name": "Rachel Thompson",
-        "role": "Delivery Manager"
-      },
-      {
-        "id": "ps003",
-        "name": "Emily Rodriguez",
-        "role": "ML Engineer"
-      }
-    ],
-    "contract_value": 223000,
-    "created_at": "2025-12-24 13:36:53"
-  },
-  {
-    "engagement_id": "ENG-2025-3597",
-    "customer_name": "HealthFirst Analytics",
-    "engagement_type": "Data Governance",
-    "start_date": "2026-01-09",
-    "end_date": "2026-03-20",
-    "status": "Active",
-    "health_score": 46,
-    "owner_id": "ps008",
-    "owner_name": "Michael Brown",
-    "team_members": [
-      {
-        "id": "ps007",
-        "name": "Priya Patel",
-        "role": "Senior Data Engineer"
-      },
-      {
-        "id": "ps005",
-        "name": "Rachel Thompson",
-        "role": "Delivery Manager"
-      }
-    ],
-    "contract_value": 309000,
-    "created_at": "2025-12-26 13:36:53"
-  },
-  {
-    "engagement_id": "ENG-2025-9507",
-    "customer_name": "Energy Solutions Corp",
-    "engagement_type": "ML Platform Setup",
-    "start_date": "2025-12-25",
-    "end_date": "2026-06-11",
-    "status": "Active",
-    "health_score": 92,
-    "owner_id": "ps007",
-    "owner_name": "Priya Patel",
-    "team_members": [
-      {
-        "id": "ps001",
-        "name": "Sarah Chen",
-        "role": "Senior Solutions Architect"
-      },
-      {
-        "id": "ps008",
-        "name": "Michael Brown",
-        "role": "Solutions Architect"
-      },
-      {
-        "id": "ps006",
-        "name": "James Wilson",
-        "role": "Data Engineer"
-      },
-      {
-        "id": "ps007",
-        "name": "Priya Patel",
-        "role": "Senior Data Engineer"
-      }
-    ],
-    "contract_value": 377000,
-    "created_at": "2025-12-04 13:36:53"
-  },
-  {
-    "engagement_id": "ENG-2024-8077",
-    "customer_name": "Metropolitan Bank",
-    "engagement_type": "Platform Migration",
+    "engagement_type": "Data Lake Implementation",
     "start_date": "2025-11-25",
-    "end_date": "2026-03-17",
-    "status": "At Risk",
-    "health_score": 58,
-    "owner_id": "ps003",
-    "owner_name": "Emily Rodriguez",
+    "end_date": "2026-05-12",
+    "status": "Active",
+    "health_score": 56,
+    "owner_id": "ps007",
+    "owner_name": "Priya Patel",
     "team_members": [
-      {
-        "id": "ps004",
-        "name": "David Kim",
-        "role": "Solutions Architect"
-      },
-      {
-        "id": "ps002",
-        "name": "Marcus Johnson",
-        "role": "Lead Data Engineer"
-      },
-      {
-        "id": "ps003",
-        "name": "Emily Rodriguez",
-        "role": "ML Engineer"
-      }
-    ],
-    "contract_value": 207000,
-    "created_at": "2025-11-18 13:36:53"
-  },
-  {
-    "engagement_id": "ENG-2024-2314",
-    "customer_name": "DataDriven Insurance",
-    "engagement_type": "Unity Catalog Deployment",
-    "start_date": "2025-12-05",
-    "end_date": "2026-04-17",
-    "status": "At Risk",
-    "health_score": 36,
-    "owner_id": "ps008",
-    "owner_name": "Michael Brown",
-    "team_members": [
-      {
-        "id": "ps008",
-        "name": "Michael Brown",
-        "role": "Solutions Architect"
-      },
-      {
-        "id": "ps007",
-        "name": "Priya Patel",
-        "role": "Senior Data Engineer"
-      },
       {
         "id": "ps003",
         "name": "Emily Rodriguez",
         "role": "ML Engineer"
       },
-      {
-        "id": "ps002",
-        "name": "Marcus Johnson",
-        "role": "Lead Data Engineer"
-      }
-    ],
-    "contract_value": 66000,
-    "created_at": "2025-11-16 13:36:53"
-  },
-  {
-    "engagement_id": "ENG-2024-5670",
-    "customer_name": "CloudScale Logistics",
-    "engagement_type": "Real-time Analytics",
-    "start_date": "2025-12-26",
-    "end_date": "2026-05-01",
-    "status": "Active",
-    "health_score": 69,
-    "owner_id": "ps003",
-    "owner_name": "Emily Rodriguez",
-    "team_members": [
-      {
-        "id": "ps002",
-        "name": "Marcus Johnson",
-        "role": "Lead Data Engineer"
-      },
-      {
-        "id": "ps006",
-        "name": "James Wilson",
-        "role": "Data Engineer"
-      },
-      {
-        "id": "ps008",
-        "name": "Michael Brown",
-        "role": "Solutions Architect"
-      }
-    ],
-    "contract_value": 189000,
-    "created_at": "2025-12-05 13:36:53"
-  },
-  {
-    "engagement_id": "ENG-2024-3926",
-    "customer_name": "SmartManufacturing Co",
-    "engagement_type": "Lakehouse Architecture",
-    "start_date": "2025-12-04",
-    "end_date": "2026-02-05",
-    "status": "Active",
-    "health_score": 48,
-    "owner_id": "ps006",
-    "owner_name": "James Wilson",
-    "team_members": [
       {
         "id": "ps005",
         "name": "Rachel Thompson",
         "role": "Delivery Manager"
-      },
-      {
-        "id": "ps003",
-        "name": "Emily Rodriguez",
-        "role": "ML Engineer"
-      },
-      {
-        "id": "ps004",
-        "name": "David Kim",
-        "role": "Solutions Architect"
       }
     ],
-    "contract_value": 276000,
-    "created_at": "2025-11-09 13:36:53"
+    "contract_value": 151000,
+    "created_at": "2025-10-26 09:33:29"
   },
   {
-    "engagement_id": "ENG-2024-7922",
-    "customer_name": "NextGen Pharma",
-    "engagement_type": "Data Governance",
-    "start_date": "2026-02-08",
-    "end_date": "2026-04-19",
+    "engagement_id": "ENG-2025-7755",
+    "customer_name": "HealthFirst Analytics",
+    "engagement_type": "Unity Catalog Deployment",
+    "start_date": "2026-01-29",
+    "end_date": "2026-06-18",
     "status": "Not Started",
     "health_score": null,
-    "owner_id": "ps001",
-    "owner_name": "Sarah Chen",
+    "owner_id": "ps002",
+    "owner_name": "Marcus Johnson",
     "team_members": [
       {
         "id": "ps003",
         "name": "Emily Rodriguez",
         "role": "ML Engineer"
-      },
-      {
-        "id": "ps008",
-        "name": "Michael Brown",
-        "role": "Solutions Architect"
       },
       {
         "id": "ps001",
         "name": "Sarah Chen",
         "role": "Senior Solutions Architect"
-      }
-    ],
-    "contract_value": 214000,
-    "created_at": "2026-01-14 13:36:53"
-  },
-  {
-    "engagement_id": "ENG-2024-8329",
-    "customer_name": "Velocity Trading",
-    "engagement_type": "Real-time Analytics",
-    "start_date": "2026-02-03",
-    "end_date": "2026-04-07",
-    "status": "Not Started",
-    "health_score": null,
-    "owner_id": "ps001",
-    "owner_name": "Sarah Chen",
-    "team_members": [
+      },
       {
-        "id": "ps004",
-        "name": "David Kim",
+        "id": "ps008",
+        "name": "Michael Brown",
         "role": "Solutions Architect"
       },
       {
-        "id": "ps003",
-        "name": "Emily Rodriguez",
-        "role": "ML Engineer"
-      },
-      {
-        "id": "ps005",
-        "name": "Rachel Thompson",
-        "role": "Delivery Manager"
+        "id": "ps006",
+        "name": "James Wilson",
+        "role": "Data Engineer"
       }
     ],
-    "contract_value": 224000,
-    "created_at": "2026-01-04 13:36:53"
+    "contract_value": 127000,
+    "created_at": "2026-01-10 09:33:29"
   },
   {
-    "engagement_id": "ENG-2024-8693",
-    "customer_name": "Insight Media Group",
-    "engagement_type": "Platform Migration",
-    "start_date": "2025-12-29",
-    "end_date": "2026-05-04",
+    "engagement_id": "ENG-2024-5717",
+    "customer_name": "Energy Solutions Corp",
+    "engagement_type": "Unity Catalog Deployment",
+    "start_date": "2025-12-24",
+    "end_date": "2026-05-20",
     "status": "Active",
     "health_score": 95,
     "owner_id": "ps008",
     "owner_name": "Michael Brown",
     "team_members": [
       {
+        "id": "ps002",
+        "name": "Marcus Johnson",
+        "role": "Lead Data Engineer"
+      },
+      {
+        "id": "ps004",
+        "name": "David Kim",
+        "role": "Solutions Architect"
+      }
+    ],
+    "contract_value": 234000,
+    "created_at": "2025-12-07 09:33:29"
+  },
+  {
+    "engagement_id": "ENG-2025-2395",
+    "customer_name": "Metropolitan Bank",
+    "engagement_type": "Real-time Analytics",
+    "start_date": "2026-01-21",
+    "end_date": "2026-05-06",
+    "status": "Not Started",
+    "health_score": null,
+    "owner_id": "ps005",
+    "owner_name": "Rachel Thompson",
+    "team_members": [
+      {
+        "id": "ps007",
+        "name": "Priya Patel",
+        "role": "Senior Data Engineer"
+      },
+      {
+        "id": "ps002",
+        "name": "Marcus Johnson",
+        "role": "Lead Data Engineer"
+      }
+    ],
+    "contract_value": 50000,
+    "created_at": "2025-12-26 09:33:29"
+  },
+  {
+    "engagement_id": "ENG-2025-6058",
+    "customer_name": "DataDriven Insurance",
+    "engagement_type": "Platform Migration",
+    "start_date": "2025-12-14",
+    "end_date": "2026-05-24",
+    "status": "Active",
+    "health_score": 93,
+    "owner_id": "ps004",
+    "owner_name": "David Kim",
+    "team_members": [
+      {
+        "id": "ps001",
+        "name": "Sarah Chen",
+        "role": "Senior Solutions Architect"
+      },
+      {
+        "id": "ps003",
+        "name": "Emily Rodriguez",
+        "role": "ML Engineer"
+      }
+    ],
+    "contract_value": 179000,
+    "created_at": "2025-12-02 09:33:29"
+  },
+  {
+    "engagement_id": "ENG-2024-2902",
+    "customer_name": "CloudScale Logistics",
+    "engagement_type": "Data Lake Implementation",
+    "start_date": "2026-01-15",
+    "end_date": "2026-03-19",
+    "status": "Not Started",
+    "health_score": null,
+    "owner_id": "ps001",
+    "owner_name": "Sarah Chen",
+    "team_members": [
+      {
+        "id": "ps006",
+        "name": "James Wilson",
+        "role": "Data Engineer"
+      },
+      {
+        "id": "ps007",
+        "name": "Priya Patel",
+        "role": "Senior Data Engineer"
+      },
+      {
         "id": "ps005",
         "name": "Rachel Thompson",
         "role": "Delivery Manager"
+      },
+      {
+        "id": "ps003",
+        "name": "Emily Rodriguez",
+        "role": "ML Engineer"
+      }
+    ],
+    "contract_value": 292000,
+    "created_at": "2025-12-19 09:33:29"
+  },
+  {
+    "engagement_id": "ENG-2024-6254",
+    "customer_name": "SmartManufacturing Co",
+    "engagement_type": "Lakehouse Architecture",
+    "start_date": "2026-01-18",
+    "end_date": "2026-06-28",
+    "status": "Not Started",
+    "health_score": null,
+    "owner_id": "ps002",
+    "owner_name": "Marcus Johnson",
+    "team_members": [
+      {
+        "id": "ps006",
+        "name": "James Wilson",
+        "role": "Data Engineer"
+      },
+      {
+        "id": "ps005",
+        "name": "Rachel Thompson",
+        "role": "Delivery Manager"
+      },
+      {
+        "id": "ps004",
+        "name": "David Kim",
+        "role": "Solutions Architect"
+      },
+      {
+        "id": "ps007",
+        "name": "Priya Patel",
+        "role": "Senior Data Engineer"
+      }
+    ],
+    "contract_value": 156000,
+    "created_at": "2025-12-20 09:33:29"
+  },
+  {
+    "engagement_id": "ENG-2024-8826",
+    "customer_name": "NextGen Pharma",
+    "engagement_type": "Lakehouse Architecture",
+    "start_date": "2025-12-25",
+    "end_date": "2026-03-05",
+    "status": "Active",
+    "health_score": 44,
+    "owner_id": "ps003",
+    "owner_name": "Emily Rodriguez",
+    "team_members": [
+      {
+        "id": "ps008",
+        "name": "Michael Brown",
+        "role": "Solutions Architect"
       },
       {
         "id": "ps006",
@@ -351,29 +281,89 @@
         "role": "Data Engineer"
       }
     ],
-    "contract_value": 301000,
-    "created_at": "2025-11-30 13:36:53"
+    "contract_value": 76000,
+    "created_at": "2025-12-02 09:33:29"
   },
   {
-    "engagement_id": "ENG-2025-5985",
+    "engagement_id": "ENG-2025-8049",
+    "customer_name": "Velocity Trading",
+    "engagement_type": "Data Lake Implementation",
+    "start_date": "2025-11-13",
+    "end_date": "2026-04-30",
+    "status": "Active",
+    "health_score": 63,
+    "owner_id": "ps007",
+    "owner_name": "Priya Patel",
+    "team_members": [
+      {
+        "id": "ps008",
+        "name": "Michael Brown",
+        "role": "Solutions Architect"
+      },
+      {
+        "id": "ps003",
+        "name": "Emily Rodriguez",
+        "role": "ML Engineer"
+      },
+      {
+        "id": "ps007",
+        "name": "Priya Patel",
+        "role": "Senior Data Engineer"
+      },
+      {
+        "id": "ps005",
+        "name": "Rachel Thompson",
+        "role": "Delivery Manager"
+      }
+    ],
+    "contract_value": 489000,
+    "created_at": "2025-10-14 09:33:29"
+  },
+  {
+    "engagement_id": "ENG-2025-5473",
+    "customer_name": "Insight Media Group",
+    "engagement_type": "Data Governance",
+    "start_date": "2026-01-19",
+    "end_date": "2026-05-11",
+    "status": "Not Started",
+    "health_score": null,
+    "owner_id": "ps008",
+    "owner_name": "Michael Brown",
+    "team_members": [
+      {
+        "id": "ps001",
+        "name": "Sarah Chen",
+        "role": "Senior Solutions Architect"
+      },
+      {
+        "id": "ps003",
+        "name": "Emily Rodriguez",
+        "role": "ML Engineer"
+      }
+    ],
+    "contract_value": 443000,
+    "created_at": "2025-12-28 09:33:29"
+  },
+  {
+    "engagement_id": "ENG-2025-7492",
     "customer_name": "Pioneer Healthcare",
     "engagement_type": "Data Governance",
-    "start_date": "2025-12-15",
-    "end_date": "2026-03-23",
-    "status": "At Risk",
-    "health_score": 56,
+    "start_date": "2026-01-18",
+    "end_date": "2026-05-17",
+    "status": "Not Started",
+    "health_score": null,
     "owner_id": "ps005",
     "owner_name": "Rachel Thompson",
     "team_members": [
       {
-        "id": "ps006",
-        "name": "James Wilson",
-        "role": "Data Engineer"
+        "id": "ps008",
+        "name": "Michael Brown",
+        "role": "Solutions Architect"
       },
       {
-        "id": "ps007",
-        "name": "Priya Patel",
-        "role": "Senior Data Engineer"
+        "id": "ps004",
+        "name": "David Kim",
+        "role": "Solutions Architect"
       },
       {
         "id": "ps003",
@@ -381,54 +371,49 @@
         "role": "ML Engineer"
       },
       {
-        "id": "ps004",
-        "name": "David Kim",
-        "role": "Solutions Architect"
+        "id": "ps002",
+        "name": "Marcus Johnson",
+        "role": "Lead Data Engineer"
       }
     ],
-    "contract_value": 439000,
-    "created_at": "2025-11-15 13:36:53"
+    "contract_value": 244000,
+    "created_at": "2026-01-01 09:33:29"
   },
   {
-    "engagement_id": "ENG-2024-8560",
+    "engagement_id": "ENG-2025-2014",
     "customer_name": "Quantum Telecom",
-    "engagement_type": "Data Lake Implementation",
-    "start_date": "2025-12-11",
-    "end_date": "2026-03-26",
-    "status": "At Risk",
-    "health_score": 60,
-    "owner_id": "ps006",
-    "owner_name": "James Wilson",
+    "engagement_type": "Real-time Analytics",
+    "start_date": "2026-01-25",
+    "end_date": "2026-05-17",
+    "status": "Not Started",
+    "health_score": null,
+    "owner_id": "ps004",
+    "owner_name": "David Kim",
     "team_members": [
       {
-        "id": "ps004",
-        "name": "David Kim",
-        "role": "Solutions Architect"
+        "id": "ps001",
+        "name": "Sarah Chen",
+        "role": "Senior Solutions Architect"
       },
       {
-        "id": "ps003",
-        "name": "Emily Rodriguez",
-        "role": "ML Engineer"
-      },
-      {
-        "id": "ps005",
-        "name": "Rachel Thompson",
-        "role": "Delivery Manager"
+        "id": "ps002",
+        "name": "Marcus Johnson",
+        "role": "Lead Data Engineer"
       }
     ],
-    "contract_value": 258000,
-    "created_at": "2025-11-19 13:36:53"
+    "contract_value": 154000,
+    "created_at": "2026-01-08 09:33:29"
   },
   {
-    "engagement_id": "ENG-2025-4947",
+    "engagement_id": "ENG-2024-6399",
     "customer_name": "Atlas Supply Chain",
-    "engagement_type": "Platform Migration",
-    "start_date": "2025-12-03",
-    "end_date": "2026-05-13",
-    "status": "Active",
-    "health_score": 61,
-    "owner_id": "ps005",
-    "owner_name": "Rachel Thompson",
+    "engagement_type": "Delta Lake Implementation",
+    "start_date": "2026-02-02",
+    "end_date": "2026-03-30",
+    "status": "Not Started",
+    "health_score": null,
+    "owner_id": "ps001",
+    "owner_name": "Sarah Chen",
     "team_members": [
       {
         "id": "ps007",
@@ -436,9 +421,9 @@
         "role": "Senior Data Engineer"
       },
       {
-        "id": "ps005",
-        "name": "Rachel Thompson",
-        "role": "Delivery Manager"
+        "id": "ps003",
+        "name": "Emily Rodriguez",
+        "role": "ML Engineer"
       },
       {
         "id": "ps006",
@@ -446,7 +431,7 @@
         "role": "Data Engineer"
       }
     ],
-    "contract_value": 280000,
-    "created_at": "2025-11-20 13:36:53"
+    "contract_value": 410000,
+    "created_at": "2026-01-16 09:33:29"
   }
 ]
